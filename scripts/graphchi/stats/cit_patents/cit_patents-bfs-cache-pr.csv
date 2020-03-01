@@ -1,0 +1,550 @@
+PR-Async\n
+# started on Tue Sep 24 10:27:53 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,231,417,658      cache-references                                            
+     1,784,727,822      cache-misses              #   42.178 % of all cache refs    
+
+      11.090609714 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:28:05 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,638,884,929      cache-references                                            
+     2,393,904,454      cache-misses              #   51.605 % of all cache refs    
+
+      16.049273275 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:28:21 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,236,912,355      cache-references                                            
+     1,780,387,893      cache-misses              #   42.021 % of all cache refs    
+
+      11.106209430 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:28:32 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,734,255,778      cache-references                                            
+     2,307,517,429      cache-misses              #   48.741 % of all cache refs    
+
+      12.720619430 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:28:45 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,119,674,124      cache-references                                            
+     1,740,597,233      cache-misses              #   42.251 % of all cache refs    
+
+      11.131381498 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:28:56 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,737,947,407      cache-references                                            
+     2,301,314,503      cache-misses              #   48.572 % of all cache refs    
+
+      12.698429242 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:29:09 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,178,887,010      cache-references                                            
+     1,757,542,270      cache-misses              #   42.058 % of all cache refs    
+
+      11.153621470 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:29:20 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,798,508,280      cache-references                                            
+     2,328,610,182      cache-misses              #   48.528 % of all cache refs    
+
+      12.551383364 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:29:32 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,113,852,670      cache-references                                            
+     1,745,332,463      cache-misses              #   42.426 % of all cache refs    
+
+      11.042275198 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:29:44 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,686,773,363      cache-references                                            
+     2,286,958,010      cache-misses              #   48.796 % of all cache refs    
+
+      12.569419848 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:29:56 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,134,117,501      cache-references                                            
+     1,744,582,508      cache-misses              #   42.200 % of all cache refs    
+
+      11.117716913 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:30:07 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,740,691,590      cache-references                                            
+     2,309,755,197      cache-misses              #   48.722 % of all cache refs    
+
+      12.725116624 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:30:20 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,092,196,327      cache-references                                            
+     1,737,648,814      cache-misses              #   42.462 % of all cache refs    
+
+      11.099888441 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:30:31 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,840,792,755      cache-references                                            
+     2,396,953,176      cache-misses              #   49.516 % of all cache refs    
+
+      13.449166268 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:30:45 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,130,694,393      cache-references                                            
+     1,794,495,498      cache-misses              #   43.443 % of all cache refs    
+
+      12.034684606 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:30:57 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,728,136,167      cache-references                                            
+     2,309,549,568      cache-misses              #   48.847 % of all cache refs    
+
+      12.696826801 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:31:10 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,142,962,321      cache-references                                            
+     1,757,194,859      cache-misses              #   42.414 % of all cache refs    
+
+      11.164485780 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:31:21 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,717,471,039      cache-references                                            
+     2,336,566,064      cache-misses              #   49.530 % of all cache refs    
+
+      13.120636898 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:31:34 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,107,631,298      cache-references                                            
+     1,732,288,705      cache-misses              #   42.172 % of all cache refs    
+
+      11.057243719 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:31:45 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,751,444,756      cache-references                                            
+     2,318,795,105      cache-misses              #   48.802 % of all cache refs    
+
+      12.795282120 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:31:58 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,131,235,343      cache-references                                            
+     1,752,168,253      cache-misses              #   42.413 % of all cache refs    
+
+      11.181911427 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:32:09 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,721,887,673      cache-references                                            
+     2,298,131,513      cache-misses              #   48.670 % of all cache refs    
+
+      12.401703334 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:32:22 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,047,865,696      cache-references                                            
+     1,714,356,253      cache-misses              #   42.352 % of all cache refs    
+
+      11.106449705 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:32:33 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,693,850,554      cache-references                                            
+     2,279,399,370      cache-misses              #   48.561 % of all cache refs    
+
+      12.661079098 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:32:46 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,051,326,058      cache-references                                            
+     1,718,410,188      cache-misses              #   42.416 % of all cache refs    
+
+      11.060609909 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:32:57 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,539,857,326      cache-references                                            
+     2,223,971,906      cache-misses              #   48.988 % of all cache refs    
+
+      12.610991549 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:33:10 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,087,793,700      cache-references                                            
+     1,735,126,944      cache-misses              #   42.447 % of all cache refs    
+
+      11.163265813 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:33:21 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,705,485,020      cache-references                                            
+     2,292,204,376      cache-misses              #   48.713 % of all cache refs    
+
+      12.638183439 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:33:34 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,140,506,646      cache-references                                            
+     1,749,195,347      cache-misses              #   42.246 % of all cache refs    
+
+      11.082596078 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:33:45 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,698,897,722      cache-references                                            
+     2,292,424,525      cache-misses              #   48.786 % of all cache refs    
+
+      12.587289310 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:33:57 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,118,380,197      cache-references                                            
+     1,742,636,892      cache-misses              #   42.314 % of all cache refs    
+
+      11.156481369 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:34:09 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,717,379,386      cache-references                                            
+     2,298,015,199      cache-misses              #   48.714 % of all cache refs    
+
+      12.739300245 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:34:21 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,133,034,117      cache-references                                            
+     1,741,434,842      cache-misses              #   42.135 % of all cache refs    
+
+      11.271881206 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:34:33 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,657,010,626      cache-references                                            
+     2,274,739,537      cache-misses              #   48.845 % of all cache refs    
+
+      12.561174225 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:34:45 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,167,666,944      cache-references                                            
+     1,763,350,885      cache-misses              #   42.310 % of all cache refs    
+
+      11.052840927 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:34:56 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,657,518,698      cache-references                                            
+     2,277,197,893      cache-misses              #   48.893 % of all cache refs    
+
+      12.539365832 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:35:09 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,056,450,887      cache-references                                            
+     1,713,687,175      cache-misses              #   42.246 % of all cache refs    
+
+      11.060603881 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:35:20 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,681,726,798      cache-references                                            
+     2,281,473,745      cache-misses              #   48.731 % of all cache refs    
+
+      12.749621830 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:35:33 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,191,796,329      cache-references                                            
+     1,768,959,653      cache-misses              #   42.201 % of all cache refs    
+
+      11.106536423 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:35:44 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,668,260,557      cache-references                                            
+     2,277,348,281      cache-misses              #   48.784 % of all cache refs    
+
+      12.588769932 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:35:57 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,084,501,947      cache-references                                            
+     1,757,880,781      cache-misses              #   43.038 % of all cache refs    
+
+      11.817272740 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:36:09 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,638,732,706      cache-references                                            
+     2,265,913,319      cache-misses              #   48.848 % of all cache refs    
+
+      12.617331731 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:36:21 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,102,956,846      cache-references                                            
+     1,736,884,325      cache-misses              #   42.333 % of all cache refs    
+
+      11.123874064 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:36:33 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,756,354,584      cache-references                                            
+     2,308,291,184      cache-misses              #   48.531 % of all cache refs    
+
+      12.638488870 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:36:45 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,096,122,736      cache-references                                            
+     1,740,786,427      cache-misses              #   42.498 % of all cache refs    
+
+      11.677609173 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:36:57 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,704,395,988      cache-references                                            
+     2,287,498,272      cache-misses              #   48.625 % of all cache refs    
+
+      12.628903058 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:37:10 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,123,663,443      cache-references                                            
+     1,738,895,990      cache-misses              #   42.169 % of all cache refs    
+
+      11.130214786 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:37:21 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,670,494,360      cache-references                                            
+     2,308,545,120      cache-misses              #   49.428 % of all cache refs    
+
+      12.935660450 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 10:37:34 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,086,533,561      cache-references                                            
+     1,732,327,383      cache-misses              #   42.391 % of all cache refs    
+
+      11.055859769 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 10:37:45 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/cit-patents/cit-Patents-bfs.txt niters 10':
+
+     4,672,021,770      cache-references                                            
+     2,284,108,074      cache-misses              #   48.889 % of all cache refs    
+
+      12.738926465 seconds time elapsed
+

@@ -1,0 +1,1575 @@
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,672,441      cache-references                                            
+        10,024,111      cache-misses              #   85.878 % of all cache refs    
+
+       0.232258017 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,713,946      cache-references                                            
+         9,921,790      cache-misses              #   84.701 % of all cache refs    
+
+       0.177588123 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,662,096      cache-references                                            
+        10,304,798      cache-misses              #   81.383 % of all cache refs    
+
+       0.167335927 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,990,340      cache-references                                            
+        10,140,521      cache-misses              #   84.572 % of all cache refs    
+
+       0.173937179 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,162,631      cache-references                                            
+        10,157,901      cache-misses              #   62.848 % of all cache refs    
+
+       0.184010634 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,834,222      cache-references                                            
+         9,849,771      cache-misses              #   83.231 % of all cache refs    
+
+       0.172844947 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,607,178      cache-references                                            
+         9,951,754      cache-misses              #   78.937 % of all cache refs    
+
+       0.165422658 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,335,855      cache-references                                            
+         9,968,511      cache-misses              #   87.938 % of all cache refs    
+
+       0.175129667 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,687,801      cache-references                                            
+         9,978,770      cache-misses              #   85.378 % of all cache refs    
+
+       0.177785406 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,767,231      cache-references                                            
+        10,338,735      cache-misses              #   80.979 % of all cache refs    
+
+       0.187689909 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,874,343      cache-references                                            
+        10,152,641      cache-misses              #   85.501 % of all cache refs    
+
+       0.165317446 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,212,516      cache-references                                            
+        10,182,347      cache-misses              #   62.805 % of all cache refs    
+
+       0.181644652 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,239,927      cache-references                                            
+         9,998,172      cache-misses              #   81.685 % of all cache refs    
+
+       0.163341055 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        13,042,903      cache-references                                            
+         9,958,395      cache-misses              #   76.351 % of all cache refs    
+
+       0.165169980 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,388,111      cache-references                                            
+         9,986,222      cache-misses              #   87.690 % of all cache refs    
+
+       0.168215684 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,022,128      cache-references                                            
+         9,860,320      cache-misses              #   82.018 % of all cache refs    
+
+       0.182075875 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,630,765      cache-references                                            
+        10,322,588      cache-misses              #   81.726 % of all cache refs    
+
+       0.172303672 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,936,899      cache-references                                            
+        10,134,321      cache-misses              #   84.899 % of all cache refs    
+
+       0.179484075 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,017,163      cache-references                                            
+        10,130,862      cache-misses              #   63.250 % of all cache refs    
+
+       0.187118623 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,888,373      cache-references                                            
+         9,933,952      cache-misses              #   83.560 % of all cache refs    
+
+       0.168029023 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,391,382      cache-references                                            
+         9,956,449      cache-misses              #   80.350 % of all cache refs    
+
+       0.175697900 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,280,801      cache-references                                            
+         9,977,385      cache-misses              #   88.446 % of all cache refs    
+
+       0.164600511 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,657,811      cache-references                                            
+         9,941,520      cache-misses              #   85.278 % of all cache refs    
+
+       0.173656045 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,460,276      cache-references                                            
+        10,237,273      cache-misses              #   82.159 % of all cache refs    
+
+       0.173225865 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,798,508      cache-references                                            
+        10,103,909      cache-misses              #   85.637 % of all cache refs    
+
+       0.179833057 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,137,139      cache-references                                            
+        10,147,274      cache-misses              #   62.881 % of all cache refs    
+
+       0.181027826 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,895,920      cache-references                                            
+         9,971,432      cache-misses              #   83.822 % of all cache refs    
+
+       0.170878014 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,635,853      cache-references                                            
+         9,959,236      cache-misses              #   78.817 % of all cache refs    
+
+       0.172759054 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,330,724      cache-references                                            
+         9,986,356      cache-misses              #   88.135 % of all cache refs    
+
+       0.173071035 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,713,730      cache-references                                            
+         9,903,511      cache-misses              #   84.546 % of all cache refs    
+
+       0.178607337 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,587,931      cache-references                                            
+        10,341,639      cache-misses              #   82.155 % of all cache refs    
+
+       0.181473259 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,752,932      cache-references                                            
+        10,119,494      cache-misses              #   86.102 % of all cache refs    
+
+       0.181605046 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,037,677      cache-references                                            
+        10,165,007      cache-misses              #   63.382 % of all cache refs    
+
+       0.174799676 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,990,837      cache-references                                            
+         9,977,660      cache-misses              #   83.211 % of all cache refs    
+
+       0.181604389 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,474,167      cache-references                                            
+         9,957,813      cache-misses              #   79.827 % of all cache refs    
+
+       0.170905266 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,266,881      cache-references                                            
+         9,976,919      cache-misses              #   88.551 % of all cache refs    
+
+       0.164649982 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,584,009      cache-references                                            
+         9,939,380      cache-misses              #   85.803 % of all cache refs    
+
+       0.170922592 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,532,784      cache-references                                            
+        10,267,011      cache-misses              #   81.921 % of all cache refs    
+
+       0.184411767 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,850,453      cache-references                                            
+        10,127,875      cache-misses              #   85.464 % of all cache refs    
+
+       0.178285280 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        15,969,562      cache-references                                            
+        10,108,453      cache-misses              #   63.298 % of all cache refs    
+
+       0.183903922 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,883,606      cache-references                                            
+         9,928,652      cache-misses              #   83.549 % of all cache refs    
+
+       0.173894421 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,597,430      cache-references                                            
+         9,959,966      cache-misses              #   79.063 % of all cache refs    
+
+       0.179263801 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,288,114      cache-references                                            
+         9,970,210      cache-misses              #   88.325 % of all cache refs    
+
+       0.173406906 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,556,909      cache-references                                            
+         9,898,185      cache-misses              #   85.647 % of all cache refs    
+
+       0.183840339 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,530,408      cache-references                                            
+        10,271,391      cache-misses              #   81.972 % of all cache refs    
+
+       0.167561266 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,687,903      cache-references                                            
+        10,067,456      cache-misses              #   86.136 % of all cache refs    
+
+       0.173553824 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        15,976,904      cache-references                                            
+        10,082,131      cache-misses              #   63.104 % of all cache refs    
+
+       0.174565340 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,764,934      cache-references                                            
+         9,900,075      cache-misses              #   84.149 % of all cache refs    
+
+       0.163462187 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,770,417      cache-references                                            
+         9,870,989      cache-misses              #   77.296 % of all cache refs    
+
+       0.180732015 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,297,934      cache-references                                            
+         9,947,585      cache-misses              #   88.048 % of all cache refs    
+
+       0.164975577 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,561,556      cache-references                                            
+         9,896,412      cache-misses              #   85.598 % of all cache refs    
+
+       0.172537942 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,524,810      cache-references                                            
+        10,276,446      cache-misses              #   82.049 % of all cache refs    
+
+       0.167245375 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,859,896      cache-references                                            
+        10,142,238      cache-misses              #   85.517 % of all cache refs    
+
+       0.183320146 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,002,623      cache-references                                            
+        10,099,235      cache-misses              #   63.110 % of all cache refs    
+
+       0.180404609 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,016,709      cache-references                                            
+         9,936,909      cache-misses              #   82.692 % of all cache refs    
+
+       0.172497358 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,666,425      cache-references                                            
+         9,941,395      cache-misses              #   78.486 % of all cache refs    
+
+       0.174677684 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,337,442      cache-references                                            
+         9,996,168      cache-misses              #   88.170 % of all cache refs    
+
+       0.170688227 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,613,875      cache-references                                            
+         9,924,669      cache-misses              #   85.455 % of all cache refs    
+
+       0.178081215 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,536,828      cache-references                                            
+        10,293,248      cache-misses              #   82.104 % of all cache refs    
+
+       0.177753461 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,814,952      cache-references                                            
+        10,128,052      cache-misses              #   85.722 % of all cache refs    
+
+       0.163990802 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        15,899,276      cache-references                                            
+        10,118,731      cache-misses              #   63.643 % of all cache refs    
+
+       0.184041942 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,836,639      cache-references                                            
+         9,896,003      cache-misses              #   83.605 % of all cache refs    
+
+       0.171640885 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,512,965      cache-references                                            
+         9,861,359      cache-misses              #   78.809 % of all cache refs    
+
+       0.172783438 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,327,523      cache-references                                            
+         9,967,620      cache-misses              #   87.995 % of all cache refs    
+
+       0.157769758 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,609,096      cache-references                                            
+         9,922,015      cache-misses              #   85.468 % of all cache refs    
+
+       0.169418891 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,700,744      cache-references                                            
+        10,345,648      cache-misses              #   81.457 % of all cache refs    
+
+       0.174659655 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,933,358      cache-references                                            
+        10,194,644      cache-misses              #   85.430 % of all cache refs    
+
+       0.174217643 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,069,126      cache-references                                            
+        10,172,386      cache-misses              #   63.304 % of all cache refs    
+
+       0.181946871 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,902,275      cache-references                                            
+         9,946,280      cache-misses              #   83.566 % of all cache refs    
+
+       0.167074288 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,685,099      cache-references                                            
+         9,960,465      cache-misses              #   78.521 % of all cache refs    
+
+       0.173257777 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,290,076      cache-references                                            
+         9,973,200      cache-misses              #   88.336 % of all cache refs    
+
+       0.170994088 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,557,570      cache-references                                            
+         9,874,589      cache-misses              #   85.438 % of all cache refs    
+
+       0.169593152 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,462,458      cache-references                                            
+        10,273,267      cache-misses              #   82.434 % of all cache refs    
+
+       0.181357084 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,805,904      cache-references                                            
+        10,127,293      cache-misses              #   85.782 % of all cache refs    
+
+       0.165501243 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,183,738      cache-references                                            
+        10,119,147      cache-misses              #   62.527 % of all cache refs    
+
+       0.184341281 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,863,792      cache-references                                            
+         9,942,236      cache-misses              #   83.803 % of all cache refs    
+
+       0.182943183 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,736,542      cache-references                                            
+         9,944,522      cache-misses              #   78.079 % of all cache refs    
+
+       0.173928698 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,292,439      cache-references                                            
+         9,966,755      cache-misses              #   88.260 % of all cache refs    
+
+       0.162645349 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,725,507      cache-references                                            
+         9,916,164      cache-misses              #   84.569 % of all cache refs    
+
+       0.177009133 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,429,059      cache-references                                            
+        10,263,133      cache-misses              #   82.574 % of all cache refs    
+
+       0.166453667 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,875,245      cache-references                                            
+        10,121,378      cache-misses              #   85.231 % of all cache refs    
+
+       0.175853895 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,007,535      cache-references                                            
+        10,141,725      cache-misses              #   63.356 % of all cache refs    
+
+       0.183002568 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,013,805      cache-references                                            
+         9,932,829      cache-misses              #   82.678 % of all cache refs    
+
+       0.173786567 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,691,762      cache-references                                            
+         9,952,374      cache-misses              #   78.416 % of all cache refs    
+
+       0.171031470 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,300,569      cache-references                                            
+         9,980,768      cache-misses              #   88.321 % of all cache refs    
+
+       0.175276513 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,514,549      cache-references                                            
+         9,870,720      cache-misses              #   85.724 % of all cache refs    
+
+       0.178216423 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,537,187      cache-references                                            
+        10,293,516      cache-misses              #   82.104 % of all cache refs    
+
+       0.176214184 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,806,172      cache-references                                            
+        10,139,217      cache-misses              #   85.881 % of all cache refs    
+
+       0.175321803 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        15,969,700      cache-references                                            
+        10,051,803      cache-misses              #   62.943 % of all cache refs    
+
+       0.183670066 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,886,742      cache-references                                            
+         9,942,082      cache-misses              #   83.640 % of all cache refs    
+
+       0.180764061 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,502,823      cache-references                                            
+         9,953,863      cache-misses              #   79.613 % of all cache refs    
+
+       0.172548348 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,147,877      cache-references                                            
+         9,878,840      cache-misses              #   88.616 % of all cache refs    
+
+       0.175606586 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,503,181      cache-references                                            
+         9,906,464      cache-misses              #   86.119 % of all cache refs    
+
+       0.168216842 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,626,585      cache-references                                            
+        10,349,220      cache-misses              #   81.964 % of all cache refs    
+
+       0.176269493 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,855,078      cache-references                                            
+        10,164,350      cache-misses              #   85.738 % of all cache refs    
+
+       0.176274840 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        15,852,012      cache-references                                            
+        10,104,913      cache-misses              #   63.745 % of all cache refs    
+
+       0.188729443 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,960,059      cache-references                                            
+         9,924,212      cache-misses              #   82.978 % of all cache refs    
+
+       0.175528179 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,534,668      cache-references                                            
+         9,919,158      cache-misses              #   79.134 % of all cache refs    
+
+       0.179224601 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,285,481      cache-references                                            
+         9,973,375      cache-misses              #   88.374 % of all cache refs    
+
+       0.170163193 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,588,226      cache-references                                            
+         9,874,196      cache-misses              #   85.209 % of all cache refs    
+
+       0.176781487 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,545,500      cache-references                                            
+        10,336,009      cache-misses              #   82.388 % of all cache refs    
+
+       0.166669748 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,839,906      cache-references                                            
+        10,142,605      cache-misses              #   85.665 % of all cache refs    
+
+       0.174434347 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        15,939,980      cache-references                                            
+        10,102,084      cache-misses              #   63.376 % of all cache refs    
+
+       0.185420932 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,990,661      cache-references                                            
+        10,121,291      cache-misses              #   84.410 % of all cache refs    
+
+       0.178628562 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,502,502      cache-references                                            
+        10,055,609      cache-misses              #   80.429 % of all cache refs    
+
+       0.181867318 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,267,607      cache-references                                            
+         9,937,538      cache-misses              #   88.196 % of all cache refs    
+
+       0.169471288 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,750,891      cache-references                                            
+         9,970,661      cache-misses              #   84.850 % of all cache refs    
+
+       0.173041659 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,676,784      cache-references                                            
+        10,411,610      cache-misses              #   82.131 % of all cache refs    
+
+       0.190596308 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,638,449      cache-references                                            
+        10,041,743      cache-misses              #   86.281 % of all cache refs    
+
+       0.170843192 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,054,612      cache-references                                            
+        10,150,118      cache-misses              #   63.222 % of all cache refs    
+
+       0.181160824 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,940,928      cache-references                                            
+         9,981,147      cache-misses              #   83.588 % of all cache refs    
+
+       0.170174166 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,742,125      cache-references                                            
+         9,973,587      cache-misses              #   78.273 % of all cache refs    
+
+       0.170837346 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,292,553      cache-references                                            
+         9,944,464      cache-misses              #   88.062 % of all cache refs    
+
+       0.161599221 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,655,380      cache-references                                            
+         9,905,872      cache-misses              #   84.990 % of all cache refs    
+
+       0.169766152 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,708,750      cache-references                                            
+        10,337,529      cache-misses              #   81.342 % of all cache refs    
+
+       0.180557197 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,837,763      cache-references                                            
+        10,134,387      cache-misses              #   85.611 % of all cache refs    
+
+       0.168942163 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        15,920,787      cache-references                                            
+        10,122,080      cache-misses              #   63.578 % of all cache refs    
+
+       0.186161217 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,161,153      cache-references                                            
+         9,907,000      cache-misses              #   81.464 % of all cache refs    
+
+       0.172919826 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,678,117      cache-references                                            
+         9,976,703      cache-misses              #   78.692 % of all cache refs    
+
+       0.179909448 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,383,831      cache-references                                            
+         9,956,035      cache-misses              #   87.458 % of all cache refs    
+
+       0.157604463 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,593,371      cache-references                                            
+         9,945,608      cache-misses              #   85.787 % of all cache refs    
+
+       0.171486357 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,494,712      cache-references                                            
+        10,265,351      cache-misses              #   82.158 % of all cache refs    
+
+       0.166647771 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,860,852      cache-references                                            
+        10,102,799      cache-misses              #   85.178 % of all cache refs    
+
+       0.172378892 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,125,440      cache-references                                            
+        10,161,718      cache-misses              #   63.017 % of all cache refs    
+
+       0.179019015 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,824,637      cache-references                                            
+         9,954,364      cache-misses              #   84.183 % of all cache refs    
+
+       0.169301532 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,662,441      cache-references                                            
+         9,966,160      cache-misses              #   78.706 % of all cache refs    
+
+       0.178634504 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,336,867      cache-references                                            
+         9,967,352      cache-misses              #   87.920 % of all cache refs    
+
+       0.170696405 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,649,711      cache-references                                            
+         9,973,573      cache-misses              #   85.612 % of all cache refs    
+
+       0.173719447 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,755,045      cache-references                                            
+        10,435,801      cache-misses              #   81.817 % of all cache refs    
+
+       0.175351613 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,854,631      cache-references                                            
+        10,117,641      cache-misses              #   85.348 % of all cache refs    
+
+       0.185080763 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,153,078      cache-references                                            
+        10,154,530      cache-misses              #   62.864 % of all cache refs    
+
+       0.186925768 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,017,875      cache-references                                            
+         9,932,660      cache-misses              #   82.649 % of all cache refs    
+
+       0.178174549 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,626,800      cache-references                                            
+         9,948,487      cache-misses              #   78.789 % of all cache refs    
+
+       0.176154888 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,321,407      cache-references                                            
+         9,984,065      cache-misses              #   88.187 % of all cache refs    
+
+       0.165343911 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,714,862      cache-references                                            
+         9,894,109      cache-misses              #   84.458 % of all cache refs    
+
+       0.181803590 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,600,283      cache-references                                            
+        10,348,436      cache-misses              #   82.129 % of all cache refs    
+
+       0.175154239 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,909,142      cache-references                                            
+        10,172,980      cache-misses              #   85.422 % of all cache refs    
+
+       0.174058114 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,096,275      cache-references                                            
+        10,156,134      cache-misses              #   63.096 % of all cache refs    
+
+       0.183571203 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,823,030      cache-references                                            
+         9,872,837      cache-misses              #   83.505 % of all cache refs    
+
+       0.166538878 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,919,329      cache-references                                            
+         9,956,704      cache-misses              #   77.068 % of all cache refs    
+
+       0.185224276 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,304,090      cache-references                                            
+         9,973,855      cache-misses              #   88.232 % of all cache refs    
+
+       0.165046643 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,704,221      cache-references                                            
+         9,950,342      cache-misses              #   85.015 % of all cache refs    
+
+       0.177558106 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,503,495      cache-references                                            
+        10,275,333      cache-misses              #   82.180 % of all cache refs    
+
+       0.181898101 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,848,874      cache-references                                            
+        10,126,307      cache-misses              #   85.462 % of all cache refs    
+
+       0.164869860 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        15,992,509      cache-references                                            
+        10,075,011      cache-misses              #   62.998 % of all cache refs    
+
+       0.180162818 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,969,589      cache-references                                            
+         9,962,515      cache-misses              #   83.232 % of all cache refs    
+
+       0.162207342 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,551,689      cache-references                                            
+         9,927,183      cache-misses              #   79.090 % of all cache refs    
+
+       0.175969084 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,321,816      cache-references                                            
+         9,964,886      cache-misses              #   88.015 % of all cache refs    
+
+       0.163559798 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,690,055      cache-references                                            
+         9,961,950      cache-misses              #   85.217 % of all cache refs    
+
+       0.171425868 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,449,501      cache-references                                            
+        10,232,785      cache-misses              #   82.194 % of all cache refs    
+
+       0.182232616 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,860,571      cache-references                                            
+        10,114,199      cache-misses              #   85.276 % of all cache refs    
+
+       0.181290397 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,071,660      cache-references                                            
+        10,182,139      cache-misses              #   63.355 % of all cache refs    
+
+       0.181566974 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,840,356      cache-references                                            
+         9,925,949      cache-misses              #   83.832 % of all cache refs    
+
+       0.167592479 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,518,066      cache-references                                            
+         9,958,004      cache-misses              #   79.549 % of all cache refs    
+
+       0.182288251 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,278,552      cache-references                                            
+         9,945,038      cache-misses              #   88.177 % of all cache refs    
+
+       0.168304963 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,598,872      cache-references                                            
+         9,951,775      cache-misses              #   85.800 % of all cache refs    
+
+       0.173084541 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,418,064      cache-references                                            
+        10,236,369      cache-misses              #   82.431 % of all cache refs    
+
+       0.181522877 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,693,494      cache-references                                            
+        10,057,850      cache-misses              #   86.012 % of all cache refs    
+
+       0.178959965 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,098,652      cache-references                                            
+        10,150,333      cache-misses              #   63.051 % of all cache refs    
+
+       0.179701834 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,954,042      cache-references                                            
+         9,962,544      cache-misses              #   83.340 % of all cache refs    
+
+       0.170161983 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,473,161      cache-references                                            
+         9,953,947      cache-misses              #   79.803 % of all cache refs    
+
+       0.173166586 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,164,002      cache-references                                            
+         9,873,302      cache-misses              #   88.439 % of all cache refs    
+
+       0.168703306 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,507,383      cache-references                                            
+         9,959,121      cache-misses              #   86.545 % of all cache refs    
+
+       0.178205329 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,564,434      cache-references                                            
+        10,297,994      cache-misses              #   81.961 % of all cache refs    
+
+       0.167987535 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,758,311      cache-references                                            
+        10,082,395      cache-misses              #   85.747 % of all cache refs    
+
+       0.174666478 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,066,080      cache-references                                            
+        10,138,425      cache-misses              #   63.105 % of all cache refs    
+
+       0.179795683 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,012,265      cache-references                                            
+         9,960,862      cache-misses              #   82.922 % of all cache refs    
+
+       0.169734698 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,550,333      cache-references                                            
+         9,977,227      cache-misses              #   79.498 % of all cache refs    
+
+       0.175281056 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,321,026      cache-references                                            
+         9,985,236      cache-misses              #   88.201 % of all cache refs    
+
+       0.172717728 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,604,858      cache-references                                            
+         9,957,313      cache-misses              #   85.803 % of all cache refs    
+
+       0.172145980 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,610,225      cache-references                                            
+        10,345,919      cache-misses              #   82.044 % of all cache refs    
+
+       0.166851384 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,928,648      cache-references                                            
+        10,143,238      cache-misses              #   85.033 % of all cache refs    
+
+       0.215068219 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        16,050,790      cache-references                                            
+        10,171,989      cache-misses              #   63.374 % of all cache refs    
+
+       0.185526933 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        11,985,232      cache-references                                            
+         9,933,179      cache-misses              #   82.878 % of all cache refs    
+
+       0.175327002 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/parmat/parmat-degree.gr':
+
+        12,560,716      cache-references                                            
+         9,935,110      cache-misses              #   79.097 % of all cache refs    
+
+       0.175747762 seconds time elapsed
+

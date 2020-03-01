@@ -1,0 +1,550 @@
+PR-Async\n
+# started on Tue Sep 24 11:29:16 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,035,080,286      cache-references                                            
+       420,832,548      cache-misses              #   10.429 % of all cache refs    
+
+       7.985482636 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:29:24 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,285,976,304      cache-references                                            
+       639,655,171      cache-misses              #   14.924 % of all cache refs    
+
+       8.871804003 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:29:33 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,210,566,430      cache-references                                            
+       424,114,665      cache-misses              #   10.073 % of all cache refs    
+
+       7.847061860 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:29:41 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,268,102,832      cache-references                                            
+       633,264,397      cache-misses              #   14.837 % of all cache refs    
+
+       8.971266384 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:29:50 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,672,922,761      cache-references                                            
+       442,397,648      cache-misses              #    9.467 % of all cache refs    
+
+       7.864296226 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:29:58 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,351,451,204      cache-references                                            
+       640,675,948      cache-misses              #   14.723 % of all cache refs    
+
+       8.913083850 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:30:07 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,232,511,474      cache-references                                            
+       427,381,134      cache-misses              #   10.098 % of all cache refs    
+
+       7.832728343 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:30:15 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,297,706,258      cache-references                                            
+       638,975,744      cache-misses              #   14.868 % of all cache refs    
+
+       8.740132720 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:30:24 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,098,746,335      cache-references                                            
+       422,812,660      cache-misses              #   10.316 % of all cache refs    
+
+       7.806722476 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:30:32 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,327,386,723      cache-references                                            
+       639,250,143      cache-misses              #   14.772 % of all cache refs    
+
+       8.860615527 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:30:41 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,068,596,353      cache-references                                            
+       419,722,590      cache-misses              #   10.316 % of all cache refs    
+
+       7.772018217 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:30:49 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,285,321,934      cache-references                                            
+       643,867,981      cache-misses              #   15.025 % of all cache refs    
+
+       8.968815041 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:30:58 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,527,521,247      cache-references                                            
+       431,558,745      cache-misses              #    9.532 % of all cache refs    
+
+       7.947061679 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:31:06 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,343,710,020      cache-references                                            
+       640,038,674      cache-misses              #   14.735 % of all cache refs    
+
+       9.114006571 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:31:15 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,198,696,318      cache-references                                            
+       421,177,142      cache-misses              #   10.031 % of all cache refs    
+
+       8.075386756 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:31:23 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,303,150,741      cache-references                                            
+       638,956,946      cache-misses              #   14.849 % of all cache refs    
+
+       8.806616449 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:31:32 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,279,975,998      cache-references                                            
+       422,682,814      cache-misses              #    9.876 % of all cache refs    
+
+       7.837802158 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:31:40 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,443,420,488      cache-references                                            
+       640,663,417      cache-misses              #   14.418 % of all cache refs    
+
+       8.742565558 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:31:49 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     3,959,860,138      cache-references                                            
+       419,934,940      cache-misses              #   10.605 % of all cache refs    
+
+       7.955607443 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:31:57 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,238,786,307      cache-references                                            
+       640,087,444      cache-misses              #   15.101 % of all cache refs    
+
+       8.843947743 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:32:06 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,525,250,076      cache-references                                            
+       430,352,213      cache-misses              #    9.510 % of all cache refs    
+
+       7.803492830 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:32:14 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,306,955,302      cache-references                                            
+       636,573,410      cache-misses              #   14.780 % of all cache refs    
+
+       8.866726483 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:32:22 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,080,629,843      cache-references                                            
+       421,000,888      cache-misses              #   10.317 % of all cache refs    
+
+       7.859426806 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:32:30 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,317,144,789      cache-references                                            
+       638,200,680      cache-misses              #   14.783 % of all cache refs    
+
+       8.905168837 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:32:39 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,142,525,414      cache-references                                            
+       420,288,276      cache-misses              #   10.146 % of all cache refs    
+
+       8.003296792 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:32:47 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,324,354,282      cache-references                                            
+       647,419,425      cache-misses              #   14.971 % of all cache refs    
+
+       8.834312571 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:32:56 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,473,951,128      cache-references                                            
+       426,483,684      cache-misses              #    9.533 % of all cache refs    
+
+       7.853871354 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:33:04 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,346,237,840      cache-references                                            
+       638,999,589      cache-misses              #   14.702 % of all cache refs    
+
+       8.880398733 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:33:13 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,690,632,072      cache-references                                            
+       432,427,638      cache-misses              #    9.219 % of all cache refs    
+
+       7.809568021 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:33:21 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,291,748,836      cache-references                                            
+       639,225,850      cache-misses              #   14.894 % of all cache refs    
+
+       8.943872080 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:33:30 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,249,428,812      cache-references                                            
+       421,153,788      cache-misses              #    9.911 % of all cache refs    
+
+       7.862955793 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:33:38 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,339,359,820      cache-references                                            
+       640,498,059      cache-misses              #   14.760 % of all cache refs    
+
+       8.829116827 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:33:47 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,618,159,568      cache-references                                            
+       433,735,851      cache-misses              #    9.392 % of all cache refs    
+
+       8.033140077 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:33:55 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,296,402,612      cache-references                                            
+       640,614,672      cache-misses              #   14.910 % of all cache refs    
+
+       8.882319839 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:34:04 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,655,116,783      cache-references                                            
+       432,583,865      cache-misses              #    9.293 % of all cache refs    
+
+       7.832513243 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:34:12 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,291,618,231      cache-references                                            
+       636,328,366      cache-misses              #   14.827 % of all cache refs    
+
+       8.990303019 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:34:21 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,465,612,688      cache-references                                            
+       433,956,112      cache-misses              #    9.718 % of all cache refs    
+
+       7.921398120 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:34:29 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,265,541,053      cache-references                                            
+       644,088,433      cache-misses              #   15.100 % of all cache refs    
+
+       8.885333505 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:34:38 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,537,270,753      cache-references                                            
+       431,778,140      cache-misses              #    9.516 % of all cache refs    
+
+       7.972274184 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:34:46 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,340,277,142      cache-references                                            
+       643,279,376      cache-misses              #   14.821 % of all cache refs    
+
+       9.079402907 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:34:55 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,079,558,028      cache-references                                            
+       424,578,343      cache-misses              #   10.407 % of all cache refs    
+
+       7.885491955 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:35:03 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,296,512,088      cache-references                                            
+       637,937,466      cache-misses              #   14.848 % of all cache refs    
+
+       8.972436246 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:35:12 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,185,711,633      cache-references                                            
+       422,379,981      cache-misses              #   10.091 % of all cache refs    
+
+       7.962082002 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:35:20 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,267,302,324      cache-references                                            
+       641,525,202      cache-misses              #   15.034 % of all cache refs    
+
+       9.118636895 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:35:30 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,127,440,660      cache-references                                            
+       423,327,868      cache-misses              #   10.256 % of all cache refs    
+
+       7.870058933 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:35:37 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,293,074,000      cache-references                                            
+       638,703,489      cache-misses              #   14.878 % of all cache refs    
+
+       8.977293951 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:35:47 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,110,295,570      cache-references                                            
+       422,229,237      cache-misses              #   10.272 % of all cache refs    
+
+       7.815029834 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:35:54 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,307,221,839      cache-references                                            
+       641,046,004      cache-misses              #   14.883 % of all cache refs    
+
+       9.028665273 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:36:03 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,698,978,015      cache-references                                            
+       433,786,690      cache-misses              #    9.232 % of all cache refs    
+
+       7.835853789 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:36:11 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/kron/kron-revdegree.txt niters 10':
+
+     4,272,428,776      cache-references                                            
+       636,192,670      cache-misses              #   14.891 % of all cache refs    
+
+       8.803045190 seconds time elapsed
+

@@ -1,0 +1,324 @@
+
+ === REPORT FOR pagerank() ===
+[Numeric]
+cachesize_mb:		0
+compression:		0
+execthreads:		8
+loadthreads:		4
+membudget_mb:		800
+niothreads:		2
+niters:		10
+nshards:		83
+nvertices:		6.7103e+07
+scheduler:		0
+stripesize:		1.07374e+09
+updates:		6.7103e+08
+work:		2.14748e+10
+[Timings]
+blockload:		353.295s	 (count: 48800, min: 1e-06s, max: 1.50648, avg: 0.00723965s)
+commit:		6.97479s	 (count: 2400, min: 0s, max: 2.87479, avg: 0.00290616s)
+execute-updates:		23.3667s	 (count: 900, min: 0.002065s, max: 0.155136, avg: 0.025963s)
+iomgr_init:		0.000218 s
+memoryshard_create_edges:		691.045s	 (count: 1800, min: 0.007924s, max: 3.90056, avg: 0.383914s)
+memshard_commit:		9.74114s	 (count: 830, min: 0.00073s, max: 2.82817, avg: 0.0117363s)
+preada_now:		1169.66s	 (count: 136170, min: 1e-06s, max: 8.97247, avg: 0.00858971s)
+pwritea_now:		742.505s	 (count: 84720, min: 9e-06s, max: 3.09128, avg: 0.00876422s)
+read_next_vertices:		1693.54s	 (count: 73800, min: 0.000115s, max: 5.05984, avg: 0.0229477s)
+runtime:		1813.18 s
+stripedio_wait_for_reads:		0.001927s	 (count: 900, min: 0s, max: 4.3e-05, avg: 2.14111e-06s)
+stripedio_wait_for_writes:		0.000971s	 (count: 841, min: 0s, max: 1e-05, avg: 1.15458e-06s)
+[Other]
+app:	pagerank
+engine:	functional
+file:	s26_e16/graph_s26_e16
+Print top 20 vertices: 
+1. 0	4698.18
+2. 512	1491.01
+3. 524288	1490.8
+4. 2	1490.28
+5. 256	1490.09
+6. 2097152	1489.8
+7. 32	1488.3
+8. 262144	1488.22
+9. 1048576	1486.53
+10. 4	1486.27
+11. 16384	1485.65
+12. 4096	1485.47
+13. 4194304	1484.48
+14. 8	1484.39
+15. 16	1484.31
+16. 2048	1484.16
+17. 65536	1484
+18. 128	1483.93
+19. 8192	1483.84
+20. 1	1483.81
+
+ === REPORT FOR pagerank() ===
+[Numeric]
+cachesize_mb:		0
+compression:		0
+execthreads:		8
+loadthreads:		4
+membudget_mb:		800
+niothreads:		2
+niters:		10
+nshards:		83
+nvertices:		6.7103e+07
+scheduler:		0
+stripesize:		1.07374e+09
+updates:		6.7103e+08
+work:		2.14748e+10
+[Timings]
+blockload:		20.636s	 (count: 48800, min: 1e-06s, max: 0.01119, avg: 0.000422868s)
+commit:		6.20936s	 (count: 2400, min: 0s, max: 2.72447, avg: 0.00258723s)
+execute-updates:		23.1783s	 (count: 900, min: 0.002163s, max: 0.127176, avg: 0.0257537s)
+iomgr_init:		0.000186 s
+memoryshard_create_edges:		643.295s	 (count: 1800, min: 0.007995s, max: 4.0479, avg: 0.357386s)
+memshard_commit:		1.51102s	 (count: 830, min: 0.000652s, max: 0.191387, avg: 0.0018205s)
+preada_now:		362.865s	 (count: 136170, min: 0s, max: 3.09333, avg: 0.00266479s)
+pwritea_now:		420.311s	 (count: 84720, min: 9e-06s, max: 2.98577, avg: 0.00496118s)
+read_next_vertices:		832.17s	 (count: 73800, min: 0.000116s, max: 2.99383, avg: 0.011276s)
+runtime:		1281.87 s
+stripedio_wait_for_reads:		0.001841s	 (count: 900, min: 0s, max: 2.8e-05, avg: 2.04556e-06s)
+stripedio_wait_for_writes:		0.000836s	 (count: 841, min: 0s, max: 5e-06, avg: 9.94055e-07s)
+[Other]
+app:	pagerank
+engine:	functional
+file:	s26_e16/graph_s26_e16
+Print top 20 vertices: 
+1. 0	4698.15
+2. 512	1491.01
+3. 524288	1490.8
+4. 2	1490.29
+5. 256	1490.09
+6. 2097152	1489.79
+7. 32	1488.29
+8. 262144	1488.22
+9. 1048576	1486.52
+10. 4	1486.27
+11. 16384	1485.65
+12. 4096	1485.47
+13. 4194304	1484.48
+14. 8	1484.39
+15. 16	1484.32
+16. 2048	1484.16
+17. 65536	1484
+18. 128	1483.93
+19. 8192	1483.84
+20. 1	1483.81
+
+ === REPORT FOR pagerank() ===
+[Numeric]
+cachesize_mb:		0
+compression:		0
+execthreads:		8
+loadthreads:		4
+membudget_mb:		800
+niothreads:		2
+niters:		10
+nshards:		83
+nvertices:		6.7103e+07
+scheduler:		0
+stripesize:		1.07374e+09
+updates:		6.7103e+08
+work:		2.14748e+10
+[Timings]
+blockload:		24.1059s	 (count: 48800, min: 1e-06s, max: 0.016881, avg: 0.000493973s)
+commit:		6.80265s	 (count: 2400, min: 0s, max: 2.92754, avg: 0.00283444s)
+execute-updates:		23.6963s	 (count: 900, min: 0.002463s, max: 0.22894, avg: 0.0263292s)
+iomgr_init:		0.000113 s
+memoryshard_create_edges:		652.687s	 (count: 1800, min: 0.007969s, max: 3.72285, avg: 0.362604s)
+memshard_commit:		4.10403s	 (count: 830, min: 0.000664s, max: 2.83266, avg: 0.00494462s)
+preada_now:		375.765s	 (count: 136170, min: 1e-06s, max: 2.98826, avg: 0.00275953s)
+pwritea_now:		577.969s	 (count: 84720, min: 9e-06s, max: 2.98605, avg: 0.0068221s)
+read_next_vertices:		1007.98s	 (count: 73800, min: 0.000115s, max: 3.06769, avg: 0.0136583s)
+runtime:		1345.61 s
+stripedio_wait_for_reads:		0.002047s	 (count: 900, min: 0s, max: 2.5e-05, avg: 2.27444e-06s)
+stripedio_wait_for_writes:		0.000972s	 (count: 841, min: 0s, max: 6e-06, avg: 1.15577e-06s)
+[Other]
+app:	pagerank
+engine:	functional
+file:	s26_e16/graph_s26_e16
+Print top 20 vertices: 
+1. 0	4697.81
+2. 512	1491.01
+3. 524288	1490.8
+4. 2	1490.29
+5. 256	1490.1
+6. 2097152	1489.8
+7. 32	1488.29
+8. 262144	1488.23
+9. 1048576	1486.52
+10. 4	1486.27
+11. 16384	1485.64
+12. 4096	1485.47
+13. 4194304	1484.47
+14. 8	1484.39
+15. 16	1484.32
+16. 2048	1484.16
+17. 65536	1484
+18. 128	1483.93
+19. 8192	1483.84
+20. 1	1483.81
+
+ === REPORT FOR pagerank() ===
+[Numeric]
+cachesize_mb:		0
+compression:		0
+execthreads:		8
+loadthreads:		4
+membudget_mb:		800
+niothreads:		2
+niters:		10
+nshards:		83
+nvertices:		6.7103e+07
+scheduler:		0
+stripesize:		1.07374e+09
+updates:		6.7103e+08
+work:		2.14748e+10
+[Timings]
+blockload:		24.4363s	 (count: 48800, min: 1e-06s, max: 0.016444, avg: 0.000500744s)
+commit:		1.07437s	 (count: 2400, min: 0s, max: 0.093849, avg: 0.000447652s)
+execute-updates:		23.8705s	 (count: 900, min: 0.002257s, max: 0.201925, avg: 0.0265228s)
+iomgr_init:		0.000153 s
+memoryshard_create_edges:		656.212s	 (count: 1800, min: 0.007922s, max: 3.69959, avg: 0.364562s)
+memshard_commit:		4.1828s	 (count: 830, min: 0.000674s, max: 2.91583, avg: 0.00503952s)
+preada_now:		375.134s	 (count: 136170, min: 1e-06s, max: 2.98149, avg: 0.0027549s)
+pwritea_now:		521.061s	 (count: 84720, min: 9e-06s, max: 3.16189, avg: 0.00615039s)
+read_next_vertices:		959.451s	 (count: 73800, min: 0.000124s, max: 3.17727, avg: 0.0130007s)
+runtime:		1345.04 s
+stripedio_wait_for_reads:		0.001778s	 (count: 900, min: 0s, max: 1.4e-05, avg: 1.97556e-06s)
+stripedio_wait_for_writes:		0.000862s	 (count: 841, min: 0s, max: 1e-05, avg: 1.02497e-06s)
+[Other]
+app:	pagerank
+engine:	functional
+file:	s26_e16/graph_s26_e16
+Print top 20 vertices: 
+1. 0	4697.64
+2. 512	1491.01
+3. 524288	1490.79
+4. 2	1490.29
+5. 256	1490.09
+6. 2097152	1489.79
+7. 32	1488.3
+8. 262144	1488.22
+9. 1048576	1486.52
+10. 4	1486.27
+11. 16384	1485.65
+12. 4096	1485.47
+13. 4194304	1484.48
+14. 8	1484.39
+15. 16	1484.31
+16. 2048	1484.17
+17. 65536	1484
+18. 128	1483.93
+19. 8192	1483.84
+20. 1	1483.81
+
+ === REPORT FOR pagerank() ===
+[Numeric]
+cachesize_mb:		0
+compression:		0
+execthreads:		8
+loadthreads:		4
+membudget_mb:		800
+niothreads:		2
+niters:		10
+nshards:		83
+nvertices:		6.7103e+07
+scheduler:		0
+stripesize:		1.07374e+09
+updates:		6.7103e+08
+work:		2.14748e+10
+[Timings]
+blockload:		24.1701s	 (count: 48800, min: 1e-06s, max: 0.018488, avg: 0.000495289s)
+commit:		3.78635s	 (count: 2400, min: 0s, max: 2.72783, avg: 0.00157764s)
+execute-updates:		23.1034s	 (count: 900, min: 0.002125s, max: 0.216019, avg: 0.0256704s)
+iomgr_init:		0.000161 s
+memoryshard_create_edges:		658.956s	 (count: 1800, min: 0.007949s, max: 3.72039, avg: 0.366087s)
+memshard_commit:		4.05708s	 (count: 830, min: 0.000693s, max: 2.76727, avg: 0.00488804s)
+preada_now:		330.559s	 (count: 136170, min: 1e-06s, max: 3.09541, avg: 0.00242755s)
+pwritea_now:		517.491s	 (count: 84720, min: 8e-06s, max: 3.16089, avg: 0.00610826s)
+read_next_vertices:		951.661s	 (count: 73800, min: 0.000116s, max: 3.16959, avg: 0.0128951s)
+runtime:		1308.3 s
+stripedio_wait_for_reads:		0.001871s	 (count: 900, min: 0s, max: 1.4e-05, avg: 2.07889e-06s)
+stripedio_wait_for_writes:		0.001007s	 (count: 841, min: 0s, max: 3e-05, avg: 1.19738e-06s)
+[Other]
+app:	pagerank
+engine:	functional
+file:	s26_e16/graph_s26_e16
+Print top 20 vertices: 
+1. 0	4698.06
+2. 512	1491.01
+3. 524288	1490.8
+4. 2	1490.28
+5. 256	1490.09
+6. 2097152	1489.8
+7. 32	1488.3
+8. 262144	1488.22
+9. 1048576	1486.52
+10. 4	1486.27
+11. 16384	1485.65
+12. 4096	1485.47
+13. 4194304	1484.47
+14. 8	1484.38
+15. 16	1484.31
+16. 2048	1484.16
+17. 65536	1484
+18. 128	1483.93
+19. 8192	1483.84
+20. 1	1483.81
+
+ === REPORT FOR pagerank() ===
+[Numeric]
+cachesize_mb:		0
+compression:		0
+execthreads:		8
+loadthreads:		4
+membudget_mb:		800
+niothreads:		2
+niters:		10
+nshards:		83
+nvertices:		6.7103e+07
+scheduler:		0
+stripesize:		1.07374e+09
+updates:		6.7103e+08
+work:		2.14748e+10
+[Timings]
+blockload:		23.7167s	 (count: 48800, min: 1e-06s, max: 0.009316, avg: 0.000485998s)
+commit:		3.71898s	 (count: 2400, min: 0s, max: 2.5995, avg: 0.00154957s)
+execute-updates:		24.1959s	 (count: 900, min: 0.00169s, max: 0.319407, avg: 0.0268843s)
+iomgr_init:		9.8e-05 s
+memoryshard_create_edges:		643.466s	 (count: 1800, min: 0.007928s, max: 3.73317, avg: 0.357481s)
+memshard_commit:		15.5924s	 (count: 830, min: 0.000677s, max: 2.90543, avg: 0.018786s)
+preada_now:		385.832s	 (count: 136170, min: 0s, max: 3.00551, avg: 0.00283346s)
+pwritea_now:		575.419s	 (count: 84720, min: 9e-06s, max: 3.05081, avg: 0.00679201s)
+read_next_vertices:		1000.86s	 (count: 73800, min: 0.000117s, max: 3.0695, avg: 0.0135618s)
+runtime:		1358.53 s
+stripedio_wait_for_reads:		0.001918s	 (count: 900, min: 0s, max: 2.1e-05, avg: 2.13111e-06s)
+stripedio_wait_for_writes:		0.000921s	 (count: 841, min: 0s, max: 9e-06, avg: 1.09512e-06s)
+[Other]
+app:	pagerank
+engine:	functional
+file:	s26_e16/graph_s26_e16
+Print top 20 vertices: 
+1. 0	4698.07
+2. 512	1491
+3. 524288	1490.79
+4. 2	1490.29
+5. 256	1490.09
+6. 2097152	1489.8
+7. 32	1488.3
+8. 262144	1488.22
+9. 1048576	1486.52
+10. 4	1486.27
+11. 16384	1485.65
+12. 4096	1485.47
+13. 4194304	1484.48
+14. 8	1484.39
+15. 16	1484.32
+16. 2048	1484.17
+17. 65536	1484
+18. 128	1483.93
+19. 8192	1483.84
+20. 1	1483.81

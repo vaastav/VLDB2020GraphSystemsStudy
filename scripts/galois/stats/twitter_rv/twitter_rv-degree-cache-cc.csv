@@ -1,0 +1,1575 @@
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       643,387,015      cache-references                                            
+       425,680,610      cache-misses              #   66.162 % of all cache refs    
+
+      35.306459240 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,015,799,955      cache-references                                            
+     3,193,432,903      cache-misses              #   45.518 % of all cache refs    
+
+      31.291765038 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,133,454,707      cache-references                                            
+     3,926,098,164      cache-misses              #   48.271 % of all cache refs    
+
+      38.454227491 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,043,975,095      cache-references                                            
+     3,228,703,764      cache-misses              #   45.836 % of all cache refs    
+
+      31.470299201 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,287,613,915      cache-references                                            
+     9,774,341,054      cache-misses              #   63.936 % of all cache refs    
+
+     100.318422639 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,135,906,448      cache-references                                            
+     3,262,656,558      cache-misses              #   45.722 % of all cache refs    
+
+      25.818830489 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,526,936,645      cache-references                                            
+     7,384,728,511      cache-misses              #   54.593 % of all cache refs    
+
+      54.290678119 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       555,290,023      cache-references                                            
+       424,246,762      cache-misses              #   76.401 % of all cache refs    
+
+       5.971188136 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,003,350,695      cache-references                                            
+     3,201,389,012      cache-misses              #   45.712 % of all cache refs    
+
+      31.398816521 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,104,192,324      cache-references                                            
+     3,921,886,390      cache-misses              #   48.393 % of all cache refs    
+
+      38.396625238 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,017,652,857      cache-references                                            
+     3,231,107,581      cache-misses              #   46.043 % of all cache refs    
+
+      31.428205337 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,216,447,319      cache-references                                            
+     9,759,707,015      cache-misses              #   64.139 % of all cache refs    
+
+     100.534498902 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,136,303,278      cache-references                                            
+     3,262,208,005      cache-misses              #   45.713 % of all cache refs    
+
+      25.752028129 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,558,854,920      cache-references                                            
+     7,394,893,792      cache-misses              #   54.539 % of all cache refs    
+
+      54.566761520 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       555,558,462      cache-references                                            
+       424,289,025      cache-misses              #   76.372 % of all cache refs    
+
+       5.963718883 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,021,357,325      cache-references                                            
+     3,195,067,746      cache-misses              #   45.505 % of all cache refs    
+
+      31.570409953 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,136,568,649      cache-references                                            
+     3,930,720,984      cache-misses              #   48.309 % of all cache refs    
+
+      38.492995157 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,044,751,475      cache-references                                            
+     3,236,829,505      cache-misses              #   45.947 % of all cache refs    
+
+      31.469195982 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,228,757,720      cache-references                                            
+     9,782,264,049      cache-misses              #   64.235 % of all cache refs    
+
+     101.139804170 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,240,516,031      cache-references                                            
+     3,269,951,643      cache-misses              #   45.162 % of all cache refs    
+
+      26.107971124 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,620,446,979      cache-references                                            
+     7,394,673,248      cache-misses              #   54.291 % of all cache refs    
+
+      55.433168282 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       559,167,999      cache-references                                            
+       424,887,636      cache-misses              #   75.986 % of all cache refs    
+
+       5.979692677 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,025,940,231      cache-references                                            
+     3,192,643,665      cache-misses              #   45.441 % of all cache refs    
+
+      31.304454003 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,112,032,238      cache-references                                            
+     3,927,726,174      cache-misses              #   48.419 % of all cache refs    
+
+      38.724394028 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,030,690,541      cache-references                                            
+     3,231,392,901      cache-misses              #   45.961 % of all cache refs    
+
+      31.731602495 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,265,732,967      cache-references                                            
+     9,781,340,149      cache-misses              #   64.074 % of all cache refs    
+
+     100.268537428 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,139,167,395      cache-references                                            
+     3,256,826,475      cache-misses              #   45.619 % of all cache refs    
+
+      25.697266836 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,531,687,833      cache-references                                            
+     7,391,769,433      cache-misses              #   54.626 % of all cache refs    
+
+      54.301406463 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       559,666,557      cache-references                                            
+       424,981,698      cache-misses              #   75.935 % of all cache refs    
+
+       6.346749138 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,019,956,899      cache-references                                            
+     3,198,176,288      cache-misses              #   45.558 % of all cache refs    
+
+      31.281414946 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,110,884,791      cache-references                                            
+     3,925,407,072      cache-misses              #   48.397 % of all cache refs    
+
+      38.557198043 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,060,839,122      cache-references                                            
+     3,232,955,648      cache-misses              #   45.787 % of all cache refs    
+
+      31.420634351 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,255,918,421      cache-references                                            
+     9,791,598,620      cache-misses              #   64.182 % of all cache refs    
+
+     100.200622486 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,147,733,997      cache-references                                            
+     3,261,802,919      cache-misses              #   45.634 % of all cache refs    
+
+      25.722825757 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,601,885,401      cache-references                                            
+     7,387,118,563      cache-misses              #   54.310 % of all cache refs    
+
+      55.409788079 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       558,823,176      cache-references                                            
+       425,025,318      cache-misses              #   76.057 % of all cache refs    
+
+       5.992354833 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,007,008,630      cache-references                                            
+     3,196,014,393      cache-misses              #   45.612 % of all cache refs    
+
+      31.855007861 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,121,128,919      cache-references                                            
+     3,924,555,194      cache-misses              #   48.325 % of all cache refs    
+
+      38.639825382 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,021,332,107      cache-references                                            
+     3,236,498,492      cache-misses              #   46.095 % of all cache refs    
+
+      31.456744197 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,244,765,121      cache-references                                            
+     9,762,592,185      cache-misses              #   64.039 % of all cache refs    
+
+     100.783655563 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,248,596,741      cache-references                                            
+     3,295,156,345      cache-misses              #   45.459 % of all cache refs    
+
+      26.352368979 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,509,842,795      cache-references                                            
+     7,377,825,885      cache-misses              #   54.611 % of all cache refs    
+
+      54.169277654 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       558,880,565      cache-references                                            
+       424,281,680      cache-misses              #   75.916 % of all cache refs    
+
+       6.051273782 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,003,870,082      cache-references                                            
+     3,193,530,998      cache-misses              #   45.597 % of all cache refs    
+
+      31.771424161 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,107,831,770      cache-references                                            
+     3,924,165,134      cache-misses              #   48.400 % of all cache refs    
+
+      38.862732419 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,020,665,887      cache-references                                            
+     3,233,974,652      cache-misses              #   46.064 % of all cache refs    
+
+      31.751566977 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,301,675,806      cache-references                                            
+     9,778,633,453      cache-misses              #   63.906 % of all cache refs    
+
+     101.273304382 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,137,972,081      cache-references                                            
+     3,258,232,859      cache-misses              #   45.646 % of all cache refs    
+
+      25.718672418 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,600,210,732      cache-references                                            
+     7,389,854,564      cache-misses              #   54.336 % of all cache refs    
+
+      54.249438140 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       557,132,580      cache-references                                            
+       424,715,861      cache-misses              #   76.232 % of all cache refs    
+
+       5.977582752 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,013,859,440      cache-references                                            
+     3,261,235,209      cache-misses              #   46.497 % of all cache refs    
+
+      31.727155506 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,141,414,462      cache-references                                            
+     3,921,950,774      cache-misses              #   48.173 % of all cache refs    
+
+      38.478983579 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,062,278,964      cache-references                                            
+     3,243,559,210      cache-misses              #   45.928 % of all cache refs    
+
+      31.444702887 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,208,854,166      cache-references                                            
+     9,767,230,955      cache-misses              #   64.221 % of all cache refs    
+
+     100.608415252 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,227,338,885      cache-references                                            
+     3,273,148,205      cache-misses              #   45.288 % of all cache refs    
+
+      25.832370551 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,549,968,107      cache-references                                            
+     7,394,985,613      cache-misses              #   54.576 % of all cache refs    
+
+      56.140686275 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       559,867,205      cache-references                                            
+       427,074,694      cache-misses              #   76.281 % of all cache refs    
+
+       6.019659336 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,036,215,686      cache-references                                            
+     3,193,071,388      cache-misses              #   45.381 % of all cache refs    
+
+      31.506798009 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,134,747,870      cache-references                                            
+     3,924,316,285      cache-misses              #   48.241 % of all cache refs    
+
+      38.461427099 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,026,066,962      cache-references                                            
+     3,229,778,106      cache-misses              #   45.969 % of all cache refs    
+
+      31.302151000 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,260,279,814      cache-references                                            
+     9,745,078,782      cache-misses              #   63.859 % of all cache refs    
+
+     100.740815958 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,131,855,655      cache-references                                            
+     3,259,827,573      cache-misses              #   45.708 % of all cache refs    
+
+      25.763328573 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,672,351,901      cache-references                                            
+     7,391,755,167      cache-misses              #   54.064 % of all cache refs    
+
+      54.872485152 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       554,677,978      cache-references                                            
+       425,053,223      cache-misses              #   76.631 % of all cache refs    
+
+       5.969063029 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,017,917,944      cache-references                                            
+     3,195,254,560      cache-misses              #   45.530 % of all cache refs    
+
+      31.321165266 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,109,705,207      cache-references                                            
+     3,925,700,956      cache-misses              #   48.407 % of all cache refs    
+
+      38.372263582 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,018,917,751      cache-references                                            
+     3,229,818,515      cache-misses              #   46.016 % of all cache refs    
+
+      31.357366735 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,274,341,039      cache-references                                            
+     9,773,068,063      cache-misses              #   63.984 % of all cache refs    
+
+     100.176701919 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,152,885,215      cache-references                                            
+     3,263,808,747      cache-misses              #   45.629 % of all cache refs    
+
+      25.822739201 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,580,703,325      cache-references                                            
+     7,379,979,334      cache-misses              #   54.342 % of all cache refs    
+
+      54.792506167 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       558,169,546      cache-references                                            
+       425,057,925      cache-misses              #   76.152 % of all cache refs    
+
+       5.969217344 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,023,994,464      cache-references                                            
+     3,198,055,536      cache-misses              #   45.530 % of all cache refs    
+
+      31.443910569 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,112,716,761      cache-references                                            
+     3,927,394,338      cache-misses              #   48.410 % of all cache refs    
+
+      38.457973714 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,050,046,698      cache-references                                            
+     3,230,637,954      cache-misses              #   45.824 % of all cache refs    
+
+      31.444674133 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,270,529,145      cache-references                                            
+     9,766,320,635      cache-misses              #   63.955 % of all cache refs    
+
+     100.681167149 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,309,491,089      cache-references                                            
+     3,294,051,752      cache-misses              #   45.065 % of all cache refs    
+
+      26.291394677 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,553,779,015      cache-references                                            
+     7,388,948,058      cache-misses              #   54.516 % of all cache refs    
+
+      54.236277110 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       557,827,533      cache-references                                            
+       425,447,051      cache-misses              #   76.269 % of all cache refs    
+
+       5.984775228 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,002,122,258      cache-references                                            
+     3,197,946,408      cache-misses              #   45.671 % of all cache refs    
+
+      31.433833830 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,108,584,714      cache-references                                            
+     3,923,893,545      cache-misses              #   48.392 % of all cache refs    
+
+      38.435238201 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,026,492,569      cache-references                                            
+     3,236,928,083      cache-misses              #   46.067 % of all cache refs    
+
+      31.421674940 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,236,261,714      cache-references                                            
+     9,771,410,527      cache-misses              #   64.133 % of all cache refs    
+
+     100.125600283 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,206,879,946      cache-references                                            
+     3,270,854,811      cache-misses              #   45.385 % of all cache refs    
+
+      25.787949779 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,607,454,908      cache-references                                            
+     7,385,947,678      cache-misses              #   54.279 % of all cache refs    
+
+      54.553275818 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       558,482,130      cache-references                                            
+       425,035,267      cache-misses              #   76.105 % of all cache refs    
+
+       5.995457895 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,062,316,360      cache-references                                            
+     3,199,618,010      cache-misses              #   45.306 % of all cache refs    
+
+      31.386817108 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,145,784,289      cache-references                                            
+     3,924,367,192      cache-misses              #   48.177 % of all cache refs    
+
+      38.405599130 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,022,701,546      cache-references                                            
+     3,230,809,980      cache-misses              #   46.005 % of all cache refs    
+
+      31.411840719 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,264,362,508      cache-references                                            
+     9,771,463,769      cache-misses              #   64.015 % of all cache refs    
+
+     100.168195400 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,151,569,751      cache-references                                            
+     3,259,482,709      cache-misses              #   45.577 % of all cache refs    
+
+      25.751185747 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,587,547,671      cache-references                                            
+     7,387,316,920      cache-misses              #   54.368 % of all cache refs    
+
+      54.198164462 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       558,574,143      cache-references                                            
+       425,547,284      cache-misses              #   76.185 % of all cache refs    
+
+       5.995780046 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,011,533,766      cache-references                                            
+     3,198,948,210      cache-misses              #   45.624 % of all cache refs    
+
+      31.514413801 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,118,166,811      cache-references                                            
+     3,923,708,701      cache-misses              #   48.332 % of all cache refs    
+
+      38.363143364 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,054,989,788      cache-references                                            
+     3,236,414,118      cache-misses              #   45.874 % of all cache refs    
+
+      31.513794433 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,214,337,494      cache-references                                            
+     9,741,416,212      cache-misses              #   64.028 % of all cache refs    
+
+     100.909410292 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,198,130,801      cache-references                                            
+     3,264,781,714      cache-misses              #   45.356 % of all cache refs    
+
+      25.904359775 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,591,613,821      cache-references                                            
+     7,401,395,630      cache-misses              #   54.456 % of all cache refs    
+
+      54.431405189 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       556,337,763      cache-references                                            
+       425,126,427      cache-misses              #   76.415 % of all cache refs    
+
+       6.007120868 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,050,047,516      cache-references                                            
+     3,188,267,765      cache-misses              #   45.223 % of all cache refs    
+
+      31.526827052 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,154,626,359      cache-references                                            
+     3,926,026,733      cache-misses              #   48.145 % of all cache refs    
+
+      38.463120319 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,018,968,418      cache-references                                            
+     3,230,736,706      cache-misses              #   46.029 % of all cache refs    
+
+      31.367352752 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,134,952,828      cache-references                                            
+     9,708,132,353      cache-misses              #   64.144 % of all cache refs    
+
+     101.324460789 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,099,744,165      cache-references                                            
+     3,259,277,440      cache-misses              #   45.907 % of all cache refs    
+
+      25.702753315 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,599,719,818      cache-references                                            
+     7,391,592,758      cache-misses              #   54.351 % of all cache refs    
+
+      54.603244235 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       557,780,566      cache-references                                            
+       425,249,191      cache-misses              #   76.240 % of all cache refs    
+
+       5.970593812 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,077,297,285      cache-references                                            
+     3,194,801,276      cache-misses              #   45.142 % of all cache refs    
+
+      31.460170351 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,132,058,921      cache-references                                            
+     3,919,013,952      cache-misses              #   48.192 % of all cache refs    
+
+      38.566512305 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,041,952,661      cache-references                                            
+     3,228,073,644      cache-misses              #   45.841 % of all cache refs    
+
+      31.390828287 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,200,721,532      cache-references                                            
+     9,755,485,360      cache-misses              #   64.178 % of all cache refs    
+
+     100.824796680 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,221,651,452      cache-references                                            
+     3,290,489,444      cache-misses              #   45.564 % of all cache refs    
+
+      26.582941033 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,652,807,145      cache-references                                            
+     7,388,954,337      cache-misses              #   54.120 % of all cache refs    
+
+      54.299073815 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       560,034,622      cache-references                                            
+       425,085,121      cache-misses              #   75.903 % of all cache refs    
+
+       5.990570917 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,028,662,573      cache-references                                            
+     3,201,589,255      cache-misses              #   45.550 % of all cache refs    
+
+      32.172934425 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,108,818,626      cache-references                                            
+     3,928,544,449      cache-misses              #   48.448 % of all cache refs    
+
+      38.487603464 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,028,276,020      cache-references                                            
+     3,235,551,422      cache-misses              #   46.036 % of all cache refs    
+
+      31.480684760 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,240,182,864      cache-references                                            
+     9,774,767,064      cache-misses              #   64.138 % of all cache refs    
+
+     100.273753792 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,199,045,874      cache-references                                            
+     3,272,753,249      cache-misses              #   45.461 % of all cache refs    
+
+      25.894481876 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,538,965,341      cache-references                                            
+     7,387,525,545      cache-misses              #   54.565 % of all cache refs    
+
+      54.237466275 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       559,725,034      cache-references                                            
+       426,530,317      cache-misses              #   76.204 % of all cache refs    
+
+       6.008533884 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     6,999,257,246      cache-references                                            
+     3,198,721,623      cache-misses              #   45.701 % of all cache refs    
+
+      31.443290860 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,111,915,331      cache-references                                            
+     3,929,023,109      cache-misses              #   48.435 % of all cache refs    
+
+      38.458982387 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,011,422,068      cache-references                                            
+     3,229,699,380      cache-misses              #   46.063 % of all cache refs    
+
+      31.394329638 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,132,869,681      cache-references                                            
+     9,717,887,014      cache-misses              #   64.217 % of all cache refs    
+
+     101.724569626 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,184,550,271      cache-references                                            
+     3,263,949,680      cache-misses              #   45.430 % of all cache refs    
+
+      25.783627188 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,566,100,687      cache-references                                            
+     7,390,849,015      cache-misses              #   54.480 % of all cache refs    
+
+      55.373352710 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       559,331,877      cache-references                                            
+       426,409,862      cache-misses              #   76.236 % of all cache refs    
+
+       6.136453059 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,013,992,128      cache-references                                            
+     3,198,742,101      cache-misses              #   45.605 % of all cache refs    
+
+      32.158832267 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,099,439,179      cache-references                                            
+     3,924,241,695      cache-misses              #   48.451 % of all cache refs    
+
+      39.345727446 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,022,625,028      cache-references                                            
+     3,234,916,499      cache-misses              #   46.064 % of all cache refs    
+
+      31.623130482 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,192,973,521      cache-references                                            
+     9,759,344,605      cache-misses              #   64.236 % of all cache refs    
+
+     100.989052299 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,161,383,876      cache-references                                            
+     3,270,135,855      cache-misses              #   45.663 % of all cache refs    
+
+      25.814010760 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,559,263,881      cache-references                                            
+     7,382,759,152      cache-misses              #   54.448 % of all cache refs    
+
+      54.281642309 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       559,840,324      cache-references                                            
+       426,449,188      cache-misses              #   76.173 % of all cache refs    
+
+       6.005044332 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     6,993,006,835      cache-references                                            
+     3,192,981,260      cache-misses              #   45.660 % of all cache refs    
+
+      31.497702986 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,099,233,019      cache-references                                            
+     3,933,751,986      cache-misses              #   48.569 % of all cache refs    
+
+      38.890930771 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,035,400,248      cache-references                                            
+     3,239,412,136      cache-misses              #   46.044 % of all cache refs    
+
+      31.856762924 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,068,202,368      cache-references                                            
+     9,646,633,432      cache-misses              #   64.020 % of all cache refs    
+
+     101.619764524 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,241,679,216      cache-references                                            
+     3,260,891,802      cache-misses              #   45.029 % of all cache refs    
+
+      25.812985827 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,667,671,788      cache-references                                            
+     7,390,649,634      cache-misses              #   54.074 % of all cache refs    
+
+      54.532945064 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       555,413,861      cache-references                                            
+       426,318,061      cache-misses              #   76.757 % of all cache refs    
+
+       5.997368871 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,017,311,691      cache-references                                            
+     3,197,996,034      cache-misses              #   45.573 % of all cache refs    
+
+      31.365881418 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,137,014,547      cache-references                                            
+     3,941,415,220      cache-misses              #   48.438 % of all cache refs    
+
+      38.756120389 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,038,827,697      cache-references                                            
+     3,229,217,582      cache-misses              #   45.877 % of all cache refs    
+
+      31.566234148 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,268,342,852      cache-references                                            
+     9,757,391,319      cache-misses              #   63.906 % of all cache refs    
+
+     101.026176578 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,206,392,911      cache-references                                            
+     3,272,664,409      cache-misses              #   45.413 % of all cache refs    
+
+      25.911277338 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,558,421,435      cache-references                                            
+     7,368,633,649      cache-misses              #   54.347 % of all cache refs    
+
+      54.369179824 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       561,981,335      cache-references                                            
+       426,401,305      cache-misses              #   75.875 % of all cache refs    
+
+       5.972932676 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,031,722,444      cache-references                                            
+     3,193,342,478      cache-misses              #   45.413 % of all cache refs    
+
+      31.307073202 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,110,845,504      cache-references                                            
+     3,932,045,149      cache-misses              #   48.479 % of all cache refs    
+
+      38.443800591 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,037,076,983      cache-references                                            
+     3,232,154,122      cache-misses              #   45.930 % of all cache refs    
+
+      31.395300018 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,281,918,230      cache-references                                            
+     9,774,116,489      cache-misses              #   63.959 % of all cache refs    
+
+     100.341363416 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,166,854,169      cache-references                                            
+     3,262,048,373      cache-misses              #   45.516 % of all cache refs    
+
+      25.827300087 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,538,146,773      cache-references                                            
+     7,384,620,296      cache-misses              #   54.547 % of all cache refs    
+
+      54.219810768 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       559,557,338      cache-references                                            
+       426,457,762      cache-misses              #   76.213 % of all cache refs    
+
+       6.017192591 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     6,999,445,670      cache-references                                            
+     3,199,015,873      cache-misses              #   45.704 % of all cache refs    
+
+      31.500701483 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,097,137,201      cache-references                                            
+     3,923,327,571      cache-misses              #   48.453 % of all cache refs    
+
+      38.461471336 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,053,494,429      cache-references                                            
+     3,231,179,749      cache-misses              #   45.810 % of all cache refs    
+
+      31.350069318 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,239,081,676      cache-references                                            
+     9,764,223,300      cache-misses              #   64.074 % of all cache refs    
+
+     100.407138664 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,191,360,597      cache-references                                            
+     3,264,274,133      cache-misses              #   45.392 % of all cache refs    
+
+      25.783271439 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,578,701,639      cache-references                                            
+     7,387,865,210      cache-misses              #   54.408 % of all cache refs    
+
+      54.344813093 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       558,481,819      cache-references                                            
+       427,643,786      cache-misses              #   76.573 % of all cache refs    
+
+       6.051769708 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,016,730,655      cache-references                                            
+     3,198,865,246      cache-misses              #   45.589 % of all cache refs    
+
+      31.786212717 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,122,059,225      cache-references                                            
+     3,922,075,441      cache-misses              #   48.289 % of all cache refs    
+
+      38.668493576 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,094,708,011      cache-references                                            
+     3,231,324,950      cache-misses              #   45.546 % of all cache refs    
+
+      31.432304193 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,285,648,543      cache-references                                            
+     9,769,022,503      cache-misses              #   63.910 % of all cache refs    
+
+     100.368445714 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,172,802,926      cache-references                                            
+     3,263,975,313      cache-misses              #   45.505 % of all cache refs    
+
+      25.811969761 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,623,808,663      cache-references                                            
+     7,401,270,919      cache-misses              #   54.326 % of all cache refs    
+
+      54.925455535 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+       559,393,097      cache-references                                            
+       426,316,324      cache-misses              #   76.211 % of all cache refs    
+
+       5.989223693 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,045,561,432      cache-references                                            
+     3,194,002,522      cache-misses              #   45.334 % of all cache refs    
+
+      31.296636277 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     8,142,831,533      cache-references                                            
+     3,929,786,367      cache-misses              #   48.261 % of all cache refs    
+
+      38.610560709 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,065,731,872      cache-references                                            
+     3,229,459,848      cache-misses              #   45.706 % of all cache refs    
+
+      31.617409425 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    15,292,805,308      cache-references                                            
+     9,755,122,400      cache-misses              #   63.789 % of all cache refs    
+
+     100.683569922 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+     7,196,341,961      cache-references                                            
+     3,261,476,752      cache-misses              #   45.321 % of all cache refs    
+
+      25.776255675 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    13,584,991,156      cache-references                                            
+     7,374,157,496      cache-misses              #   54.282 % of all cache refs    
+
+      54.177968183 seconds time elapsed
+

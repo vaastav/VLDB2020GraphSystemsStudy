@@ -1,0 +1,13 @@
+STAT_TYPE, REGION, CATEGORY, TOTAL_TYPE, TOTAL
+STAT, PageAlloc, MeminfoPre, TSUM, 28
+STAT, PageAlloc, MeminfoPost, TSUM, 50
+STAT, Initialize, Iterations, TSUM, 65482
+STAT, Initialize, Time, TMAX, 3
+STAT, edgeIteratingAlgo, Iterations, TSUM, 517977
+STAT, edgeIteratingAlgo, Time, TMAX, 54
+STAT, edgeIteratorAlgo, Time, TMAX, 54
+STAT, (NULL), Time, TMAX, 57
+STAT, (NULL), GraphReadingTime, TMAX, 1
+PARAM, (NULL), CommandLine, SINGLE, /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/triangles/triangles -algo=edgeiterator -t=16 -statFile=stats/parmat/parmat-default-stat-tc.txt ../datasets/parmat/parmat-default.gr
+PARAM, (NULL), Threads, SINGLE, 12
+PARAM, (NULL), Hostname, SINGLE, hennessy

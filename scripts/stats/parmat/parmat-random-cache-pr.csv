@@ -1,0 +1,1100 @@
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,621,477      cache-references                                            
+         8,645,738      cache-misses              #   89.859 % of all cache refs    
+
+       0.219797693 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,597,044      cache-references                                            
+         8,620,872      cache-misses              #   89.828 % of all cache refs    
+
+       0.223265613 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,613,437      cache-references                                            
+         8,646,732      cache-misses              #   89.944 % of all cache refs    
+
+       0.219526461 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,617,398      cache-references                                            
+         8,643,907      cache-misses              #   89.878 % of all cache refs    
+
+       0.219937682 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,632,832      cache-references                                            
+         8,631,104      cache-misses              #   89.601 % of all cache refs    
+
+       0.223452335 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,622,754      cache-references                                            
+         8,630,261      cache-misses              #   89.686 % of all cache refs    
+
+       0.214340147 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,618,404      cache-references                                            
+         8,629,158      cache-misses              #   89.715 % of all cache refs    
+
+       0.206229702 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,621,725      cache-references                                            
+         8,639,254      cache-misses              #   89.789 % of all cache refs    
+
+       0.220361651 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,641,772      cache-references                                            
+         8,630,888      cache-misses              #   89.516 % of all cache refs    
+
+       0.216437895 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,632,577      cache-references                                            
+         8,629,211      cache-misses              #   89.584 % of all cache refs    
+
+       0.214991143 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,615,722      cache-references                                            
+         8,636,648      cache-misses              #   89.818 % of all cache refs    
+
+       0.216048261 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,648,185      cache-references                                            
+         8,648,417      cache-misses              #   89.638 % of all cache refs    
+
+       0.217698515 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,649,222      cache-references                                            
+         8,651,246      cache-misses              #   89.657 % of all cache refs    
+
+       0.215746453 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,622,294      cache-references                                            
+         8,630,082      cache-misses              #   89.688 % of all cache refs    
+
+       0.218006409 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,659,723      cache-references                                            
+         8,649,698      cache-misses              #   89.544 % of all cache refs    
+
+       0.226249915 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,643,710      cache-references                                            
+         8,645,092      cache-misses              #   89.645 % of all cache refs    
+
+       0.219487772 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,618,108      cache-references                                            
+         8,637,794      cache-misses              #   89.808 % of all cache refs    
+
+       0.221877730 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,614,215      cache-references                                            
+         8,634,442      cache-misses              #   89.809 % of all cache refs    
+
+       0.214624528 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,653,215      cache-references                                            
+         8,646,263      cache-misses              #   89.569 % of all cache refs    
+
+       0.220691235 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,638,668      cache-references                                            
+         8,635,489      cache-misses              #   89.592 % of all cache refs    
+
+       0.230069351 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,628,439      cache-references                                            
+         8,643,013      cache-misses              #   89.765 % of all cache refs    
+
+       0.220105985 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,609,577      cache-references                                            
+         8,631,558      cache-misses              #   89.822 % of all cache refs    
+
+       0.205290219 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,629,253      cache-references                                            
+         8,631,137      cache-misses              #   89.635 % of all cache refs    
+
+       0.216435172 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,641,553      cache-references                                            
+         8,653,093      cache-misses              #   89.748 % of all cache refs    
+
+       0.220052167 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,619,080      cache-references                                            
+         8,632,677      cache-misses              #   89.745 % of all cache refs    
+
+       0.213917584 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,647,486      cache-references                                            
+         8,644,875      cache-misses              #   89.608 % of all cache refs    
+
+       0.217446419 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,620,491      cache-references                                            
+         8,622,526      cache-misses              #   89.627 % of all cache refs    
+
+       0.218823816 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,615,742      cache-references                                            
+         8,629,644      cache-misses              #   89.745 % of all cache refs    
+
+       0.221798378 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,625,548      cache-references                                            
+         8,631,840      cache-misses              #   89.676 % of all cache refs    
+
+       0.217408974 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,687,328      cache-references                                            
+         8,654,031      cache-misses              #   89.334 % of all cache refs    
+
+       0.252723188 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,654,668      cache-references                                            
+         8,647,099      cache-misses              #   89.564 % of all cache refs    
+
+       0.221689246 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,661,350      cache-references                                            
+         8,646,910      cache-misses              #   89.500 % of all cache refs    
+
+       0.221201316 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,645,276      cache-references                                            
+         8,642,905      cache-misses              #   89.608 % of all cache refs    
+
+       0.214836600 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,657,407      cache-references                                            
+         8,660,294      cache-misses              #   89.675 % of all cache refs    
+
+       0.205607981 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,674,423      cache-references                                            
+         8,656,720      cache-misses              #   89.480 % of all cache refs    
+
+       0.216664920 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,673,931      cache-references                                            
+         8,678,178      cache-misses              #   89.707 % of all cache refs    
+
+       0.210355599 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,636,973      cache-references                                            
+         8,646,116      cache-misses              #   89.718 % of all cache refs    
+
+       0.218014972 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,666,394      cache-references                                            
+         8,646,012      cache-misses              #   89.444 % of all cache refs    
+
+       0.208304215 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,665,933      cache-references                                            
+         8,660,167      cache-misses              #   89.595 % of all cache refs    
+
+       0.212549314 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,647,074      cache-references                                            
+         8,650,116      cache-misses              #   89.666 % of all cache refs    
+
+       0.215420325 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,672,250      cache-references                                            
+         8,652,537      cache-misses              #   89.457 % of all cache refs    
+
+       0.216699305 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,665,819      cache-references                                            
+         8,652,244      cache-misses              #   89.514 % of all cache refs    
+
+       0.216227754 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,633,163      cache-references                                            
+         8,636,872      cache-misses              #   89.658 % of all cache refs    
+
+       0.218825350 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,660,935      cache-references                                            
+         8,651,725      cache-misses              #   89.554 % of all cache refs    
+
+       0.210539128 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,617,469      cache-references                                            
+         8,627,914      cache-misses              #   89.711 % of all cache refs    
+
+       0.217241346 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,639,016      cache-references                                            
+         8,640,834      cache-misses              #   89.644 % of all cache refs    
+
+       0.215521689 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,635,095      cache-references                                            
+         8,638,915      cache-misses              #   89.661 % of all cache refs    
+
+       0.216386922 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,660,706      cache-references                                            
+         8,650,787      cache-misses              #   89.546 % of all cache refs    
+
+       0.218180206 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,630,439      cache-references                                            
+         8,637,591      cache-misses              #   89.691 % of all cache refs    
+
+       0.206758692 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,706,554      cache-references                                            
+         8,682,463      cache-misses              #   89.449 % of all cache refs    
+
+       0.217023631 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,624,125      cache-references                                            
+         8,632,743      cache-misses              #   89.699 % of all cache refs    
+
+       0.212800562 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,640,933      cache-references                                            
+         8,650,216      cache-misses              #   89.724 % of all cache refs    
+
+       0.215433442 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,635,415      cache-references                                            
+         8,644,837      cache-misses              #   89.719 % of all cache refs    
+
+       0.216639156 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,683,979      cache-references                                            
+         8,681,453      cache-misses              #   89.648 % of all cache refs    
+
+       0.220120515 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,660,629      cache-references                                            
+         8,660,814      cache-misses              #   89.651 % of all cache refs    
+
+       0.227706478 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,625,488      cache-references                                            
+         8,634,123      cache-misses              #   89.701 % of all cache refs    
+
+       0.223195587 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,652,604      cache-references                                            
+         8,653,271      cache-misses              #   89.647 % of all cache refs    
+
+       0.220364108 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,632,904      cache-references                                            
+         8,639,860      cache-misses              #   89.691 % of all cache refs    
+
+       0.220570242 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,644,895      cache-references                                            
+         8,662,693      cache-misses              #   89.816 % of all cache refs    
+
+       0.221153487 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,686,072      cache-references                                            
+         8,684,593      cache-misses              #   89.661 % of all cache refs    
+
+       0.255466863 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,655,996      cache-references                                            
+         8,655,134      cache-misses              #   89.635 % of all cache refs    
+
+       0.218180214 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,632,238      cache-references                                            
+         8,649,287      cache-misses              #   89.795 % of all cache refs    
+
+       0.212023562 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,650,221      cache-references                                            
+         8,645,672      cache-misses              #   89.590 % of all cache refs    
+
+       0.217083783 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,662,168      cache-references                                            
+         8,653,426      cache-misses              #   89.560 % of all cache refs    
+
+       0.226339162 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,650,099      cache-references                                            
+         8,660,347      cache-misses              #   89.744 % of all cache refs    
+
+       0.218743286 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,654,377      cache-references                                            
+         8,650,291      cache-misses              #   89.600 % of all cache refs    
+
+       0.221201518 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,628,931      cache-references                                            
+         8,636,531      cache-misses              #   89.694 % of all cache refs    
+
+       0.213804457 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,614,908      cache-references                                            
+         8,655,094      cache-misses              #   90.017 % of all cache refs    
+
+       0.219525064 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,658,697      cache-references                                            
+         8,657,156      cache-misses              #   89.631 % of all cache refs    
+
+       0.205667865 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,633,459      cache-references                                            
+         8,643,214      cache-misses              #   89.721 % of all cache refs    
+
+       0.216711870 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,649,596      cache-references                                            
+         8,645,264      cache-misses              #   89.592 % of all cache refs    
+
+       0.216650790 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,628,748      cache-references                                            
+         8,640,608      cache-misses              #   89.738 % of all cache refs    
+
+       0.212277879 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,675,205      cache-references                                            
+         8,661,562      cache-misses              #   89.523 % of all cache refs    
+
+       0.216604703 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,680,771      cache-references                                            
+         8,657,241      cache-misses              #   89.427 % of all cache refs    
+
+       0.212976888 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,654,353      cache-references                                            
+         8,650,041      cache-misses              #   89.597 % of all cache refs    
+
+       0.222065630 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,684,639      cache-references                                            
+         8,671,824      cache-misses              #   89.542 % of all cache refs    
+
+       0.220778961 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,636,761      cache-references                                            
+         8,647,464      cache-misses              #   89.734 % of all cache refs    
+
+       0.219951900 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,639,633      cache-references                                            
+         8,652,219      cache-misses              #   89.757 % of all cache refs    
+
+       0.205477956 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,659,102      cache-references                                            
+         8,661,940      cache-misses              #   89.676 % of all cache refs    
+
+       0.219675536 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,673,354      cache-references                                            
+         8,657,003      cache-misses              #   89.493 % of all cache refs    
+
+       0.239248211 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,703,561      cache-references                                            
+         8,677,341      cache-misses              #   89.424 % of all cache refs    
+
+       0.216397036 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,694,220      cache-references                                            
+         8,656,922      cache-misses              #   89.300 % of all cache refs    
+
+       0.216694615 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,644,643      cache-references                                            
+         8,660,748      cache-misses              #   89.799 % of all cache refs    
+
+       0.217149666 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,659,416      cache-references                                            
+         8,652,477      cache-misses              #   89.576 % of all cache refs    
+
+       0.221751007 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,659,200      cache-references                                            
+         8,648,166      cache-misses              #   89.533 % of all cache refs    
+
+       0.222025352 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,662,449      cache-references                                            
+         8,666,341      cache-misses              #   89.691 % of all cache refs    
+
+       0.220099117 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,685,188      cache-references                                            
+         8,679,641      cache-misses              #   89.618 % of all cache refs    
+
+       0.219471544 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,650,834      cache-references                                            
+         8,641,838      cache-misses              #   89.545 % of all cache refs    
+
+       0.211889285 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,678,601      cache-references                                            
+         8,653,534      cache-misses              #   89.409 % of all cache refs    
+
+       0.211177964 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,688,517      cache-references                                            
+         8,658,235      cache-misses              #   89.366 % of all cache refs    
+
+       0.220227349 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,652,489      cache-references                                            
+         8,650,969      cache-misses              #   89.624 % of all cache refs    
+
+       0.217181832 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,650,488      cache-references                                            
+         8,647,175      cache-misses              #   89.603 % of all cache refs    
+
+       0.213164499 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,685,233      cache-references                                            
+         8,645,829      cache-misses              #   89.268 % of all cache refs    
+
+       0.221385650 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,686,572      cache-references                                            
+         8,646,371      cache-misses              #   89.261 % of all cache refs    
+
+       0.221039651 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,656,637      cache-references                                            
+         8,652,113      cache-misses              #   89.598 % of all cache refs    
+
+       0.222177232 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,648,456      cache-references                                            
+         8,649,847      cache-misses              #   89.650 % of all cache refs    
+
+       0.221926611 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,666,675      cache-references                                            
+         8,646,608      cache-misses              #   89.448 % of all cache refs    
+
+       0.212130097 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,649,691      cache-references                                            
+         8,642,160      cache-misses              #   89.559 % of all cache refs    
+
+       0.216349964 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,663,315      cache-references                                            
+         8,666,209      cache-misses              #   89.682 % of all cache refs    
+
+       0.219727267 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/parmat/parmat-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-random.gr':
+
+         9,635,146      cache-references                                            
+         8,637,415      cache-misses              #   89.645 % of all cache refs    
+
+       0.252305734 seconds time elapsed
+

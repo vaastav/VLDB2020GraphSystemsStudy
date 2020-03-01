@@ -1,0 +1,13 @@
+STAT_TYPE, REGION, CATEGORY, TOTAL_TYPE, TOTAL
+STAT, PageAlloc, MeminfoPre, TSUM, 572
+STAT, PageAlloc, MeminfoPost, TSUM, 572
+STAT, Initialize, Iterations, TSUM, 4847571
+STAT, Initialize, Time, TMAX, 35
+STAT, edgeIteratingAlgo, Iterations, TSUM, 32574889
+STAT, edgeIteratingAlgo, Time, TMAX, 2718
+STAT, edgeIteratorAlgo, Time, TMAX, 2718
+STAT, (NULL), Time, TMAX, 2754
+STAT, (NULL), GraphReadingTime, TMAX, 93
+PARAM, (NULL), CommandLine, SINGLE, /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/triangles/triangles -algo=edgeiterator -t=4 -statFile=stats/soc_livejournal/soc_livejournal-degree_nz-stat-tc.txt ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr
+PARAM, (NULL), Threads, SINGLE, 4
+PARAM, (NULL), Hostname, SINGLE, hennessy

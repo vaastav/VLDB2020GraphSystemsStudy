@@ -1,0 +1,13 @@
+STAT_TYPE, REGION, CATEGORY, TOTAL_TYPE, TOTAL
+STAT, PageAlloc, MeminfoPre, TSUM, 196
+STAT, PageAlloc, MeminfoPost, TSUM, 196
+STAT, Initialize, Iterations, TSUM, 6009555
+STAT, Initialize, Time, TMAX, 7
+STAT, edgeIteratingAlgo, Iterations, TSUM, 2644964
+STAT, edgeIteratingAlgo, Time, TMAX, 45
+STAT, edgeIteratorAlgo, Time, TMAX, 45
+STAT, (NULL), Time, TMAX, 52
+STAT, (NULL), GraphReadingTime, TMAX, 24
+PARAM, (NULL), CommandLine, SINGLE, /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/triangles/triangles -algo=edgeiterator -t=16 -statFile=stats/cit_patents/cit_patents-default-stat-tc.txt ../datasets/cit-patents/cit-Patents-default.gr
+PARAM, (NULL), Threads, SINGLE, 12
+PARAM, (NULL), Hostname, SINGLE, hennessy

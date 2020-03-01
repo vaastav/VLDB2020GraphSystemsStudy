@@ -1,0 +1,1100 @@
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,511,267      cache-references                                            
+         9,061,590      cache-misses              #   86.208 % of all cache refs    
+
+       0.251161668 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,530,668      cache-references                                            
+         9,060,981      cache-misses              #   86.044 % of all cache refs    
+
+       0.215614847 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,463,828      cache-references                                            
+         9,059,622      cache-misses              #   86.580 % of all cache refs    
+
+       0.225088170 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,481,552      cache-references                                            
+         9,046,099      cache-misses              #   86.305 % of all cache refs    
+
+       0.216944558 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,525,398      cache-references                                            
+         9,074,398      cache-misses              #   86.214 % of all cache refs    
+
+       0.214010102 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,471,731      cache-references                                            
+         9,043,101      cache-misses              #   86.357 % of all cache refs    
+
+       0.220102749 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,503,021      cache-references                                            
+         9,056,417      cache-misses              #   86.227 % of all cache refs    
+
+       0.224874678 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,430,301      cache-references                                            
+         9,041,479      cache-misses              #   86.685 % of all cache refs    
+
+       0.223896638 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,476,894      cache-references                                            
+         9,049,276      cache-misses              #   86.374 % of all cache refs    
+
+       0.216829682 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,491,830      cache-references                                            
+         9,065,538      cache-misses              #   86.406 % of all cache refs    
+
+       0.214665053 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,467,812      cache-references                                            
+         9,042,737      cache-misses              #   86.386 % of all cache refs    
+
+       0.217225969 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,513,999      cache-references                                            
+         9,073,186      cache-misses              #   86.296 % of all cache refs    
+
+       0.222140183 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,442,515      cache-references                                            
+         9,039,620      cache-misses              #   86.566 % of all cache refs    
+
+       0.220225612 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,453,720      cache-references                                            
+         9,041,241      cache-misses              #   86.488 % of all cache refs    
+
+       0.219740074 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,464,070      cache-references                                            
+         9,026,515      cache-misses              #   86.262 % of all cache refs    
+
+       0.222868067 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,520,624      cache-references                                            
+         9,076,144      cache-misses              #   86.270 % of all cache refs    
+
+       0.220694907 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,488,936      cache-references                                            
+         9,046,503      cache-misses              #   86.248 % of all cache refs    
+
+       0.222552749 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,489,738      cache-references                                            
+         9,040,623      cache-misses              #   86.185 % of all cache refs    
+
+       0.223292948 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,477,231      cache-references                                            
+         9,025,361      cache-misses              #   86.143 % of all cache refs    
+
+       0.222704028 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,488,568      cache-references                                            
+         9,059,178      cache-misses              #   86.372 % of all cache refs    
+
+       0.222568465 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,488,324      cache-references                                            
+         9,035,168      cache-misses              #   86.145 % of all cache refs    
+
+       0.217098486 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,463,801      cache-references                                            
+         9,031,405      cache-misses              #   86.311 % of all cache refs    
+
+       0.218867381 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,491,689      cache-references                                            
+         9,044,450      cache-misses              #   86.206 % of all cache refs    
+
+       0.226833962 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,525,737      cache-references                                            
+         9,076,163      cache-misses              #   86.228 % of all cache refs    
+
+       0.217776698 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,517,267      cache-references                                            
+         9,059,658      cache-misses              #   86.141 % of all cache refs    
+
+       0.221174993 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,496,586      cache-references                                            
+         9,047,475      cache-misses              #   86.194 % of all cache refs    
+
+       0.214088040 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,449,092      cache-references                                            
+         9,049,608      cache-misses              #   86.607 % of all cache refs    
+
+       0.218066055 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,476,647      cache-references                                            
+         9,047,656      cache-misses              #   86.360 % of all cache refs    
+
+       0.222409200 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,469,041      cache-references                                            
+         9,040,112      cache-misses              #   86.351 % of all cache refs    
+
+       0.223078227 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,501,018      cache-references                                            
+         9,048,480      cache-misses              #   86.168 % of all cache refs    
+
+       0.225381750 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,472,461      cache-references                                            
+         9,042,847      cache-misses              #   86.349 % of all cache refs    
+
+       0.219238887 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,434,129      cache-references                                            
+         9,035,344      cache-misses              #   86.594 % of all cache refs    
+
+       0.221448302 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,480,000      cache-references                                            
+         9,046,650      cache-misses              #   86.323 % of all cache refs    
+
+       0.223349102 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,482,949      cache-references                                            
+         9,043,997      cache-misses              #   86.273 % of all cache refs    
+
+       0.221029256 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,527,892      cache-references                                            
+         9,069,685      cache-misses              #   86.149 % of all cache refs    
+
+       0.223641129 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,449,480      cache-references                                            
+         9,027,907      cache-misses              #   86.396 % of all cache refs    
+
+       0.210216131 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,477,572      cache-references                                            
+         9,050,302      cache-misses              #   86.378 % of all cache refs    
+
+       0.219549877 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,520,165      cache-references                                            
+         9,051,988      cache-misses              #   86.044 % of all cache refs    
+
+       0.219012819 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,510,236      cache-references                                            
+         9,056,208      cache-misses              #   86.166 % of all cache refs    
+
+       0.238053927 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,518,869      cache-references                                            
+         9,068,050      cache-misses              #   86.207 % of all cache refs    
+
+       0.214455196 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,598,847      cache-references                                            
+         9,149,079      cache-misses              #   86.321 % of all cache refs    
+
+       0.222025867 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,471,568      cache-references                                            
+         9,053,429      cache-misses              #   86.457 % of all cache refs    
+
+       0.219126841 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,484,055      cache-references                                            
+         9,056,243      cache-misses              #   86.381 % of all cache refs    
+
+       0.222862094 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,462,529      cache-references                                            
+         9,038,660      cache-misses              #   86.391 % of all cache refs    
+
+       0.226478521 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,513,176      cache-references                                            
+         9,048,450      cache-misses              #   86.068 % of all cache refs    
+
+       0.217303014 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,492,437      cache-references                                            
+         9,066,100      cache-misses              #   86.406 % of all cache refs    
+
+       0.222368430 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,470,051      cache-references                                            
+         9,025,568      cache-misses              #   86.204 % of all cache refs    
+
+       0.211439254 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,473,193      cache-references                                            
+         9,040,357      cache-misses              #   86.319 % of all cache refs    
+
+       0.207689741 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,418,303      cache-references                                            
+         9,027,764      cache-misses              #   86.653 % of all cache refs    
+
+       0.224258808 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,574,146      cache-references                                            
+         9,130,970      cache-misses              #   86.352 % of all cache refs    
+
+       0.225680952 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,492,978      cache-references                                            
+         9,070,368      cache-misses              #   86.442 % of all cache refs    
+
+       0.224289910 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,480,050      cache-references                                            
+         9,051,406      cache-misses              #   86.368 % of all cache refs    
+
+       0.222889122 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,452,944      cache-references                                            
+         9,045,715      cache-misses              #   86.537 % of all cache refs    
+
+       0.218958553 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,472,605      cache-references                                            
+         9,058,848      cache-misses              #   86.500 % of all cache refs    
+
+       0.222182833 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,488,779      cache-references                                            
+         9,063,571      cache-misses              #   86.412 % of all cache refs    
+
+       0.224138040 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,488,699      cache-references                                            
+         9,060,257      cache-misses              #   86.381 % of all cache refs    
+
+       0.219811451 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,483,105      cache-references                                            
+         9,045,266      cache-misses              #   86.284 % of all cache refs    
+
+       0.213547839 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,471,934      cache-references                                            
+         9,055,923      cache-misses              #   86.478 % of all cache refs    
+
+       0.219256766 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,494,188      cache-references                                            
+         9,051,607      cache-misses              #   86.254 % of all cache refs    
+
+       0.215934584 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,489,526      cache-references                                            
+         9,055,645      cache-misses              #   86.330 % of all cache refs    
+
+       0.222616148 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,469,086      cache-references                                            
+         9,055,338      cache-misses              #   86.496 % of all cache refs    
+
+       0.225198078 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,476,962      cache-references                                            
+         9,042,224      cache-misses              #   86.306 % of all cache refs    
+
+       0.223331871 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,509,643      cache-references                                            
+         9,109,916      cache-misses              #   86.681 % of all cache refs    
+
+       0.223171462 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,454,873      cache-references                                            
+         9,033,048      cache-misses              #   86.400 % of all cache refs    
+
+       0.207901964 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,489,127      cache-references                                            
+         9,057,835      cache-misses              #   86.355 % of all cache refs    
+
+       0.219154892 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,461,370      cache-references                                            
+         9,026,013      cache-misses              #   86.279 % of all cache refs    
+
+       0.219647890 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,521,599      cache-references                                            
+         9,049,202      cache-misses              #   86.006 % of all cache refs    
+
+       0.225355567 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,519,598      cache-references                                            
+         9,070,932      cache-misses              #   86.229 % of all cache refs    
+
+       0.219602679 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,485,036      cache-references                                            
+         9,022,755      cache-misses              #   86.054 % of all cache refs    
+
+       0.217451837 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,474,025      cache-references                                            
+         9,049,084      cache-misses              #   86.395 % of all cache refs    
+
+       0.223398773 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,536,506      cache-references                                            
+         9,054,819      cache-misses              #   85.938 % of all cache refs    
+
+       0.221562708 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,460,522      cache-references                                            
+         9,031,315      cache-misses              #   86.337 % of all cache refs    
+
+       0.224467523 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,440,114      cache-references                                            
+         9,034,454      cache-misses              #   86.536 % of all cache refs    
+
+       0.222146420 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,482,930      cache-references                                            
+         9,051,265      cache-misses              #   86.343 % of all cache refs    
+
+       0.223493348 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,419,644      cache-references                                            
+         9,035,500      cache-misses              #   86.716 % of all cache refs    
+
+       0.223689301 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,469,195      cache-references                                            
+         9,052,787      cache-misses              #   86.471 % of all cache refs    
+
+       0.221761454 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,470,155      cache-references                                            
+         9,066,971      cache-misses              #   86.598 % of all cache refs    
+
+       0.219671348 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,481,806      cache-references                                            
+         9,044,228      cache-misses              #   86.285 % of all cache refs    
+
+       0.221591251 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,465,312      cache-references                                            
+         9,045,562      cache-misses              #   86.434 % of all cache refs    
+
+       0.219463136 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,477,259      cache-references                                            
+         9,041,609      cache-misses              #   86.297 % of all cache refs    
+
+       0.223571610 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,458,248      cache-references                                            
+         9,026,545      cache-misses              #   86.310 % of all cache refs    
+
+       0.223180973 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,464,884      cache-references                                            
+         9,048,180      cache-misses              #   86.462 % of all cache refs    
+
+       0.222527227 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,474,595      cache-references                                            
+         9,037,336      cache-misses              #   86.279 % of all cache refs    
+
+       0.222600500 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,456,907      cache-references                                            
+         9,031,822      cache-misses              #   86.372 % of all cache refs    
+
+       0.214109334 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,545,314      cache-references                                            
+         9,098,947      cache-misses              #   86.284 % of all cache refs    
+
+       0.220185995 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,543,489      cache-references                                            
+         9,084,721      cache-misses              #   86.164 % of all cache refs    
+
+       0.213717089 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,464,274      cache-references                                            
+         9,043,512      cache-misses              #   86.423 % of all cache refs    
+
+       0.218001646 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,462,739      cache-references                                            
+         9,041,760      cache-misses              #   86.419 % of all cache refs    
+
+       0.217518428 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,463,554      cache-references                                            
+         9,034,796      cache-misses              #   86.345 % of all cache refs    
+
+       0.221880107 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,469,754      cache-references                                            
+         9,040,786      cache-misses              #   86.351 % of all cache refs    
+
+       0.214677545 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,468,992      cache-references                                            
+         9,049,946      cache-misses              #   86.445 % of all cache refs    
+
+       0.221850891 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,562,241      cache-references                                            
+         9,089,978      cache-misses              #   86.061 % of all cache refs    
+
+       0.212627239 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,509,697      cache-references                                            
+         9,050,435      cache-misses              #   86.115 % of all cache refs    
+
+       0.220842644 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,472,189      cache-references                                            
+         9,045,910      cache-misses              #   86.380 % of all cache refs    
+
+       0.223752348 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,469,255      cache-references                                            
+         9,037,603      cache-misses              #   86.325 % of all cache refs    
+
+       0.216067799 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,518,924      cache-references                                            
+         9,088,871      cache-misses              #   86.405 % of all cache refs    
+
+       0.219239987 seconds time elapsed
+
+Pull-Topo
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,481,220      cache-references                                            
+         9,046,130      cache-misses              #   86.308 % of all cache refs    
+
+       0.222095247 seconds time elapsed
+
+Pull-Residual
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,480,581      cache-references                                            
+         9,060,768      cache-misses              #   86.453 % of all cache refs    
+
+       0.223612922 seconds time elapsed
+
+Push-Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,469,878      cache-references                                            
+         9,024,990      cache-misses              #   86.200 % of all cache refs    
+
+       0.266781160 seconds time elapsed
+
+Push-Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../datasets/twitter_rv/twitter_rv-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-random.gr':
+
+        10,483,998      cache-references                                            
+         9,047,926      cache-misses              #   86.302 % of all cache refs    
+
+       0.214147215 seconds time elapsed
+

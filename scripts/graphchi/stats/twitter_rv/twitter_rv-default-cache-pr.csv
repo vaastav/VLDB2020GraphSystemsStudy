@@ -1,0 +1,276 @@
+Algorithm,Dataset,Iteration,Real,User,Sys
+PR-Async\n,# started on Wed Sep 25 00:26:27 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+371,294,701,764      cache-references,   113,790,080,791      cache-misses              #   30.647 % of all cache refs    
+,    1056.705409781 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 00:44:05 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   371,770,882,702      cache-references                                            
+120,203,523,400      cache-misses              #   32.333 % of all cache refs,
+2150.098204109 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 01:20:12 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+341,569,833,770      cache-references,   101,974,743,951      cache-misses              #   29.855 % of all cache refs    
+,    1170.202722870 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 01:39:45 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   366,084,643,315      cache-references                                            
+119,340,117,428      cache-misses              #   32.599 % of all cache refs,
+2476.420371063 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 02:21:24 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+329,219,084,655      cache-references,    95,941,829,182      cache-misses              #   29.142 % of all cache refs    
+,    1213.388124911 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 02:41:40 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   374,518,636,135      cache-references                                            
+120,643,460,318      cache-misses              #   32.213 % of all cache refs,
+2113.599412962 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 03:17:08 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+363,378,389,434      cache-references,   110,518,036,760      cache-misses              #   30.414 % of all cache refs    
+,    1307.414447870 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 03:38:58 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   376,490,442,031      cache-references                                            
+121,453,293,193      cache-misses              #   32.259 % of all cache refs,
+2186.926466491 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 04:15:40 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+332,420,810,756      cache-references,    98,019,660,037      cache-misses              #   29.487 % of all cache refs    
+,    1156.088287188 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 04:34:59 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   373,334,900,220      cache-references                                            
+120,491,784,996      cache-misses              #   32.274 % of all cache refs,
+2591.384610172 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 05:18:36 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+368,595,574,619      cache-references,   113,655,681,032      cache-misses              #   30.835 % of all cache refs    
+,    1269.973357850 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 05:39:48 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   375,519,999,672      cache-references                                            
+121,198,928,070      cache-misses              #   32.275 % of all cache refs,
+2152.797536207 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 06:15:56 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+367,284,053,183      cache-references,   110,789,422,091      cache-misses              #   30.165 % of all cache refs    
+,    1325.988845970 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 06:38:05 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   378,542,963,688      cache-references                                            
+121,731,388,933      cache-misses              #   32.158 % of all cache refs,
+2212.489942336 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 07:15:14 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+351,349,251,924      cache-references,   102,178,297,965      cache-misses              #   29.082 % of all cache refs    
+,     988.010699213 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 07:31:45 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   374,723,209,293      cache-references                                            
+121,094,375,064      cache-misses              #   32.316 % of all cache refs,
+2611.125962745 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 08:15:39 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+348,687,170,890      cache-references,   103,706,593,756      cache-misses              #   29.742 % of all cache refs    
+,    1301.842924829 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 08:37:22 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   368,456,326,502      cache-references                                            
+119,650,355,580      cache-misses              #   32.473 % of all cache refs,
+2127.714703328 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 09:13:06 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+350,942,914,064      cache-references,   106,234,790,091      cache-misses              #   30.271 % of all cache refs    
+,    1264.616301908 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 09:34:14 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   374,587,154,522      cache-references                                            
+120,736,842,123      cache-misses              #   32.232 % of all cache refs,
+2114.779928988 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 10:09:49 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+354,496,100,946      cache-references,   107,513,084,266      cache-misses              #   30.328 % of all cache refs    
+,    1248.430419265 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 10:30:42 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   377,367,913,250      cache-references                                            
+121,492,094,287      cache-misses              #   32.195 % of all cache refs,
+2415.929749426 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 11:11:22 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+337,317,291,925      cache-references,    99,524,125,163      cache-misses              #   29.505 % of all cache refs    
+,    1205.383168633 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 11:31:32 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   376,749,790,660      cache-references                                            
+121,897,152,005      cache-misses              #   32.355 % of all cache refs,
+2675.789953306 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 12:16:36 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+356,242,334,971      cache-references,   110,996,049,227      cache-misses              #   31.157 % of all cache refs    
+,    1247.233198458 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 12:37:27 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   373,895,186,966      cache-references                                            
+121,156,077,224      cache-misses              #   32.404 % of all cache refs,
+2212.384593592 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 13:14:41 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+347,356,709,452      cache-references,   103,494,144,782      cache-misses              #   29.795 % of all cache refs    
+,    1376.532963170 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 13:37:42 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   379,200,648,938      cache-references                                            
+121,922,495,904      cache-misses              #   32.153 % of all cache refs,
+2150.334819351 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 14:13:52 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+360,342,320,330      cache-references,   110,028,578,511      cache-misses              #   30.534 % of all cache refs    
+,    1119.189174303 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 14:32:34 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   377,801,337,829      cache-references                                            
+121,628,007,645      cache-misses              #   32.194 % of all cache refs,
+2582.451251767 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 15:16:11 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+332,558,432,508      cache-references,    96,642,612,231      cache-misses              #   29.060 % of all cache refs    
+,    1284.692032076 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 15:37:38 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   377,754,938,352      cache-references                                            
+121,632,133,499      cache-misses              #   32.199 % of all cache refs,
+2221.427128487 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 16:14:59 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+334,966,910,213      cache-references,   100,613,398,628      cache-misses              #   30.037 % of all cache refs    
+,    1365.929044129 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 16:37:49 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   369,492,092,580      cache-references                                            
+119,670,132,495      cache-misses              #   32.388 % of all cache refs,
+2149.667025472 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 17:13:56 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+337,994,420,254      cache-references,    97,421,756,138      cache-misses              #   28.823 % of all cache refs    
+,     982.263261014 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 17:30:21 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   376,341,888,117      cache-references                                            
+121,390,767,106      cache-misses              #   32.255 % of all cache refs,
+2652.060293466 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 18:14:54 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+347,406,840,006      cache-references,   101,606,657,577      cache-misses              #   29.247 % of all cache refs    
+,    1256.576402762 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 18:35:54 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   377,559,044,343      cache-references                                            
+121,682,905,238      cache-misses              #   32.229 % of all cache refs,
+2358.924640855 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 19:15:37 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+364,897,296,040      cache-references,   113,450,236,870      cache-misses              #   31.091 % of all cache refs    
+,    1315.860031444 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 19:37:37 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   377,386,075,715      cache-references                                            
+121,396,154,978      cache-misses              #   32.168 % of all cache refs,
+2117.136991751 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 20:13:09 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+335,187,357,103      cache-references,    98,158,816,386      cache-misses              #   29.285 % of all cache refs    
+,    1302.477149780 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 20:34:55 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   369,632,096,554      cache-references                                            
+119,810,469,334      cache-misses              #   32.413 % of all cache refs,
+2237.057061092 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 21:12:29 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+375,883,487,110      cache-references,   116,634,150,719      cache-misses              #   31.029 % of all cache refs    
+,    1118.978018784 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 21:31:11 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   369,603,372,422      cache-references                                            
+120,135,203,534      cache-misses              #   32.504 % of all cache refs,
+2636.730222880 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 22:15:32 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+342,579,033,038      cache-references,   102,274,936,898      cache-misses              #   29.854 % of all cache refs    
+,    1333.175965882 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 22:37:50 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   376,642,765,422      cache-references                                            
+121,565,141,665      cache-misses              #   32.276 % of all cache refs,
+2127.259310694 seconds time elapsed,
+PR-Async\n,# started on Wed Sep 25 23:13:32 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+329,750,298,881      cache-references,    96,548,135,428      cache-misses              #   29.279 % of all cache refs    
+,    1264.511380506 seconds time elapsed
+,PR-Sync\n
+# started on Wed Sep 25 23:34:40 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   367,145,070,069      cache-references                                            
+119,567,988,836      cache-misses              #   32.567 % of all cache refs,
+2178.419133101 seconds time elapsed,
+PR-Async\n,# started on Thu Sep 26 00:11:20 2019
+,
+Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':,
+351,690,658,240      cache-references,   105,562,380,549      cache-misses              #   30.016 % of all cache refs    
+,    1353.122727909 seconds time elapsed
+,PR-Sync\n
+# started on Thu Sep 26 00:33:57 2019,
+, Performance counter stats for '/home/puneet/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /home/puneet/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/twitter_rv/twitter_rv-default.txt niters 10':
+,   377,721,944,478      cache-references                                            
+121,777,573,504      cache-misses              #   32.240 % of all cache refs,
+2489.331203215 seconds time elapsed,

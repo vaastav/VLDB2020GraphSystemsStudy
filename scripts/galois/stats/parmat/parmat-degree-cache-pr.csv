@@ -1,0 +1,900 @@
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,384,496      cache-references                                            
+         9,095,152      cache-misses              #   34.472 % of all cache refs    
+
+       0.276723736 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,077,483      cache-references                                            
+         9,202,561      cache-misses              #   45.835 % of all cache refs    
+
+       0.210702167 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,229,971      cache-references                                            
+         9,363,520      cache-misses              #   38.644 % of all cache refs    
+
+       0.273243449 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,331,996      cache-references                                            
+         9,407,990      cache-misses              #   28.225 % of all cache refs    
+
+       0.365998297 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,161,129      cache-references                                            
+         9,133,737      cache-misses              #   34.913 % of all cache refs    
+
+       0.193043843 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,139,308      cache-references                                            
+         9,111,080      cache-misses              #   45.240 % of all cache refs    
+
+       0.210169468 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,215,789      cache-references                                            
+         9,366,332      cache-misses              #   38.679 % of all cache refs    
+
+       0.278775744 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,403,354      cache-references                                            
+         9,429,878      cache-misses              #   28.230 % of all cache refs    
+
+       0.372392267 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,184,583      cache-references                                            
+         9,168,022      cache-misses              #   35.013 % of all cache refs    
+
+       0.207850801 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,077,628      cache-references                                            
+         9,083,844      cache-misses              #   45.244 % of all cache refs    
+
+       0.195448781 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,186,213      cache-references                                            
+         9,375,705      cache-misses              #   38.765 % of all cache refs    
+
+       0.287650186 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,416,231      cache-references                                            
+         9,412,669      cache-misses              #   28.168 % of all cache refs    
+
+       0.367659378 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,166,266      cache-references                                            
+         9,086,231      cache-misses              #   34.725 % of all cache refs    
+
+       0.207302341 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,088,680      cache-references                                            
+         9,170,668      cache-misses              #   45.651 % of all cache refs    
+
+       0.200994396 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,278,841      cache-references                                            
+         9,376,578      cache-misses              #   38.620 % of all cache refs    
+
+       0.267263562 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,368,031      cache-references                                            
+         9,387,748      cache-misses              #   28.134 % of all cache refs    
+
+       0.360370386 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,253,977      cache-references                                            
+         9,128,653      cache-misses              #   34.771 % of all cache refs    
+
+       0.206716714 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,126,334      cache-references                                            
+         9,105,368      cache-misses              #   45.241 % of all cache refs    
+
+       0.210754853 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,187,239      cache-references                                            
+         9,363,529      cache-misses              #   38.713 % of all cache refs    
+
+       0.279103559 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,406,183      cache-references                                            
+         9,411,976      cache-misses              #   28.174 % of all cache refs    
+
+       0.369117524 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,222,034      cache-references                                            
+         9,105,342      cache-misses              #   34.724 % of all cache refs    
+
+       0.205389155 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,107,417      cache-references                                            
+         9,187,864      cache-misses              #   45.694 % of all cache refs    
+
+       0.201947936 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,274,778      cache-references                                            
+         9,404,803      cache-misses              #   38.743 % of all cache refs    
+
+       0.273369497 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,425,489      cache-references                                            
+         9,433,409      cache-misses              #   28.222 % of all cache refs    
+
+       0.373626943 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,137,476      cache-references                                            
+         9,135,001      cache-misses              #   34.950 % of all cache refs    
+
+       0.204661069 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,044,137      cache-references                                            
+         9,107,383      cache-misses              #   45.437 % of all cache refs    
+
+       0.213696912 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,176,356      cache-references                                            
+         9,380,326      cache-misses              #   38.800 % of all cache refs    
+
+       0.288229695 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,468,601      cache-references                                            
+         9,412,814      cache-misses              #   28.124 % of all cache refs    
+
+       0.368123943 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,318,372      cache-references                                            
+         9,106,468      cache-misses              #   34.601 % of all cache refs    
+
+       0.204480095 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,083,075      cache-references                                            
+         9,238,742      cache-misses              #   46.003 % of all cache refs    
+
+       0.213643116 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,276,305      cache-references                                            
+         9,377,346      cache-misses              #   38.628 % of all cache refs    
+
+       0.282938337 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,427,265      cache-references                                            
+         9,436,183      cache-misses              #   28.229 % of all cache refs    
+
+       0.372697866 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,315,625      cache-references                                            
+         9,031,985      cache-misses              #   34.322 % of all cache refs    
+
+       0.204865259 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,116,784      cache-references                                            
+         9,020,900      cache-misses              #   44.843 % of all cache refs    
+
+       0.205528135 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,269,857      cache-references                                            
+         9,374,145      cache-misses              #   38.625 % of all cache refs    
+
+       0.274010862 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,466,706      cache-references                                            
+         9,361,360      cache-misses              #   27.972 % of all cache refs    
+
+       0.372456036 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,164,615      cache-references                                            
+         9,044,007      cache-misses              #   34.566 % of all cache refs    
+
+       0.207671158 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,095,215      cache-references                                            
+         9,071,773      cache-misses              #   45.144 % of all cache refs    
+
+       0.196282441 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,254,124      cache-references                                            
+         9,362,285      cache-misses              #   38.601 % of all cache refs    
+
+       0.284359985 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,434,475      cache-references                                            
+         9,392,180      cache-misses              #   28.091 % of all cache refs    
+
+       0.363856474 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,167,135      cache-references                                            
+         9,093,306      cache-misses              #   34.751 % of all cache refs    
+
+       0.198884259 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,084,497      cache-references                                            
+         9,078,302      cache-misses              #   45.201 % of all cache refs    
+
+       0.210032626 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,179,724      cache-references                                            
+         9,358,113      cache-misses              #   38.702 % of all cache refs    
+
+       0.278842781 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,445,899      cache-references                                            
+         9,379,070      cache-misses              #   28.043 % of all cache refs    
+
+       0.368784127 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,126,714      cache-references                                            
+         9,017,690      cache-misses              #   34.515 % of all cache refs    
+
+       0.202377174 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,062,556      cache-references                                            
+         9,063,716      cache-misses              #   45.177 % of all cache refs    
+
+       0.196516647 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,222,125      cache-references                                            
+         9,354,177      cache-misses              #   38.618 % of all cache refs    
+
+       0.283710431 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,440,945      cache-references                                            
+         9,374,336      cache-misses              #   28.033 % of all cache refs    
+
+       0.368696554 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,177,087      cache-references                                            
+         9,075,745      cache-misses              #   34.671 % of all cache refs    
+
+       0.199462670 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,141,803      cache-references                                            
+         9,080,999      cache-misses              #   45.085 % of all cache refs    
+
+       0.201851804 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,401,419      cache-references                                            
+         9,357,293      cache-misses              #   38.347 % of all cache refs    
+
+       0.274693355 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,413,403      cache-references                                            
+         9,382,766      cache-misses              #   28.081 % of all cache refs    
+
+       0.369328566 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,152,039      cache-references                                            
+         9,115,964      cache-misses              #   34.858 % of all cache refs    
+
+       0.206695617 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,106,842      cache-references                                            
+         9,093,843      cache-misses              #   45.228 % of all cache refs    
+
+       0.196239652 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,266,076      cache-references                                            
+         9,353,557      cache-misses              #   38.546 % of all cache refs    
+
+       0.279454898 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,486,594      cache-references                                            
+         9,397,197      cache-misses              #   28.063 % of all cache refs    
+
+       0.369464780 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,193,946      cache-references                                            
+         9,110,584      cache-misses              #   34.781 % of all cache refs    
+
+       0.192902036 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,093,950      cache-references                                            
+         9,096,279      cache-misses              #   45.269 % of all cache refs    
+
+       0.203603529 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,292,969      cache-references                                            
+         9,372,562      cache-misses              #   38.581 % of all cache refs    
+
+       0.285543318 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,443,685      cache-references                                            
+         9,395,319      cache-misses              #   28.093 % of all cache refs    
+
+       0.372527317 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,175,021      cache-references                                            
+         9,111,272      cache-misses              #   34.809 % of all cache refs    
+
+       0.206147424 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,143,319      cache-references                                            
+         9,115,438      cache-misses              #   45.253 % of all cache refs    
+
+       0.205153643 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,223,685      cache-references                                            
+         9,361,234      cache-misses              #   38.645 % of all cache refs    
+
+       0.268073028 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,425,157      cache-references                                            
+         9,375,095      cache-misses              #   28.048 % of all cache refs    
+
+       0.367521173 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,200,976      cache-references                                            
+         9,098,453      cache-misses              #   34.726 % of all cache refs    
+
+       0.206982712 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,056,362      cache-references                                            
+         9,097,176      cache-misses              #   45.358 % of all cache refs    
+
+       0.213253713 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,227,042      cache-references                                            
+         9,370,774      cache-misses              #   38.679 % of all cache refs    
+
+       0.282946743 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,416,022      cache-references                                            
+         9,403,221      cache-misses              #   28.140 % of all cache refs    
+
+       0.372321397 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,220,759      cache-references                                            
+         9,096,412      cache-misses              #   34.692 % of all cache refs    
+
+       0.210924526 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,096,350      cache-references                                            
+         9,097,222      cache-misses              #   45.268 % of all cache refs    
+
+       0.195613439 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,342,217      cache-references                                            
+         9,398,914      cache-misses              #   38.612 % of all cache refs    
+
+       0.283599190 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,425,178      cache-references                                            
+         9,378,420      cache-misses              #   28.058 % of all cache refs    
+
+       0.360265989 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,147,852      cache-references                                            
+         9,062,107      cache-misses              #   34.657 % of all cache refs    
+
+       0.202220867 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,111,008      cache-references                                            
+         9,045,491      cache-misses              #   44.978 % of all cache refs    
+
+       0.195114169 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,198,481      cache-references                                            
+         9,353,025      cache-misses              #   38.651 % of all cache refs    
+
+       0.273891218 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,405,949      cache-references                                            
+         9,403,066      cache-misses              #   28.148 % of all cache refs    
+
+       0.372869964 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,247,418      cache-references                                            
+         9,065,900      cache-misses              #   34.540 % of all cache refs    
+
+       0.207358054 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,104,515      cache-references                                            
+         9,063,216      cache-misses              #   45.081 % of all cache refs    
+
+       0.199687195 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,181,161      cache-references                                            
+         9,374,698      cache-misses              #   38.769 % of all cache refs    
+
+       0.274332941 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,465,344      cache-references                                            
+         9,385,456      cache-misses              #   28.045 % of all cache refs    
+
+       0.358143165 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,238,452      cache-references                                            
+         9,030,764      cache-misses              #   34.418 % of all cache refs    
+
+       0.200001803 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,097,913      cache-references                                            
+         9,038,761      cache-misses              #   44.974 % of all cache refs    
+
+       0.206396705 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,270,110      cache-references                                            
+         9,359,412      cache-misses              #   38.564 % of all cache refs    
+
+       0.273982284 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,290,102      cache-references                                            
+         9,390,939      cache-misses              #   28.209 % of all cache refs    
+
+       0.373776819 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,272,948      cache-references                                            
+         9,035,061      cache-misses              #   34.389 % of all cache refs    
+
+       0.206289634 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,106,205      cache-references                                            
+         9,052,294      cache-misses              #   45.022 % of all cache refs    
+
+       0.205655785 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,273,976      cache-references                                            
+         9,359,901      cache-misses              #   38.559 % of all cache refs    
+
+       0.274478098 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,473,186      cache-references                                            
+         9,397,196      cache-misses              #   28.074 % of all cache refs    
+
+       0.369688085 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,167,945      cache-references                                            
+         9,026,427      cache-misses              #   34.494 % of all cache refs    
+
+       0.193441754 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,103,614      cache-references                                            
+         9,038,025      cache-misses              #   44.957 % of all cache refs    
+
+       0.210031629 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,262,678      cache-references                                            
+         9,375,870      cache-misses              #   38.643 % of all cache refs    
+
+       0.279031211 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,452,637      cache-references                                            
+         9,399,362      cache-misses              #   28.098 % of all cache refs    
+
+       0.372676694 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,163,593      cache-references                                            
+         9,036,545      cache-misses              #   34.539 % of all cache refs    
+
+       0.207538627 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,113,269      cache-references                                            
+         9,040,663      cache-misses              #   44.949 % of all cache refs    
+
+       0.211021731 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,173,620      cache-references                                            
+         9,371,822      cache-misses              #   38.769 % of all cache refs    
+
+       0.278759416 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,354,702      cache-references                                            
+         9,418,653      cache-misses              #   28.238 % of all cache refs    
+
+       0.374332310 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        26,212,439      cache-references                                            
+         9,029,886      cache-misses              #   34.449 % of all cache refs    
+
+       0.202462915 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        20,090,095      cache-references                                            
+         9,024,500      cache-misses              #   44.920 % of all cache refs    
+
+       0.211244258 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        24,302,453      cache-references                                            
+         9,371,027      cache-misses              #   38.560 % of all cache refs    
+
+       0.273982730 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/parmat/parmat-degree.gr':
+
+        33,427,724      cache-references                                            
+         9,400,716      cache-misses              #   28.123 % of all cache refs    
+
+       0.364687884 seconds time elapsed
+

@@ -1,0 +1,550 @@
+PR-Async\n
+# started on Tue Sep 24 12:28:46 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,519,121,199      cache-references                                            
+     4,167,068,088      cache-misses              #   25.226 % of all cache refs    
+
+      31.742210972 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:29:18 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,145,593,307      cache-references                                            
+     5,267,672,154      cache-misses              #   30.723 % of all cache refs    
+
+      35.696643278 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:29:54 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,670,333,546      cache-references                                            
+     4,173,822,273      cache-misses              #   25.037 % of all cache refs    
+
+      31.417176157 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:30:25 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,101,581,662      cache-references                                            
+     5,269,071,329      cache-misses              #   30.810 % of all cache refs    
+
+      35.383203252 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:31:01 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    15,869,809,241      cache-references                                            
+     4,101,413,824      cache-misses              #   25.844 % of all cache refs    
+
+      31.365807247 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:31:32 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,105,871,595      cache-references                                            
+     5,265,801,157      cache-misses              #   30.784 % of all cache refs    
+
+      35.706528549 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:32:08 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,435,116,204      cache-references                                            
+     4,126,515,729      cache-misses              #   25.108 % of all cache refs    
+
+      31.592820745 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:32:40 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,372,115,952      cache-references                                            
+     5,297,147,733      cache-misses              #   30.492 % of all cache refs    
+
+      35.705152199 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:33:16 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,804,327,340      cache-references                                            
+     4,168,732,301      cache-misses              #   24.807 % of all cache refs    
+
+      31.479726041 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:33:47 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,179,097,457      cache-references                                            
+     5,267,419,162      cache-misses              #   30.662 % of all cache refs    
+
+      35.375902525 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:34:23 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,736,026,166      cache-references                                            
+     4,176,584,363      cache-misses              #   24.956 % of all cache refs    
+
+      31.396965502 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:34:54 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,251,389,902      cache-references                                            
+     5,285,076,149      cache-misses              #   30.636 % of all cache refs    
+
+      34.709939622 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:35:29 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,411,514,634      cache-references                                            
+     4,183,092,139      cache-misses              #   25.489 % of all cache refs    
+
+      31.459734791 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:36:01 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,076,051,828      cache-references                                            
+     5,271,527,658      cache-misses              #   30.871 % of all cache refs    
+
+      35.352024656 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:36:36 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,825,811,580      cache-references                                            
+     4,155,928,384      cache-misses              #   24.700 % of all cache refs    
+
+      31.670786460 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:37:08 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,109,972,254      cache-references                                            
+     5,283,129,062      cache-misses              #   30.877 % of all cache refs    
+
+      35.718769008 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:37:44 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    15,517,123,819      cache-references                                            
+     4,092,473,783      cache-misses              #   26.374 % of all cache refs    
+
+      31.235495521 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:38:15 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,540,104,041      cache-references                                            
+     5,312,897,279      cache-misses              #   30.290 % of all cache refs    
+
+      35.284111854 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:38:51 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,738,417,211      cache-references                                            
+     4,157,236,935      cache-misses              #   24.836 % of all cache refs    
+
+      31.652019346 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:39:22 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,248,228,602      cache-references                                            
+     5,288,412,683      cache-misses              #   30.661 % of all cache refs    
+
+      35.102438581 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:39:58 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,248,158,216      cache-references                                            
+     4,193,217,550      cache-misses              #   25.807 % of all cache refs    
+
+      31.588421326 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:40:29 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,221,197,304      cache-references                                            
+     5,279,740,260      cache-misses              #   30.658 % of all cache refs    
+
+      35.126265269 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:41:05 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,393,166,014      cache-references                                            
+     4,165,561,996      cache-misses              #   25.410 % of all cache refs    
+
+      31.579790284 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:41:36 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,102,788,046      cache-references                                            
+     5,282,286,629      cache-misses              #   30.886 % of all cache refs    
+
+      35.248504931 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:42:12 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,301,424,456      cache-references                                            
+     4,150,313,391      cache-misses              #   25.460 % of all cache refs    
+
+      31.461044653 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:42:43 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,273,404,168      cache-references                                            
+     5,266,699,032      cache-misses              #   30.490 % of all cache refs    
+
+      35.565385067 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:43:19 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,920,022,215      cache-references                                            
+     4,179,224,948      cache-misses              #   24.700 % of all cache refs    
+
+      31.358622194 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:43:51 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,148,958,344      cache-references                                            
+     5,282,079,143      cache-misses              #   30.801 % of all cache refs    
+
+      34.984079376 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:44:26 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,263,906,095      cache-references                                            
+     4,113,812,730      cache-misses              #   25.294 % of all cache refs    
+
+      31.495967744 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:44:57 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,395,140,361      cache-references                                            
+     5,288,724,011      cache-misses              #   30.403 % of all cache refs    
+
+      35.507648524 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:45:33 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,669,012,038      cache-references                                            
+     4,191,924,219      cache-misses              #   25.148 % of all cache refs    
+
+      31.594724711 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:46:05 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,221,781,959      cache-references                                            
+     5,270,209,832      cache-misses              #   30.602 % of all cache refs    
+
+      35.132753381 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:46:40 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,343,356,025      cache-references                                            
+     4,163,386,877      cache-misses              #   25.474 % of all cache refs    
+
+      31.532503780 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:47:11 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,265,171,101      cache-references                                            
+     5,316,194,101      cache-misses              #   30.791 % of all cache refs    
+
+      35.205174937 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:47:47 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    15,742,531,729      cache-references                                            
+     4,144,661,251      cache-misses              #   26.328 % of all cache refs    
+
+      31.406741691 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:48:18 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,261,697,379      cache-references                                            
+     5,287,323,053      cache-misses              #   30.630 % of all cache refs    
+
+      35.527821355 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:48:54 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,107,734,485      cache-references                                            
+     4,145,682,559      cache-misses              #   25.737 % of all cache refs    
+
+      31.579758408 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:49:26 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,213,638,465      cache-references                                            
+     5,289,183,152      cache-misses              #   30.727 % of all cache refs    
+
+      35.102509327 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:50:01 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,616,229,891      cache-references                                            
+     4,173,600,863      cache-misses              #   25.118 % of all cache refs    
+
+      31.478077781 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:50:32 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,137,334,236      cache-references                                            
+     5,264,925,208      cache-misses              #   30.722 % of all cache refs    
+
+      35.484031895 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:51:08 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,241,585,082      cache-references                                            
+     4,124,668,139      cache-misses              #   25.396 % of all cache refs    
+
+      31.588515475 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:51:40 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,093,257,740      cache-references                                            
+     5,297,181,225      cache-misses              #   30.990 % of all cache refs    
+
+      35.879781222 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:52:16 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,361,082,933      cache-references                                            
+     4,174,599,757      cache-misses              #   25.515 % of all cache refs    
+
+      31.396719941 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:52:47 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,010,408,032      cache-references                                            
+     5,240,697,252      cache-misses              #   30.809 % of all cache refs    
+
+      34.993987082 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:53:23 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,236,256,177      cache-references                                            
+     4,119,008,512      cache-misses              #   25.369 % of all cache refs    
+
+      31.299687478 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:53:54 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,038,649,401      cache-references                                            
+     5,270,248,543      cache-misses              #   30.931 % of all cache refs    
+
+      35.276602224 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:54:29 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,271,809,083      cache-references                                            
+     4,170,733,314      cache-misses              #   25.632 % of all cache refs    
+
+      31.488533274 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:55:01 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,439,401,623      cache-references                                            
+     5,305,630,832      cache-misses              #   30.423 % of all cache refs    
+
+      36.798575344 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:55:38 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    16,320,488,660      cache-references                                            
+     4,185,171,010      cache-misses              #   25.644 % of all cache refs    
+
+      31.434307310 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:56:09 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/soc-livejournal/soc-LiveJournal1-degree.txt niters 10':
+
+    17,279,951,580      cache-references                                            
+     5,304,588,405      cache-misses              #   30.698 % of all cache refs    
+
+      35.779465806 seconds time elapsed
+

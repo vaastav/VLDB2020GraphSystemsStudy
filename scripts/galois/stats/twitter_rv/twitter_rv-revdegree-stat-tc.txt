@@ -1,0 +1,13 @@
+STAT_TYPE, REGION, CATEGORY, TOTAL_TYPE, TOTAL
+STAT, PageAlloc, MeminfoPre, TSUM, 11536
+STAT, PageAlloc, MeminfoPost, TSUM, 11536
+STAT, Initialize, Iterations, TSUM, 41652230
+STAT, Initialize, Time, TMAX, 548
+STAT, edgeIteratingAlgo, Iterations, TSUM, 542024979
+STAT, edgeIteratingAlgo, Time, TMAX, 577988
+STAT, edgeIteratorAlgo, Time, TMAX, 577988
+STAT, (NULL), Time, TMAX, 578563
+STAT, (NULL), GraphReadingTime, TMAX, 36713
+PARAM, (NULL), CommandLine, SINGLE, /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/triangles/triangles -algo=edgeiterator -t=16 -statFile=stats/twitter_rv/twitter_rv-revdegree-stat-tc.txt ../datasets/twitter_rv/twitter_rv-revdegree.gr
+PARAM, (NULL), Threads, SINGLE, 12
+PARAM, (NULL), Hostname, SINGLE, hennessy

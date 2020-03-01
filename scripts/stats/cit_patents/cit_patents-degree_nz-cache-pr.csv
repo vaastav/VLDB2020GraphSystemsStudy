@@ -1,0 +1,900 @@
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       553,350,728      cache-references                                            
+       192,014,923      cache-misses              #   34.700 % of all cache refs    
+
+       2.006000886 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       449,713,891      cache-references                                            
+       165,975,885      cache-misses              #   36.907 % of all cache refs    
+
+       1.363565661 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,271,664      cache-references                                            
+        99,482,907      cache-misses              #   47.538 % of all cache refs    
+
+       1.208168030 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,259,740      cache-references                                            
+       149,199,123      cache-misses              #   48.400 % of all cache refs    
+
+       1.954240269 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       548,129,289      cache-references                                            
+       191,279,621      cache-misses              #   34.897 % of all cache refs    
+
+       1.455471205 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       437,819,927      cache-references                                            
+       163,384,830      cache-misses              #   37.318 % of all cache refs    
+
+       1.385101672 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,977,582      cache-references                                            
+        99,362,359      cache-misses              #   47.547 % of all cache refs    
+
+       1.208113495 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,658,960      cache-references                                            
+       147,673,473      cache-misses              #   47.844 % of all cache refs    
+
+       1.951970410 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       551,418,880      cache-references                                            
+       193,739,763      cache-misses              #   35.135 % of all cache refs    
+
+       1.466445869 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       474,837,268      cache-references                                            
+       167,799,930      cache-misses              #   35.338 % of all cache refs    
+
+       1.525270530 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,596,290      cache-references                                            
+        99,472,544      cache-misses              #   47.687 % of all cache refs    
+
+       1.209442472 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       307,448,240      cache-references                                            
+       147,508,256      cache-misses              #   47.978 % of all cache refs    
+
+       1.964066450 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       548,161,545      cache-references                                            
+       194,331,196      cache-misses              #   35.451 % of all cache refs    
+
+       1.462958354 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       451,200,118      cache-references                                            
+       160,955,712      cache-misses              #   35.673 % of all cache refs    
+
+       1.366248705 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,158,760      cache-references                                            
+       100,282,595      cache-misses              #   47.946 % of all cache refs    
+
+       1.214294394 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       307,639,217      cache-references                                            
+       147,710,970      cache-misses              #   48.014 % of all cache refs    
+
+       1.951445591 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       548,384,098      cache-references                                            
+       195,845,091      cache-misses              #   35.713 % of all cache refs    
+
+       1.480888250 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       450,059,117      cache-references                                            
+       162,839,591      cache-misses              #   36.182 % of all cache refs    
+
+       1.369700095 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,737,488      cache-references                                            
+        99,518,841      cache-misses              #   47.449 % of all cache refs    
+
+       1.213275975 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       309,675,623      cache-references                                            
+       149,429,500      cache-misses              #   48.254 % of all cache refs    
+
+       1.958765304 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       547,841,247      cache-references                                            
+       192,170,194      cache-misses              #   35.078 % of all cache refs    
+
+       1.455008442 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       440,639,984      cache-references                                            
+       156,177,472      cache-misses              #   35.443 % of all cache refs    
+
+       1.359551956 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,902,723      cache-references                                            
+        99,326,304      cache-misses              #   47.547 % of all cache refs    
+
+       1.210166862 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       309,676,208      cache-references                                            
+       149,686,284      cache-misses              #   48.336 % of all cache refs    
+
+       1.966263116 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       549,655,560      cache-references                                            
+       192,053,311      cache-misses              #   34.941 % of all cache refs    
+
+       1.458615450 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       456,432,383      cache-references                                            
+       165,994,679      cache-misses              #   36.368 % of all cache refs    
+
+       1.378089962 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,794,913      cache-references                                            
+        99,539,896      cache-misses              #   47.674 % of all cache refs    
+
+       1.209197562 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,807,612      cache-references                                            
+       147,723,978      cache-misses              #   47.837 % of all cache refs    
+
+       1.947919027 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       548,914,605      cache-references                                            
+       195,139,288      cache-misses              #   35.550 % of all cache refs    
+
+       1.466462469 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       443,988,485      cache-references                                            
+       175,639,295      cache-misses              #   39.559 % of all cache refs    
+
+       1.399411880 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       210,691,681      cache-references                                            
+       100,450,583      cache-misses              #   47.677 % of all cache refs    
+
+       1.207815586 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       307,320,221      cache-references                                            
+       147,723,012      cache-misses              #   48.068 % of all cache refs    
+
+       1.955306978 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       550,213,166      cache-references                                            
+       192,800,637      cache-misses              #   35.041 % of all cache refs    
+
+       1.469996552 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       457,949,100      cache-references                                            
+       160,044,785      cache-misses              #   34.948 % of all cache refs    
+
+       1.362035856 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,882,702      cache-references                                            
+        99,404,493      cache-misses              #   47.589 % of all cache refs    
+
+       1.217674858 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,963,884      cache-references                                            
+       148,299,969      cache-misses              #   47.999 % of all cache refs    
+
+       1.952602987 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       548,329,329      cache-references                                            
+       193,790,360      cache-misses              #   35.342 % of all cache refs    
+
+       1.468298077 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       451,987,873      cache-references                                            
+       161,109,414      cache-misses              #   35.645 % of all cache refs    
+
+       1.357480810 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,348,389      cache-references                                            
+        99,584,892      cache-misses              #   47.569 % of all cache refs    
+
+       1.207519323 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,312,995      cache-references                                            
+       149,398,820      cache-misses              #   48.457 % of all cache refs    
+
+       1.957515768 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       548,884,219      cache-references                                            
+       195,437,476      cache-misses              #   35.606 % of all cache refs    
+
+       1.466160282 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       436,343,171      cache-references                                            
+       159,042,770      cache-misses              #   36.449 % of all cache refs    
+
+       1.363605164 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,604,857      cache-references                                            
+       100,401,108      cache-misses              #   47.900 % of all cache refs    
+
+       1.215851965 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       307,486,834      cache-references                                            
+       148,098,026      cache-misses              #   48.164 % of all cache refs    
+
+       1.939387802 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       546,394,267      cache-references                                            
+       191,450,457      cache-misses              #   35.039 % of all cache refs    
+
+       1.459956936 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       433,023,899      cache-references                                            
+       160,204,685      cache-misses              #   36.997 % of all cache refs    
+
+       1.367692072 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       210,371,547      cache-references                                            
+        99,661,988      cache-misses              #   47.374 % of all cache refs    
+
+       1.212757544 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       310,422,257      cache-references                                            
+       149,026,613      cache-misses              #   48.008 % of all cache refs    
+
+       1.958168671 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       581,950,744      cache-references                                            
+       201,666,631      cache-misses              #   34.654 % of all cache refs    
+
+       1.632614367 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       437,558,082      cache-references                                            
+       159,086,752      cache-misses              #   36.358 % of all cache refs    
+
+       1.367430200 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,936,305      cache-references                                            
+        99,397,121      cache-misses              #   47.573 % of all cache refs    
+
+       1.217902149 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       307,703,468      cache-references                                            
+       148,156,203      cache-misses              #   48.149 % of all cache refs    
+
+       1.951102787 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       547,084,648      cache-references                                            
+       196,102,203      cache-misses              #   35.845 % of all cache refs    
+
+       1.470304903 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       454,621,836      cache-references                                            
+       160,013,825      cache-misses              #   35.197 % of all cache refs    
+
+       1.365928971 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,032,504      cache-references                                            
+        99,534,683      cache-misses              #   47.617 % of all cache refs    
+
+       1.206097447 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,011,753      cache-references                                            
+       148,238,675      cache-misses              #   48.128 % of all cache refs    
+
+       1.947695050 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       565,173,656      cache-references                                            
+       196,237,278      cache-misses              #   34.722 % of all cache refs    
+
+       1.557662689 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       451,841,007      cache-references                                            
+       165,202,277      cache-misses              #   36.562 % of all cache refs    
+
+       1.368338686 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,512,260      cache-references                                            
+        99,425,834      cache-misses              #   47.683 % of all cache refs    
+
+       1.209530704 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,442,219      cache-references                                            
+       147,832,836      cache-misses              #   47.929 % of all cache refs    
+
+       1.957427456 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       549,969,767      cache-references                                            
+       193,341,331      cache-misses              #   35.155 % of all cache refs    
+
+       1.462267575 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       455,435,340      cache-references                                            
+       160,784,330      cache-misses              #   35.303 % of all cache refs    
+
+       1.365726293 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,870,805      cache-references                                            
+        99,667,491      cache-misses              #   47.717 % of all cache refs    
+
+       1.212453855 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       309,389,210      cache-references                                            
+       147,592,334      cache-misses              #   47.704 % of all cache refs    
+
+       1.949365874 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       550,430,152      cache-references                                            
+       192,846,405      cache-misses              #   35.036 % of all cache refs    
+
+       1.463163594 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       450,455,307      cache-references                                            
+       162,504,206      cache-misses              #   36.076 % of all cache refs    
+
+       1.369542731 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,730,217      cache-references                                            
+        99,406,581      cache-misses              #   47.624 % of all cache refs    
+
+       1.212536818 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,852,475      cache-references                                            
+       147,573,963      cache-misses              #   47.781 % of all cache refs    
+
+       1.949458714 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       548,618,940      cache-references                                            
+       191,556,943      cache-misses              #   34.916 % of all cache refs    
+
+       1.460637003 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       451,153,966      cache-references                                            
+       163,000,253      cache-misses              #   36.130 % of all cache refs    
+
+       1.366746130 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,281,399      cache-references                                            
+        99,660,919      cache-misses              #   47.621 % of all cache refs    
+
+       1.216104765 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       309,787,388      cache-references                                            
+       148,057,262      cache-misses              #   47.793 % of all cache refs    
+
+       1.955069767 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       548,309,353      cache-references                                            
+       191,614,782      cache-misses              #   34.946 % of all cache refs    
+
+       1.459970270 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       437,658,257      cache-references                                            
+       164,226,924      cache-misses              #   37.524 % of all cache refs    
+
+       1.377962381 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,394,321      cache-references                                            
+       100,111,092      cache-misses              #   48.039 % of all cache refs    
+
+       1.209418747 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,342,116      cache-references                                            
+       147,990,536      cache-misses              #   47.996 % of all cache refs    
+
+       1.953543017 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       552,293,908      cache-references                                            
+       192,579,766      cache-misses              #   34.869 % of all cache refs    
+
+       1.464971293 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       456,484,632      cache-references                                            
+       161,287,734      cache-misses              #   35.333 % of all cache refs    
+
+       1.368589643 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,541,972      cache-references                                            
+        99,424,837      cache-misses              #   47.449 % of all cache refs    
+
+       1.211026220 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       306,805,418      cache-references                                            
+       147,753,985      cache-misses              #   48.159 % of all cache refs    
+
+       1.945365606 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       553,927,593      cache-references                                            
+       192,098,563      cache-misses              #   34.679 % of all cache refs    
+
+       1.460890710 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       447,938,275      cache-references                                            
+       171,994,499      cache-misses              #   38.397 % of all cache refs    
+
+       1.390453700 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,464,821      cache-references                                            
+        99,275,859      cache-misses              #   47.395 % of all cache refs    
+
+       1.206236123 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       307,472,641      cache-references                                            
+       147,520,455      cache-misses              #   47.978 % of all cache refs    
+
+       1.948600540 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       551,542,997      cache-references                                            
+       193,366,811      cache-misses              #   35.059 % of all cache refs    
+
+       1.461910113 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       440,302,753      cache-references                                            
+       158,168,778      cache-misses              #   35.923 % of all cache refs    
+
+       1.363156744 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,930,697      cache-references                                            
+        99,709,207      cache-misses              #   47.724 % of all cache refs    
+
+       1.207863069 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       307,306,418      cache-references                                            
+       147,353,474      cache-misses              #   47.950 % of all cache refs    
+
+       1.978343771 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       547,877,496      cache-references                                            
+       192,285,263      cache-misses              #   35.096 % of all cache refs    
+
+       1.464531138 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       446,758,468      cache-references                                            
+       167,245,511      cache-misses              #   37.435 % of all cache refs    
+
+       1.377268741 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       208,626,708      cache-references                                            
+        99,192,083      cache-misses              #   47.545 % of all cache refs    
+
+       1.211562917 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       308,089,291      cache-references                                            
+       147,838,264      cache-misses              #   47.986 % of all cache refs    
+
+       1.946396386 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       550,686,900      cache-references                                            
+       193,764,048      cache-misses              #   35.186 % of all cache refs    
+
+       1.466862898 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       450,366,992      cache-references                                            
+       163,988,289      cache-misses              #   36.412 % of all cache refs    
+
+       1.372214176 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       210,172,221      cache-references                                            
+        99,422,156      cache-misses              #   47.305 % of all cache refs    
+
+       1.209101824 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       309,973,483      cache-references                                            
+       148,126,916      cache-misses              #   47.787 % of all cache refs    
+
+       1.953522181 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       549,668,603      cache-references                                            
+       192,855,270      cache-misses              #   35.086 % of all cache refs    
+
+       1.463273300 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       435,475,964      cache-references                                            
+       178,138,164      cache-misses              #   40.907 % of all cache refs    
+
+       1.419485734 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       209,214,201      cache-references                                            
+        99,455,320      cache-misses              #   47.538 % of all cache refs    
+
+       1.210020142 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/cit-patents/cit-Patents-degree_nz.gr':
+
+       306,884,020      cache-references                                            
+       147,260,090      cache-misses              #   47.986 % of all cache refs    
+
+       1.962375618 seconds time elapsed
+

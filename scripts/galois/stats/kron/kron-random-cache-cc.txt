@@ -1,0 +1,1925 @@
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,553,904      cache-references                                            
+         9,576,267      cache-misses              #   90.737 % of all cache refs    
+
+       0.227633966 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,593,181      cache-references                                            
+         9,614,755      cache-misses              #   90.764 % of all cache refs    
+
+       0.228303590 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,565,600      cache-references                                            
+         9,588,107      cache-misses              #   90.748 % of all cache refs    
+
+       0.225686652 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,630,343      cache-references                                            
+         9,605,083      cache-misses              #   90.355 % of all cache refs    
+
+       0.225107961 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,711,991      cache-references                                            
+         9,653,459      cache-misses              #   90.118 % of all cache refs    
+
+       0.228483916 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,619,655      cache-references                                            
+         9,618,018      cache-misses              #   90.568 % of all cache refs    
+
+       0.234408171 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,619,669      cache-references                                            
+         9,636,329      cache-misses              #   90.740 % of all cache refs    
+
+       0.233887946 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,685,092      cache-references                                            
+         9,684,023      cache-misses              #   90.631 % of all cache refs    
+
+       0.231549309 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,633,966      cache-references                                            
+         9,649,028      cache-misses              #   90.738 % of all cache refs    
+
+       0.227176586 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,580,954      cache-references                                            
+         9,609,589      cache-misses              #   90.820 % of all cache refs    
+
+       0.233676422 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,565,946      cache-references                                            
+         9,602,572      cache-misses              #   90.882 % of all cache refs    
+
+       0.218551214 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,598,568      cache-references                                            
+         9,620,277      cache-misses              #   90.770 % of all cache refs    
+
+       0.222201755 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,609,975      cache-references                                            
+         9,633,722      cache-misses              #   90.799 % of all cache refs    
+
+       0.220166789 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,596,236      cache-references                                            
+         9,601,555      cache-misses              #   90.613 % of all cache refs    
+
+       0.239519058 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,596,487      cache-references                                            
+         9,600,016      cache-misses              #   90.596 % of all cache refs    
+
+       0.230569893 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,631,502      cache-references                                            
+         9,634,696      cache-misses              #   90.624 % of all cache refs    
+
+       0.233210118 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,603,127      cache-references                                            
+         9,590,311      cache-misses              #   90.448 % of all cache refs    
+
+       0.234394493 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,613,979      cache-references                                            
+         9,607,360      cache-misses              #   90.516 % of all cache refs    
+
+       0.225349609 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,608,836      cache-references                                            
+         9,603,952      cache-misses              #   90.528 % of all cache refs    
+
+       0.237002877 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,593,109      cache-references                                            
+         9,616,757      cache-misses              #   90.783 % of all cache refs    
+
+       0.233186434 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,571,415      cache-references                                            
+         9,580,445      cache-misses              #   90.626 % of all cache refs    
+
+       0.229223430 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,590,989      cache-references                                            
+         9,611,228      cache-misses              #   90.749 % of all cache refs    
+
+       0.233255686 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,658,903      cache-references                                            
+         9,670,991      cache-misses              #   90.732 % of all cache refs    
+
+       0.229741168 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,603,571      cache-references                                            
+         9,612,893      cache-misses              #   90.657 % of all cache refs    
+
+       0.222817631 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,565,476      cache-references                                            
+         9,592,283      cache-misses              #   90.789 % of all cache refs    
+
+       0.228462110 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,621,829      cache-references                                            
+         9,605,818      cache-misses              #   90.435 % of all cache refs    
+
+       0.219110403 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,602,748      cache-references                                            
+         9,594,310      cache-misses              #   90.489 % of all cache refs    
+
+       0.217355246 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,610,771      cache-references                                            
+         9,598,597      cache-misses              #   90.461 % of all cache refs    
+
+       0.236309174 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,625,646      cache-references                                            
+         9,632,645      cache-misses              #   90.655 % of all cache refs    
+
+       0.217162352 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,639,324      cache-references                                            
+         9,633,373      cache-misses              #   90.545 % of all cache refs    
+
+       0.218484606 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,612,744      cache-references                                            
+         9,608,543      cache-misses              #   90.538 % of all cache refs    
+
+       0.267699291 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,608,349      cache-references                                            
+         9,585,416      cache-misses              #   90.357 % of all cache refs    
+
+       0.237761675 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,590,277      cache-references                                            
+         9,589,800      cache-misses              #   90.553 % of all cache refs    
+
+       0.231038677 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,605,975      cache-references                                            
+         9,613,673      cache-misses              #   90.644 % of all cache refs    
+
+       0.230695502 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,585,417      cache-references                                            
+         9,596,857      cache-misses              #   90.661 % of all cache refs    
+
+       0.223195328 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,741,276      cache-references                                            
+         9,733,430      cache-misses              #   90.617 % of all cache refs    
+
+       0.224474440 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,603,464      cache-references                                            
+         9,610,822      cache-misses              #   90.639 % of all cache refs    
+
+       0.228119721 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,623,933      cache-references                                            
+         9,606,724      cache-misses              #   90.425 % of all cache refs    
+
+       0.224722423 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,574,893      cache-references                                            
+         9,598,510      cache-misses              #   90.767 % of all cache refs    
+
+       0.233716923 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,577,134      cache-references                                            
+         9,584,466      cache-misses              #   90.615 % of all cache refs    
+
+       0.227904222 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,580,226      cache-references                                            
+         9,604,444      cache-misses              #   90.777 % of all cache refs    
+
+       0.226596505 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,588,258      cache-references                                            
+         9,610,671      cache-misses              #   90.767 % of all cache refs    
+
+       0.223376262 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,622,438      cache-references                                            
+         9,616,101      cache-misses              #   90.526 % of all cache refs    
+
+       0.224213759 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,622,213      cache-references                                            
+         9,607,686      cache-misses              #   90.449 % of all cache refs    
+
+       0.222846838 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,638,928      cache-references                                            
+         9,589,630      cache-misses              #   90.137 % of all cache refs    
+
+       0.238408670 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,641,337      cache-references                                            
+         9,643,188      cache-misses              #   90.620 % of all cache refs    
+
+       0.227109448 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,620,183      cache-references                                            
+         9,639,893      cache-misses              #   90.770 % of all cache refs    
+
+       0.236614399 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,626,059      cache-references                                            
+         9,659,009      cache-misses              #   90.899 % of all cache refs    
+
+       0.233711382 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,589,029      cache-references                                            
+         9,619,669      cache-misses              #   90.846 % of all cache refs    
+
+       0.217985383 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,581,671      cache-references                                            
+         9,605,421      cache-misses              #   90.774 % of all cache refs    
+
+       0.222321069 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,603,314      cache-references                                            
+         9,601,316      cache-misses              #   90.550 % of all cache refs    
+
+       0.226386599 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,600,271      cache-references                                            
+         9,595,303      cache-misses              #   90.519 % of all cache refs    
+
+       0.226778227 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,643,654      cache-references                                            
+         9,605,190      cache-misses              #   90.243 % of all cache refs    
+
+       0.226276648 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,592,942      cache-references                                            
+         9,598,551      cache-misses              #   90.613 % of all cache refs    
+
+       0.225044624 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,592,204      cache-references                                            
+         9,628,852      cache-misses              #   90.905 % of all cache refs    
+
+       0.223394097 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,661,320      cache-references                                            
+         9,658,286      cache-misses              #   90.592 % of all cache refs    
+
+       0.232289662 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,642,116      cache-references                                            
+         9,621,493      cache-misses              #   90.410 % of all cache refs    
+
+       0.226463703 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,628,666      cache-references                                            
+         9,623,341      cache-misses              #   90.541 % of all cache refs    
+
+       0.226470992 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,604,898      cache-references                                            
+         9,601,144      cache-misses              #   90.535 % of all cache refs    
+
+       0.238219317 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,604,750      cache-references                                            
+         9,630,342      cache-misses              #   90.812 % of all cache refs    
+
+       0.226963585 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,582,267      cache-references                                            
+         9,595,605      cache-misses              #   90.676 % of all cache refs    
+
+       0.226818947 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,604,271      cache-references                                            
+         9,613,482      cache-misses              #   90.657 % of all cache refs    
+
+       0.231848288 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,652,783      cache-references                                            
+         9,617,674      cache-misses              #   90.283 % of all cache refs    
+
+       0.223454644 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,692,225      cache-references                                            
+         9,615,043      cache-misses              #   89.926 % of all cache refs    
+
+       0.232794281 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,627,872      cache-references                                            
+         9,609,181      cache-misses              #   90.415 % of all cache refs    
+
+       0.222665848 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,672,112      cache-references                                            
+         9,614,177      cache-misses              #   90.087 % of all cache refs    
+
+       0.225184947 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,610,790      cache-references                                            
+         9,609,364      cache-misses              #   90.562 % of all cache refs    
+
+       0.227183417 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,571,762      cache-references                                            
+         9,605,858      cache-misses              #   90.863 % of all cache refs    
+
+       0.218700586 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,565,916      cache-references                                            
+         9,581,247      cache-misses              #   90.681 % of all cache refs    
+
+       0.226797771 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,596,113      cache-references                                            
+         9,589,313      cache-misses              #   90.498 % of all cache refs    
+
+       0.232681652 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,637,036      cache-references                                            
+         9,619,736      cache-misses              #   90.436 % of all cache refs    
+
+       0.228799893 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,582,680      cache-references                                            
+         9,591,194      cache-misses              #   90.631 % of all cache refs    
+
+       0.237974494 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,610,451      cache-references                                            
+         9,605,977      cache-misses              #   90.533 % of all cache refs    
+
+       0.227693592 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,606,088      cache-references                                            
+         9,599,057      cache-misses              #   90.505 % of all cache refs    
+
+       0.225446564 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,681,908      cache-references                                            
+         9,672,404      cache-misses              #   90.549 % of all cache refs    
+
+       0.227888977 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,650,695      cache-references                                            
+         9,626,995      cache-misses              #   90.388 % of all cache refs    
+
+       0.218462452 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,661,422      cache-references                                            
+         9,675,620      cache-misses              #   90.754 % of all cache refs    
+
+       0.218345095 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,598,190      cache-references                                            
+         9,608,174      cache-misses              #   90.659 % of all cache refs    
+
+       0.235961007 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,584,768      cache-references                                            
+         9,591,423      cache-misses              #   90.615 % of all cache refs    
+
+       0.225311363 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,609,361      cache-references                                            
+         9,592,628      cache-misses              #   90.417 % of all cache refs    
+
+       0.227240999 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,565,266      cache-references                                            
+         9,585,935      cache-misses              #   90.731 % of all cache refs    
+
+       0.231725182 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,582,363      cache-references                                            
+         9,605,847      cache-misses              #   90.772 % of all cache refs    
+
+       0.234974908 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,550,118      cache-references                                            
+         9,572,539      cache-misses              #   90.734 % of all cache refs    
+
+       0.224327165 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,594,481      cache-references                                            
+         9,606,520      cache-misses              #   90.675 % of all cache refs    
+
+       0.227852222 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,639,328      cache-references                                            
+         9,625,356      cache-misses              #   90.470 % of all cache refs    
+
+       0.230541921 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,602,934      cache-references                                            
+         9,622,379      cache-misses              #   90.752 % of all cache refs    
+
+       0.234215352 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,605,043      cache-references                                            
+         9,599,861      cache-misses              #   90.522 % of all cache refs    
+
+       0.233497674 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,587,384      cache-references                                            
+         9,620,657      cache-misses              #   90.869 % of all cache refs    
+
+       0.238253811 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,635,071      cache-references                                            
+         9,616,693      cache-misses              #   90.424 % of all cache refs    
+
+       0.227494891 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,598,479      cache-references                                            
+         9,608,875      cache-misses              #   90.663 % of all cache refs    
+
+       0.233318659 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,637,111      cache-references                                            
+         9,626,352      cache-misses              #   90.498 % of all cache refs    
+
+       0.224898466 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,579,827      cache-references                                            
+         9,599,203      cache-misses              #   90.731 % of all cache refs    
+
+       0.230658475 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,595,932      cache-references                                            
+         9,594,785      cache-misses              #   90.552 % of all cache refs    
+
+       0.222801284 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,599,261      cache-references                                            
+         9,592,571      cache-misses              #   90.502 % of all cache refs    
+
+       0.235738317 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,650,920      cache-references                                            
+         9,620,841      cache-misses              #   90.329 % of all cache refs    
+
+       0.226763101 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,623,348      cache-references                                            
+         9,608,271      cache-misses              #   90.445 % of all cache refs    
+
+       0.231798369 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,647,633      cache-references                                            
+         9,623,052      cache-misses              #   90.377 % of all cache refs    
+
+       0.226418283 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,568,339      cache-references                                            
+         9,574,229      cache-misses              #   90.594 % of all cache refs    
+
+       0.233040569 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,599,483      cache-references                                            
+         9,602,535      cache-misses              #   90.594 % of all cache refs    
+
+       0.232765295 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,688,789      cache-references                                            
+         9,697,660      cache-misses              #   90.727 % of all cache refs    
+
+       0.231362595 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,604,017      cache-references                                            
+         9,606,400      cache-misses              #   90.592 % of all cache refs    
+
+       0.226149735 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,591,417      cache-references                                            
+         9,596,883      cache-misses              #   90.610 % of all cache refs    
+
+       0.224896746 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,609,980      cache-references                                            
+         9,606,173      cache-misses              #   90.539 % of all cache refs    
+
+       0.224236662 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,585,955      cache-references                                            
+         9,587,480      cache-misses              #   90.568 % of all cache refs    
+
+       0.217646506 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,608,671      cache-references                                            
+         9,608,299      cache-misses              #   90.570 % of all cache refs    
+
+       0.228551367 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,624,120      cache-references                                            
+         9,617,298      cache-misses              #   90.523 % of all cache refs    
+
+       0.225294228 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,597,206      cache-references                                            
+         9,596,953      cache-misses              #   90.561 % of all cache refs    
+
+       0.231599313 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,571,978      cache-references                                            
+         9,589,466      cache-misses              #   90.706 % of all cache refs    
+
+       0.234350642 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,586,609      cache-references                                            
+         9,606,645      cache-misses              #   90.743 % of all cache refs    
+
+       0.227465348 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,580,255      cache-references                                            
+         9,598,139      cache-misses              #   90.717 % of all cache refs    
+
+       0.225547197 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,602,443      cache-references                                            
+         9,582,523      cache-misses              #   90.380 % of all cache refs    
+
+       0.225606895 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,599,370      cache-references                                            
+         9,599,332      cache-misses              #   90.565 % of all cache refs    
+
+       0.223006650 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,613,415      cache-references                                            
+         9,606,181      cache-misses              #   90.510 % of all cache refs    
+
+       0.235394341 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,622,894      cache-references                                            
+         9,595,753      cache-misses              #   90.331 % of all cache refs    
+
+       0.217457973 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,683,556      cache-references                                            
+         9,622,427      cache-misses              #   90.068 % of all cache refs    
+
+       0.234342534 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,696,840      cache-references                                            
+         9,582,025      cache-misses              #   89.578 % of all cache refs    
+
+       0.234905104 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,745,082      cache-references                                            
+         9,598,289      cache-misses              #   89.327 % of all cache refs    
+
+       0.232504149 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,680,998      cache-references                                            
+         9,602,378      cache-misses              #   89.902 % of all cache refs    
+
+       0.223178010 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,651,860      cache-references                                            
+         9,617,880      cache-misses              #   90.293 % of all cache refs    
+
+       0.233013922 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,774,759      cache-references                                            
+         9,620,481      cache-misses              #   89.287 % of all cache refs    
+
+       0.227839035 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,694,192      cache-references                                            
+         9,591,434      cache-misses              #   89.688 % of all cache refs    
+
+       0.232686050 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,631,004      cache-references                                            
+         9,614,199      cache-misses              #   90.435 % of all cache refs    
+
+       0.219063856 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,681,512      cache-references                                            
+         9,606,554      cache-misses              #   89.936 % of all cache refs    
+
+       0.227601509 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,661,385      cache-references                                            
+         9,632,572      cache-misses              #   90.350 % of all cache refs    
+
+       0.225791498 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,747,117      cache-references                                            
+         9,598,619      cache-misses              #   89.313 % of all cache refs    
+
+       0.234787159 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,638,441      cache-references                                            
+         9,612,803      cache-misses              #   90.359 % of all cache refs    
+
+       0.230698880 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,671,655      cache-references                                            
+         9,601,728      cache-misses              #   89.974 % of all cache refs    
+
+       0.234651953 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,858,040      cache-references                                            
+         9,674,437      cache-misses              #   89.099 % of all cache refs    
+
+       0.232295331 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,693,246      cache-references                                            
+         9,611,422      cache-misses              #   89.883 % of all cache refs    
+
+       0.236105318 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,642,323      cache-references                                            
+         9,606,057      cache-misses              #   90.263 % of all cache refs    
+
+       0.226928390 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,679,079      cache-references                                            
+         9,626,711      cache-misses              #   90.146 % of all cache refs    
+
+       0.225728588 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,655,600      cache-references                                            
+         9,619,128      cache-misses              #   90.273 % of all cache refs    
+
+       0.230937173 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,642,820      cache-references                                            
+         9,610,957      cache-misses              #   90.305 % of all cache refs    
+
+       0.231363955 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,711,081      cache-references                                            
+         9,633,299      cache-misses              #   89.938 % of all cache refs    
+
+       0.223106884 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,692,276      cache-references                                            
+         9,587,047      cache-misses              #   89.663 % of all cache refs    
+
+       0.226772502 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,696,698      cache-references                                            
+         9,590,067      cache-misses              #   89.654 % of all cache refs    
+
+       0.228021638 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,703,729      cache-references                                            
+         9,609,140      cache-misses              #   89.774 % of all cache refs    
+
+       0.227419199 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,679,482      cache-references                                            
+         9,627,151      cache-misses              #   90.146 % of all cache refs    
+
+       0.225725997 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,612,729      cache-references                                            
+         9,591,321      cache-misses              #   90.376 % of all cache refs    
+
+       0.234507753 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,583,446      cache-references                                            
+         9,589,627      cache-misses              #   90.610 % of all cache refs    
+
+       0.227188684 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,562,662      cache-references                                            
+         9,587,803      cache-misses              #   90.771 % of all cache refs    
+
+       0.231007163 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,595,739      cache-references                                            
+         9,606,920      cache-misses              #   90.668 % of all cache refs    
+
+       0.226827426 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,581,188      cache-references                                            
+         9,596,769      cache-misses              #   90.697 % of all cache refs    
+
+       0.218669250 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,580,004      cache-references                                            
+         9,600,785      cache-misses              #   90.745 % of all cache refs    
+
+       0.232615737 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,604,179      cache-references                                            
+         9,600,017      cache-misses              #   90.531 % of all cache refs    
+
+       0.225805874 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,617,725      cache-references                                            
+         9,598,883      cache-misses              #   90.404 % of all cache refs    
+
+       0.235375638 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,577,581      cache-references                                            
+         9,617,627      cache-misses              #   90.925 % of all cache refs    
+
+       0.231574032 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,618,586      cache-references                                            
+         9,619,226      cache-misses              #   90.589 % of all cache refs    
+
+       0.218093367 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,580,143      cache-references                                            
+         9,600,733      cache-misses              #   90.743 % of all cache refs    
+
+       0.217412543 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,634,614      cache-references                                            
+         9,607,531      cache-misses              #   90.342 % of all cache refs    
+
+       0.235549699 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,633,075      cache-references                                            
+         9,591,886      cache-misses              #   90.208 % of all cache refs    
+
+       0.231371522 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,674,529      cache-references                                            
+         9,617,306      cache-misses              #   90.096 % of all cache refs    
+
+       0.233655135 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,656,940      cache-references                                            
+         9,615,672      cache-misses              #   90.229 % of all cache refs    
+
+       0.226096623 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,657,465      cache-references                                            
+         9,607,133      cache-misses              #   90.145 % of all cache refs    
+
+       0.234611379 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,600,967      cache-references                                            
+         9,605,829      cache-misses              #   90.613 % of all cache refs    
+
+       0.230748921 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,667,110      cache-references                                            
+         9,637,474      cache-misses              #   90.348 % of all cache refs    
+
+       0.238379641 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,608,146      cache-references                                            
+         9,600,056      cache-misses              #   90.497 % of all cache refs    
+
+       0.222493895 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,614,306      cache-references                                            
+         9,603,483      cache-misses              #   90.477 % of all cache refs    
+
+       0.232687746 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,599,539      cache-references                                            
+         9,583,823      cache-misses              #   90.417 % of all cache refs    
+
+       0.239540948 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,611,617      cache-references                                            
+         9,617,869      cache-misses              #   90.635 % of all cache refs    
+
+       0.220296691 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,677,410      cache-references                                            
+         9,645,339      cache-misses              #   90.334 % of all cache refs    
+
+       0.229145926 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,686,005      cache-references                                            
+         9,664,487      cache-misses              #   90.441 % of all cache refs    
+
+       0.240703241 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,607,204      cache-references                                            
+         9,600,975      cache-misses              #   90.514 % of all cache refs    
+
+       0.239419223 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,702,229      cache-references                                            
+         9,747,632      cache-misses              #   91.080 % of all cache refs    
+
+       0.244995094 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,615,870      cache-references                                            
+         9,641,824      cache-misses              #   90.825 % of all cache refs    
+
+       0.230567779 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,599,698      cache-references                                            
+         9,600,783      cache-misses              #   90.576 % of all cache refs    
+
+       0.235871034 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,643,424      cache-references                                            
+         9,633,480      cache-misses              #   90.511 % of all cache refs    
+
+       0.229562597 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,618,546      cache-references                                            
+         9,591,985      cache-misses              #   90.332 % of all cache refs    
+
+       0.227560703 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,624,322      cache-references                                            
+         9,609,878      cache-misses              #   90.452 % of all cache refs    
+
+       0.230784747 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-random.gr':
+
+        10,595,437      cache-references                                            
+         9,593,152      cache-misses              #   90.540 % of all cache refs    
+
+       0.226309395 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,616,094      cache-references                                            
+         9,605,674      cache-misses              #   90.482 % of all cache refs    
+
+       0.230468596 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,585,254      cache-references                                            
+         9,595,659      cache-misses              #   90.651 % of all cache refs    
+
+       0.231011935 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-random.gr':
+
+        10,593,402      cache-references                                            
+         9,616,234      cache-misses              #   90.776 % of all cache refs    
+
+       0.232937316 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-random.gr':
+
+        10,596,682      cache-references                                            
+         9,597,711      cache-misses              #   90.573 % of all cache refs    
+
+       0.226381295 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/kron/kron-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-random.gr':
+
+        10,610,016      cache-references                                            
+         9,607,994      cache-misses              #   90.556 % of all cache refs    
+
+       0.227035108 seconds time elapsed
+

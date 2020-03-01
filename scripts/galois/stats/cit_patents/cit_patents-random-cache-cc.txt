@@ -1,0 +1,1925 @@
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,605,173      cache-references                                            
+         9,594,610      cache-misses              #   90.471 % of all cache refs    
+
+       0.242553193 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,657,922      cache-references                                            
+         9,641,593      cache-misses              #   90.464 % of all cache refs    
+
+       0.218321384 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,624,154      cache-references                                            
+         9,620,865      cache-misses              #   90.557 % of all cache refs    
+
+       0.232187507 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,590,944      cache-references                                            
+         9,601,652      cache-misses              #   90.659 % of all cache refs    
+
+       0.235591839 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,622,025      cache-references                                            
+         9,598,474      cache-misses              #   90.364 % of all cache refs    
+
+       0.228622411 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,628,278      cache-references                                            
+         9,637,540      cache-misses              #   90.678 % of all cache refs    
+
+       0.222283751 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,596,546      cache-references                                            
+         9,602,016      cache-misses              #   90.615 % of all cache refs    
+
+       0.218488385 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,568,531      cache-references                                            
+         9,586,808      cache-misses              #   90.711 % of all cache refs    
+
+       0.233674744 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,573,341      cache-references                                            
+         9,596,276      cache-misses              #   90.759 % of all cache refs    
+
+       0.223435076 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,624,034      cache-references                                            
+         9,621,149      cache-misses              #   90.560 % of all cache refs    
+
+       0.231157546 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,615,970      cache-references                                            
+         9,628,927      cache-misses              #   90.702 % of all cache refs    
+
+       0.222630967 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,616,485      cache-references                                            
+         9,603,230      cache-misses              #   90.456 % of all cache refs    
+
+       0.224312939 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,602,150      cache-references                                            
+         9,600,495      cache-misses              #   90.552 % of all cache refs    
+
+       0.229125505 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,605,156      cache-references                                            
+         9,604,114      cache-misses              #   90.561 % of all cache refs    
+
+       0.231247242 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,673,147      cache-references                                            
+         9,679,399      cache-misses              #   90.689 % of all cache refs    
+
+       0.232529598 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,588,981      cache-references                                            
+         9,597,923      cache-misses              #   90.641 % of all cache refs    
+
+       0.229417533 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,604,319      cache-references                                            
+         9,594,758      cache-misses              #   90.480 % of all cache refs    
+
+       0.228328600 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,564,048      cache-references                                            
+         9,603,014      cache-misses              #   90.903 % of all cache refs    
+
+       0.230577208 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,575,624      cache-references                                            
+         9,614,085      cache-misses              #   90.908 % of all cache refs    
+
+       0.223933637 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,579,389      cache-references                                            
+         9,587,702      cache-misses              #   90.626 % of all cache refs    
+
+       0.231123613 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,656,574      cache-references                                            
+         9,618,156      cache-misses              #   90.256 % of all cache refs    
+
+       0.226698914 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,606,528      cache-references                                            
+         9,611,294      cache-misses              #   90.617 % of all cache refs    
+
+       0.220436899 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,640,428      cache-references                                            
+         9,626,481      cache-misses              #   90.471 % of all cache refs    
+
+       0.238055796 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,591,634      cache-references                                            
+         9,593,992      cache-misses              #   90.581 % of all cache refs    
+
+       0.218925841 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,598,273      cache-references                                            
+         9,610,500      cache-misses              #   90.680 % of all cache refs    
+
+       0.228709291 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,591,313      cache-references                                            
+         9,581,686      cache-misses              #   90.467 % of all cache refs    
+
+       0.224434412 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,620,225      cache-references                                            
+         9,634,515      cache-misses              #   90.719 % of all cache refs    
+
+       0.221449703 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,614,141      cache-references                                            
+         9,597,952      cache-misses              #   90.426 % of all cache refs    
+
+       0.218242463 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,589,549      cache-references                                            
+         9,596,189      cache-misses              #   90.619 % of all cache refs    
+
+       0.231158157 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,587,543      cache-references                                            
+         9,596,122      cache-misses              #   90.636 % of all cache refs    
+
+       0.228926384 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,655,867      cache-references                                            
+         9,646,149      cache-misses              #   90.524 % of all cache refs    
+
+       0.231727844 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,630,690      cache-references                                            
+         9,604,759      cache-misses              #   90.349 % of all cache refs    
+
+       0.230817433 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,572,951      cache-references                                            
+         9,591,960      cache-misses              #   90.722 % of all cache refs    
+
+       0.223396423 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,636,759      cache-references                                            
+         9,623,106      cache-misses              #   90.470 % of all cache refs    
+
+       0.232894737 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,686,825      cache-references                                            
+         9,693,091      cache-misses              #   90.701 % of all cache refs    
+
+       0.217879273 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,754,900      cache-references                                            
+         9,684,529      cache-misses              #   90.048 % of all cache refs    
+
+       0.231609932 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,627,065      cache-references                                            
+         9,617,665      cache-misses              #   90.502 % of all cache refs    
+
+       0.220292548 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,618,493      cache-references                                            
+         9,624,351      cache-misses              #   90.638 % of all cache refs    
+
+       0.230599784 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,657,182      cache-references                                            
+         9,628,778      cache-misses              #   90.350 % of all cache refs    
+
+       0.230480270 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,617,502      cache-references                                            
+         9,610,869      cache-misses              #   90.519 % of all cache refs    
+
+       0.230181048 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,737,245      cache-references                                            
+         9,700,959      cache-misses              #   90.349 % of all cache refs    
+
+       0.227793425 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,599,001      cache-references                                            
+         9,622,797      cache-misses              #   90.790 % of all cache refs    
+
+       0.222732484 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,596,859      cache-references                                            
+         9,613,809      cache-misses              #   90.723 % of all cache refs    
+
+       0.225355248 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,619,336      cache-references                                            
+         9,598,687      cache-misses              #   90.389 % of all cache refs    
+
+       0.232254830 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,613,400      cache-references                                            
+         9,617,562      cache-misses              #   90.617 % of all cache refs    
+
+       0.225409843 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,620,208      cache-references                                            
+         9,590,549      cache-misses              #   90.305 % of all cache refs    
+
+       0.226359364 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,612,043      cache-references                                            
+         9,599,578      cache-misses              #   90.459 % of all cache refs    
+
+       0.226229323 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,664,092      cache-references                                            
+         9,634,060      cache-misses              #   90.341 % of all cache refs    
+
+       0.225882186 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,657,165      cache-references                                            
+         9,641,905      cache-misses              #   90.473 % of all cache refs    
+
+       0.225870608 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,583,707      cache-references                                            
+         9,591,683      cache-misses              #   90.627 % of all cache refs    
+
+       0.220226874 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,632,685      cache-references                                            
+         9,612,803      cache-misses              #   90.408 % of all cache refs    
+
+       0.227104890 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,591,291      cache-references                                            
+         9,590,564      cache-misses              #   90.551 % of all cache refs    
+
+       0.232896698 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,603,200      cache-references                                            
+         9,588,061      cache-misses              #   90.426 % of all cache refs    
+
+       0.231213490 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,651,764      cache-references                                            
+         9,639,008      cache-misses              #   90.492 % of all cache refs    
+
+       0.237352725 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,581,947      cache-references                                            
+         9,596,386      cache-misses              #   90.686 % of all cache refs    
+
+       0.223757245 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,606,832      cache-references                                            
+         9,600,922      cache-misses              #   90.516 % of all cache refs    
+
+       0.232502815 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,632,560      cache-references                                            
+         9,622,235      cache-misses              #   90.498 % of all cache refs    
+
+       0.223152788 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,652,439      cache-references                                            
+         9,632,833      cache-misses              #   90.428 % of all cache refs    
+
+       0.231856922 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,648,353      cache-references                                            
+         9,625,436      cache-misses              #   90.394 % of all cache refs    
+
+       0.226191071 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,621,475      cache-references                                            
+         9,641,895      cache-misses              #   90.777 % of all cache refs    
+
+       0.225042833 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,615,702      cache-references                                            
+         9,589,434      cache-misses              #   90.333 % of all cache refs    
+
+       0.233437322 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,610,931      cache-references                                            
+         9,605,813      cache-misses              #   90.528 % of all cache refs    
+
+       0.227672559 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,610,379      cache-references                                            
+         9,599,882      cache-misses              #   90.476 % of all cache refs    
+
+       0.223206455 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,628,221      cache-references                                            
+         9,619,822      cache-misses              #   90.512 % of all cache refs    
+
+       0.237679534 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,599,626      cache-references                                            
+         9,612,241      cache-misses              #   90.685 % of all cache refs    
+
+       0.219152353 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,591,619      cache-references                                            
+         9,611,182      cache-misses              #   90.743 % of all cache refs    
+
+       0.226579187 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,616,733      cache-references                                            
+         9,622,785      cache-misses              #   90.638 % of all cache refs    
+
+       0.228379278 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,666,079      cache-references                                            
+         9,611,724      cache-misses              #   90.115 % of all cache refs    
+
+       0.225645580 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,613,385      cache-references                                            
+         9,609,112      cache-misses              #   90.538 % of all cache refs    
+
+       0.227931775 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,622,456      cache-references                                            
+         9,625,815      cache-misses              #   90.618 % of all cache refs    
+
+       0.231015922 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,580,354      cache-references                                            
+         9,608,228      cache-misses              #   90.812 % of all cache refs    
+
+       0.217996317 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,651,892      cache-references                                            
+         9,628,952      cache-misses              #   90.397 % of all cache refs    
+
+       0.230963366 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,602,925      cache-references                                            
+         9,599,061      cache-misses              #   90.532 % of all cache refs    
+
+       0.224265867 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,598,522      cache-references                                            
+         9,611,022      cache-misses              #   90.683 % of all cache refs    
+
+       0.232258776 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,564,052      cache-references                                            
+         9,584,965      cache-misses              #   90.732 % of all cache refs    
+
+       0.231426995 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,574,043      cache-references                                            
+         9,616,744      cache-misses              #   90.947 % of all cache refs    
+
+       0.225045448 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,606,197      cache-references                                            
+         9,602,932      cache-misses              #   90.541 % of all cache refs    
+
+       0.239726592 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,592,345      cache-references                                            
+         9,620,548      cache-misses              #   90.825 % of all cache refs    
+
+       0.227720169 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,579,503      cache-references                                            
+         9,596,702      cache-misses              #   90.710 % of all cache refs    
+
+       0.228792868 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,568,115      cache-references                                            
+         9,611,480      cache-misses              #   90.948 % of all cache refs    
+
+       0.232141139 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,614,607      cache-references                                            
+         9,620,191      cache-misses              #   90.632 % of all cache refs    
+
+       0.228502973 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,597,451      cache-references                                            
+         9,622,066      cache-misses              #   90.796 % of all cache refs    
+
+       0.237891563 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,574,959      cache-references                                            
+         9,648,563      cache-misses              #   91.240 % of all cache refs    
+
+       0.234710615 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,592,552      cache-references                                            
+         9,677,304      cache-misses              #   91.360 % of all cache refs    
+
+       0.230882303 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,607,059      cache-references                                            
+         9,637,108      cache-misses              #   90.856 % of all cache refs    
+
+       0.231704762 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,585,757      cache-references                                            
+         9,607,083      cache-misses              #   90.755 % of all cache refs    
+
+       0.223148793 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,608,688      cache-references                                            
+         9,611,839      cache-misses              #   90.603 % of all cache refs    
+
+       0.237548114 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,655,314      cache-references                                            
+         9,620,558      cache-misses              #   90.289 % of all cache refs    
+
+       0.229273116 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,609,620      cache-references                                            
+         9,615,733      cache-misses              #   90.632 % of all cache refs    
+
+       0.232230969 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,685,236      cache-references                                            
+         9,621,749      cache-misses              #   90.047 % of all cache refs    
+
+       0.235043625 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,599,250      cache-references                                            
+         9,603,286      cache-misses              #   90.603 % of all cache refs    
+
+       0.237728971 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,659,902      cache-references                                            
+         9,622,709      cache-misses              #   90.270 % of all cache refs    
+
+       0.233896060 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,583,869      cache-references                                            
+         9,589,588      cache-misses              #   90.606 % of all cache refs    
+
+       0.218489596 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,608,380      cache-references                                            
+         9,612,280      cache-misses              #   90.610 % of all cache refs    
+
+       0.232457757 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,576,757      cache-references                                            
+         9,611,742      cache-misses              #   90.876 % of all cache refs    
+
+       0.223027102 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,646,682      cache-references                                            
+         9,635,460      cache-misses              #   90.502 % of all cache refs    
+
+       0.225819097 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,594,956      cache-references                                            
+         9,590,975      cache-misses              #   90.524 % of all cache refs    
+
+       0.227648788 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,580,310      cache-references                                            
+         9,615,681      cache-misses              #   90.883 % of all cache refs    
+
+       0.219280913 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,580,340      cache-references                                            
+         9,585,494      cache-misses              #   90.597 % of all cache refs    
+
+       0.229515611 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,633,267      cache-references                                            
+         9,628,951      cache-misses              #   90.555 % of all cache refs    
+
+       0.226276846 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,579,931      cache-references                                            
+         9,597,931      cache-misses              #   90.718 % of all cache refs    
+
+       0.226512998 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,582,197      cache-references                                            
+         9,618,183      cache-misses              #   90.890 % of all cache refs    
+
+       0.218711651 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,618,781      cache-references                                            
+         9,637,771      cache-misses              #   90.762 % of all cache refs    
+
+       0.225775118 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,600,333      cache-references                                            
+         9,598,116      cache-misses              #   90.545 % of all cache refs    
+
+       0.217710368 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,604,000      cache-references                                            
+         9,606,030      cache-misses              #   90.589 % of all cache refs    
+
+       0.227509851 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,629,726      cache-references                                            
+         9,627,812      cache-misses              #   90.574 % of all cache refs    
+
+       0.232636616 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,615,088      cache-references                                            
+         9,606,223      cache-misses              #   90.496 % of all cache refs    
+
+       0.234283024 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,649,372      cache-references                                            
+         9,633,640      cache-misses              #   90.462 % of all cache refs    
+
+       0.222151501 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,608,157      cache-references                                            
+         9,612,754      cache-misses              #   90.617 % of all cache refs    
+
+       0.223543715 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,647,066      cache-references                                            
+         9,630,069      cache-misses              #   90.448 % of all cache refs    
+
+       0.218460123 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,596,499      cache-references                                            
+         9,590,596      cache-misses              #   90.507 % of all cache refs    
+
+       0.219488499 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,615,478      cache-references                                            
+         9,608,934      cache-misses              #   90.518 % of all cache refs    
+
+       0.224045445 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,608,974      cache-references                                            
+         9,609,941      cache-misses              #   90.583 % of all cache refs    
+
+       0.227801038 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,620,804      cache-references                                            
+         9,624,351      cache-misses              #   90.618 % of all cache refs    
+
+       0.226174252 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,604,242      cache-references                                            
+         9,611,550      cache-misses              #   90.639 % of all cache refs    
+
+       0.229094004 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,655,436      cache-references                                            
+         9,636,079      cache-misses              #   90.433 % of all cache refs    
+
+       0.229717039 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,626,572      cache-references                                            
+         9,620,151      cache-misses              #   90.529 % of all cache refs    
+
+       0.230968858 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,586,544      cache-references                                            
+         9,585,793      cache-misses              #   90.547 % of all cache refs    
+
+       0.228709001 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,647,924      cache-references                                            
+         9,622,412      cache-misses              #   90.369 % of all cache refs    
+
+       0.227118332 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,591,640      cache-references                                            
+         9,596,297      cache-misses              #   90.603 % of all cache refs    
+
+       0.217647879 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,707,288      cache-references                                            
+         9,697,191      cache-misses              #   90.566 % of all cache refs    
+
+       0.227164045 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,610,526      cache-references                                            
+         9,615,116      cache-misses              #   90.619 % of all cache refs    
+
+       0.226885264 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,663,769      cache-references                                            
+         9,655,440      cache-misses              #   90.544 % of all cache refs    
+
+       0.230663457 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,604,830      cache-references                                            
+         9,609,268      cache-misses              #   90.612 % of all cache refs    
+
+       0.224197643 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,595,137      cache-references                                            
+         9,611,346      cache-misses              #   90.715 % of all cache refs    
+
+       0.226567754 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,574,862      cache-references                                            
+         9,602,917      cache-misses              #   90.809 % of all cache refs    
+
+       0.225363885 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,639,041      cache-references                                            
+         9,630,271      cache-misses              #   90.518 % of all cache refs    
+
+       0.228097817 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,641,305      cache-references                                            
+         9,626,419      cache-misses              #   90.463 % of all cache refs    
+
+       0.223493658 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,639,480      cache-references                                            
+         9,623,578      cache-misses              #   90.452 % of all cache refs    
+
+       0.234284522 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,666,882      cache-references                                            
+         9,607,131      cache-misses              #   90.065 % of all cache refs    
+
+       0.236019133 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,603,913      cache-references                                            
+         9,593,752      cache-misses              #   90.474 % of all cache refs    
+
+       0.233668766 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,604,415      cache-references                                            
+         9,611,473      cache-misses              #   90.637 % of all cache refs    
+
+       0.231168835 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,699,756      cache-references                                            
+         9,598,311      cache-misses              #   89.706 % of all cache refs    
+
+       0.233082037 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,668,504      cache-references                                            
+         9,637,731      cache-misses              #   90.338 % of all cache refs    
+
+       0.235925968 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,581,867      cache-references                                            
+         9,598,211      cache-misses              #   90.704 % of all cache refs    
+
+       0.217369502 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,621,807      cache-references                                            
+         9,602,758      cache-misses              #   90.406 % of all cache refs    
+
+       0.222530213 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,691,747      cache-references                                            
+         9,579,034      cache-misses              #   89.593 % of all cache refs    
+
+       0.237909771 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,690,403      cache-references                                            
+         9,584,599      cache-misses              #   89.656 % of all cache refs    
+
+       0.235528036 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,665,054      cache-references                                            
+         9,634,002      cache-misses              #   90.332 % of all cache refs    
+
+       0.235166193 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,643,031      cache-references                                            
+         9,602,166      cache-misses              #   90.220 % of all cache refs    
+
+       0.233627681 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,594,648      cache-references                                            
+         9,620,786      cache-misses              #   90.808 % of all cache refs    
+
+       0.232492011 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,655,911      cache-references                                            
+         9,626,541      cache-misses              #   90.340 % of all cache refs    
+
+       0.224584229 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,616,864      cache-references                                            
+         9,582,555      cache-misses              #   90.258 % of all cache refs    
+
+       0.227913669 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,606,053      cache-references                                            
+         9,586,195      cache-misses              #   90.384 % of all cache refs    
+
+       0.240141702 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,898,009      cache-references                                            
+         9,601,259      cache-misses              #   88.101 % of all cache refs    
+
+       0.231462903 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,641,829      cache-references                                            
+         9,609,571      cache-misses              #   90.300 % of all cache refs    
+
+       0.233577094 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,748,641      cache-references                                            
+         9,686,441      cache-misses              #   90.118 % of all cache refs    
+
+       0.232181048 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,659,369      cache-references                                            
+         9,642,758      cache-misses              #   90.463 % of all cache refs    
+
+       0.222235858 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,655,204      cache-references                                            
+         9,615,684      cache-misses              #   90.244 % of all cache refs    
+
+       0.219649061 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,661,381      cache-references                                            
+         9,601,522      cache-misses              #   90.059 % of all cache refs    
+
+       0.223707505 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,675,488      cache-references                                            
+         9,621,918      cache-misses              #   90.131 % of all cache refs    
+
+       0.234908138 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,677,204      cache-references                                            
+         9,607,402      cache-misses              #   89.981 % of all cache refs    
+
+       0.232365018 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,647,686      cache-references                                            
+         9,612,542      cache-misses              #   90.278 % of all cache refs    
+
+       0.228338231 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,759,259      cache-references                                            
+         9,734,636      cache-misses              #   90.477 % of all cache refs    
+
+       0.234901440 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,690,743      cache-references                                            
+         9,634,831      cache-misses              #   90.123 % of all cache refs    
+
+       0.227294811 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,659,778      cache-references                                            
+         9,615,559      cache-misses              #   90.204 % of all cache refs    
+
+       0.224821292 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,688,185      cache-references                                            
+         9,639,936      cache-misses              #   90.192 % of all cache refs    
+
+       0.232455799 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,696,555      cache-references                                            
+         9,641,096      cache-misses              #   90.133 % of all cache refs    
+
+       0.223770382 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,640,375      cache-references                                            
+         9,599,502      cache-misses              #   90.218 % of all cache refs    
+
+       0.227366441 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,663,412      cache-references                                            
+         9,643,453      cache-misses              #   90.435 % of all cache refs    
+
+       0.217883911 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,663,476      cache-references                                            
+         9,633,100      cache-misses              #   90.337 % of all cache refs    
+
+       0.225168741 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,689,592      cache-references                                            
+         9,621,307      cache-misses              #   90.006 % of all cache refs    
+
+       0.226082883 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,627,500      cache-references                                            
+         9,612,790      cache-misses              #   90.452 % of all cache refs    
+
+       0.224743889 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,648,508      cache-references                                            
+         9,623,636      cache-misses              #   90.375 % of all cache refs    
+
+       0.231062067 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,637,483      cache-references                                            
+         9,619,098      cache-misses              #   90.426 % of all cache refs    
+
+       0.235365962 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,626,025      cache-references                                            
+         9,609,333      cache-misses              #   90.432 % of all cache refs    
+
+       0.222613048 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,646,330      cache-references                                            
+         9,594,045      cache-misses              #   90.116 % of all cache refs    
+
+       0.228460808 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,689,739      cache-references                                            
+         9,622,068      cache-misses              #   90.012 % of all cache refs    
+
+       0.231705109 seconds time elapsed
+
+Sync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,636,168      cache-references                                            
+         9,614,450      cache-misses              #   90.394 % of all cache refs    
+
+       0.228401875 seconds time elapsed
+
+Async
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,639,247      cache-references                                            
+         9,615,039      cache-misses              #   90.373 % of all cache refs    
+
+       0.216596459 seconds time elapsed
+
+EdgeAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,629,562      cache-references                                            
+         9,621,219      cache-misses              #   90.514 % of all cache refs    
+
+       0.232950243 seconds time elapsed
+
+EdgetileAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,643,755      cache-references                                            
+         9,605,550      cache-misses              #   90.246 % of all cache refs    
+
+       0.225142067 seconds time elapsed
+
+BlockedAsync
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,603,847      cache-references                                            
+         9,603,418      cache-misses              #   90.565 % of all cache refs    
+
+       0.229659921 seconds time elapsed
+
+LabelProp
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,590,991      cache-references                                            
+         9,602,822      cache-misses              #   90.670 % of all cache refs    
+
+       0.227259330 seconds time elapsed
+
+Serial
+ERROR: /home/vaastav/Projects/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/Galois/libgalois/src/FileGraph.cpp:304: No such file or directory: failed opening '../../datasets/cit-patents/cit-Patents-random.gr'
+/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents: Aborted
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/cit-patents/cit-Patents-random.gr':
+
+        10,624,242      cache-references                                            
+         9,615,802      cache-misses              #   90.508 % of all cache refs    
+
+       0.237619899 seconds time elapsed
+

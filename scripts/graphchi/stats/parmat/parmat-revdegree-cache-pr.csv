@@ -1,0 +1,550 @@
+PR-Async\n
+# started on Tue Sep 24 11:59:55 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        89,437,133      cache-references                                            
+        14,426,954      cache-misses              #   16.131 % of all cache refs    
+
+       0.964404308 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:59:56 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       101,192,550      cache-references                                            
+        24,555,025      cache-misses              #   24.266 % of all cache refs    
+
+       1.206629989 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:59:57 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        71,674,128      cache-references                                            
+        14,514,464      cache-misses              #   20.251 % of all cache refs    
+
+       0.937096710 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 11:59:58 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       100,011,621      cache-references                                            
+        24,653,608      cache-misses              #   24.651 % of all cache refs    
+
+       1.255640984 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 11:59:59 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        71,450,622      cache-references                                            
+        15,083,999      cache-misses              #   21.111 % of all cache refs    
+
+       0.957000679 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:01 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        99,297,814      cache-references                                            
+        24,782,718      cache-misses              #   24.958 % of all cache refs    
+
+       1.252400192 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:02 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        70,345,783      cache-references                                            
+        13,860,678      cache-misses              #   19.704 % of all cache refs    
+
+       0.993318897 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:03 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       101,670,537      cache-references                                            
+        24,441,560      cache-misses              #   24.040 % of all cache refs    
+
+       1.252375228 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:04 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        69,147,059      cache-references                                            
+        14,541,039      cache-misses              #   21.029 % of all cache refs    
+
+       1.159218488 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:06 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       104,733,266      cache-references                                            
+        24,225,458      cache-misses              #   23.131 % of all cache refs    
+
+       1.252754475 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:07 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        81,248,701      cache-references                                            
+        14,359,575      cache-misses              #   17.674 % of all cache refs    
+
+       1.086352955 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:08 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       101,031,326      cache-references                                            
+        24,400,663      cache-misses              #   24.152 % of all cache refs    
+
+       1.251693367 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:10 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        73,484,301      cache-references                                            
+        14,400,294      cache-misses              #   19.596 % of all cache refs    
+
+       0.791557515 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:10 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       104,343,770      cache-references                                            
+        24,851,479      cache-misses              #   23.817 % of all cache refs    
+
+       1.250465276 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:12 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        70,192,673      cache-references                                            
+        14,411,101      cache-misses              #   20.531 % of all cache refs    
+
+       0.944516966 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:13 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       101,705,587      cache-references                                            
+        24,924,920      cache-misses              #   24.507 % of all cache refs    
+
+       1.253223522 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:14 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        76,089,530      cache-references                                            
+        14,157,588      cache-misses              #   18.606 % of all cache refs    
+
+       1.036824901 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:15 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       100,675,424      cache-references                                            
+        24,479,351      cache-misses              #   24.315 % of all cache refs    
+
+       1.201493049 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:17 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        69,793,584      cache-references                                            
+        14,294,002      cache-misses              #   20.480 % of all cache refs    
+
+       1.035715477 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:18 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       105,535,825      cache-references                                            
+        24,255,390      cache-misses              #   22.983 % of all cache refs    
+
+       1.253827373 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:19 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        73,992,873      cache-references                                            
+        13,738,646      cache-misses              #   18.568 % of all cache refs    
+
+       0.835702615 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:20 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       100,193,471      cache-references                                            
+        24,736,795      cache-misses              #   24.689 % of all cache refs    
+
+       1.259752291 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:21 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        67,403,473      cache-references                                            
+        14,290,852      cache-misses              #   21.202 % of all cache refs    
+
+       0.936442104 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:22 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        98,130,724      cache-references                                            
+        24,592,020      cache-misses              #   25.060 % of all cache refs    
+
+       1.250862678 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:24 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        72,858,383      cache-references                                            
+        14,068,811      cache-misses              #   19.310 % of all cache refs    
+
+       0.886980679 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:25 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       102,033,415      cache-references                                            
+        24,320,496      cache-misses              #   23.836 % of all cache refs    
+
+       1.256907246 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:26 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        74,096,362      cache-references                                            
+        14,153,076      cache-misses              #   19.101 % of all cache refs    
+
+       1.040623074 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:27 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       101,703,862      cache-references                                            
+        24,916,979      cache-misses              #   24.500 % of all cache refs    
+
+       1.200701285 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:29 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        73,522,259      cache-references                                            
+        14,545,987      cache-misses              #   19.784 % of all cache refs    
+
+       1.239765747 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:30 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       100,301,176      cache-references                                            
+        24,448,360      cache-misses              #   24.375 % of all cache refs    
+
+       1.250176220 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:31 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        95,013,555      cache-references                                            
+        14,190,257      cache-misses              #   14.935 % of all cache refs    
+
+       0.883543812 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:32 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        99,961,285      cache-references                                            
+        24,227,691      cache-misses              #   24.237 % of all cache refs    
+
+       1.300511212 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:34 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        89,815,554      cache-references                                            
+        14,142,030      cache-misses              #   15.746 % of all cache refs    
+
+       1.036355207 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:35 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       101,615,395      cache-references                                            
+        24,322,500      cache-misses              #   23.936 % of all cache refs    
+
+       1.202486159 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:36 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        90,423,298      cache-references                                            
+        13,875,211      cache-misses              #   15.345 % of all cache refs    
+
+       0.836453774 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:37 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       101,763,880      cache-references                                            
+        24,430,783      cache-misses              #   24.007 % of all cache refs    
+
+       1.250327723 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:38 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        70,768,226      cache-references                                            
+        14,289,453      cache-misses              #   20.192 % of all cache refs    
+
+       1.137823077 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:40 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        99,638,509      cache-references                                            
+        24,519,272      cache-misses              #   24.608 % of all cache refs    
+
+       1.148821765 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:41 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        77,387,151      cache-references                                            
+        14,827,358      cache-misses              #   19.160 % of all cache refs    
+
+       1.091944558 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:42 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       100,741,193      cache-references                                            
+        25,103,146      cache-misses              #   24.918 % of all cache refs    
+
+       1.256266207 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:43 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        73,078,170      cache-references                                            
+        14,221,352      cache-misses              #   19.460 % of all cache refs    
+
+       1.036797684 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:44 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       104,267,297      cache-references                                            
+        24,401,994      cache-misses              #   23.403 % of all cache refs    
+
+       1.250371816 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:46 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        70,254,930      cache-references                                            
+        13,991,515      cache-misses              #   19.915 % of all cache refs    
+
+       1.037833895 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:47 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       103,535,009      cache-references                                            
+        24,344,833      cache-misses              #   23.514 % of all cache refs    
+
+       1.200440308 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:48 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        70,890,058      cache-references                                            
+        14,235,269      cache-misses              #   20.081 % of all cache refs    
+
+       0.992076588 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:49 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        98,106,119      cache-references                                            
+        24,713,957      cache-misses              #   25.191 % of all cache refs    
+
+       1.261878397 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:51 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        69,622,359      cache-references                                            
+        13,900,734      cache-misses              #   19.966 % of all cache refs    
+
+       0.784884327 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:52 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+       101,375,657      cache-references                                            
+        24,467,146      cache-misses              #   24.135 % of all cache refs    
+
+       1.253355976 seconds time elapsed
+
+PR-Async\n
+# started on Tue Sep 24 12:00:53 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode semisync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        70,254,115      cache-references                                            
+        14,014,229      cache-misses              #   19.948 % of all cache refs    
+
+       0.938514355 seconds time elapsed
+
+PR-Sync\n
+# started on Tue Sep 24 12:00:54 2019
+
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/graphchi-cpp/bin/example_apps/pagerank_functional mode sync filetype edgelist file /mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/scripts/graphchi/../../datasets/parmat/parmat-revdegree.txt niters 10':
+
+        99,724,072      cache-references                                            
+        24,827,124      cache-misses              #   24.896 % of all cache refs    
+
+       1.256726260 seconds time elapsed
+

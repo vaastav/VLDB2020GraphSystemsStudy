@@ -1,0 +1,1575 @@
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        18,630,156      cache-references                                            
+        14,761,284      cache-misses              #   79.233 % of all cache refs    
+
+       0.744031470 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,771,201      cache-references                                            
+        16,289,348      cache-misses              #   40.958 % of all cache refs    
+
+       0.358283373 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,045,127      cache-references                                            
+        26,262,779      cache-misses              #   44.479 % of all cache refs    
+
+       0.435289908 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,144,389      cache-references                                            
+        16,574,682      cache-misses              #   41.288 % of all cache refs    
+
+       0.365510606 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,831,335      cache-references                                            
+        43,559,812      cache-misses              #   31.376 % of all cache refs    
+
+       0.710074618 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        61,120,332      cache-references                                            
+        18,302,239      cache-misses              #   29.945 % of all cache refs    
+
+       0.333387668 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,944,358      cache-references                                            
+        16,226,514      cache-misses              #   19.563 % of all cache refs    
+
+       0.421504620 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,369,955      cache-references                                            
+        14,701,718      cache-misses              #   84.639 % of all cache refs    
+
+       0.241264476 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,647,765      cache-references                                            
+        16,269,904      cache-misses              #   41.036 % of all cache refs    
+
+       0.367398491 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,432,611      cache-references                                            
+        26,194,162      cache-misses              #   44.074 % of all cache refs    
+
+       0.433858333 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,748,000      cache-references                                            
+        16,582,231      cache-misses              #   41.718 % of all cache refs    
+
+       0.364734526 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       137,633,423      cache-references                                            
+        43,578,302      cache-misses              #   31.663 % of all cache refs    
+
+       0.709478976 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,154,116      cache-references                                            
+        18,381,409      cache-misses              #   30.557 % of all cache refs    
+
+       0.326097487 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,194,303      cache-references                                            
+        16,207,432      cache-misses              #   19.718 % of all cache refs    
+
+       0.420308329 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,372,326      cache-references                                            
+        14,690,342      cache-misses              #   84.562 % of all cache refs    
+
+       0.237201828 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        41,306,285      cache-references                                            
+        16,260,935      cache-misses              #   39.367 % of all cache refs    
+
+       0.369531110 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        62,196,448      cache-references                                            
+        26,306,176      cache-misses              #   42.295 % of all cache refs    
+
+       0.430770358 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,823,891      cache-references                                            
+        16,466,715      cache-misses              #   40.336 % of all cache refs    
+
+       0.363930328 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       139,232,558      cache-references                                            
+        43,639,571      cache-misses              #   31.343 % of all cache refs    
+
+       0.722816300 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,111,739      cache-references                                            
+        18,356,305      cache-misses              #   30.537 % of all cache refs    
+
+       0.315754399 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,543,118      cache-references                                            
+        16,238,550      cache-misses              #   19.673 % of all cache refs    
+
+       0.420659554 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,204,325      cache-references                                            
+        14,598,918      cache-misses              #   84.856 % of all cache refs    
+
+       0.241450353 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,723,358      cache-references                                            
+        16,296,818      cache-misses              #   41.026 % of all cache refs    
+
+       0.367254319 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,508,009      cache-references                                            
+        26,248,054      cache-misses              #   44.108 % of all cache refs    
+
+       0.431200142 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,859,476      cache-references                                            
+        16,573,646      cache-misses              #   40.563 % of all cache refs    
+
+       0.364164474 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       140,159,883      cache-references                                            
+        50,090,447      cache-misses              #   35.738 % of all cache refs    
+
+       0.793574324 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        61,683,993      cache-references                                            
+        18,345,305      cache-misses              #   29.741 % of all cache refs    
+
+       0.328744544 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        84,981,126      cache-references                                            
+        16,196,306      cache-misses              #   19.059 % of all cache refs    
+
+       0.426118815 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,410,171      cache-references                                            
+        14,697,144      cache-misses              #   84.417 % of all cache refs    
+
+       0.235089197 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,084,562      cache-references                                            
+        16,219,286      cache-misses              #   40.463 % of all cache refs    
+
+       0.358480089 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,705,121      cache-references                                            
+        26,366,295      cache-misses              #   43.433 % of all cache refs    
+
+       0.424135053 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,995,115      cache-references                                            
+        16,489,344      cache-misses              #   40.223 % of all cache refs    
+
+       0.369102860 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,256,635      cache-references                                            
+        43,547,384      cache-misses              #   31.498 % of all cache refs    
+
+       0.719398388 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,480,904      cache-references                                            
+        18,351,424      cache-misses              #   30.343 % of all cache refs    
+
+       0.332820700 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,457,295      cache-references                                            
+        16,293,442      cache-misses              #   19.760 % of all cache refs    
+
+       0.420910893 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,422,421      cache-references                                            
+        14,705,579      cache-misses              #   84.406 % of all cache refs    
+
+       0.239817905 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,441,817      cache-references                                            
+        16,278,666      cache-misses              #   41.273 % of all cache refs    
+
+       0.361971298 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,426,121      cache-references                                            
+        26,239,557      cache-misses              #   44.911 % of all cache refs    
+
+       0.423390322 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,890,646      cache-references                                            
+        16,519,314      cache-misses              #   41.411 % of all cache refs    
+
+       0.360263996 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,159,076      cache-references                                            
+        43,803,435      cache-misses              #   31.705 % of all cache refs    
+
+       0.726353094 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,566,194      cache-references                                            
+        18,376,407      cache-misses              #   30.850 % of all cache refs    
+
+       0.320635256 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        81,913,443      cache-references                                            
+        16,318,354      cache-misses              #   19.921 % of all cache refs    
+
+       0.423172753 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,483,883      cache-references                                            
+        14,701,826      cache-misses              #   84.088 % of all cache refs    
+
+       0.244039104 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,557,604      cache-references                                            
+        16,281,238      cache-misses              #   40.143 % of all cache refs    
+
+       0.362409913 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,767,357      cache-references                                            
+        26,326,350      cache-misses              #   44.048 % of all cache refs    
+
+       0.433556885 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,232,489      cache-references                                            
+        16,525,204      cache-misses              #   41.074 % of all cache refs    
+
+       0.354276237 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,677,744      cache-references                                            
+        44,126,817      cache-misses              #   31.820 % of all cache refs    
+
+       0.716975180 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        63,580,991      cache-references                                            
+        18,402,992      cache-misses              #   28.944 % of all cache refs    
+
+       0.323480831 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        85,933,053      cache-references                                            
+        16,292,229      cache-misses              #   18.959 % of all cache refs    
+
+       0.421818037 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,350,037      cache-references                                            
+        14,688,380      cache-misses              #   84.659 % of all cache refs    
+
+       0.236089439 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,704,276      cache-references                                            
+        16,284,289      cache-misses              #   41.014 % of all cache refs    
+
+       0.369082882 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,236,846      cache-references                                            
+        26,210,862      cache-misses              #   44.248 % of all cache refs    
+
+       0.444889131 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,532,862      cache-references                                            
+        16,531,753      cache-misses              #   41.818 % of all cache refs    
+
+       0.364075311 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,392,222      cache-references                                            
+        43,435,166      cache-misses              #   31.386 % of all cache refs    
+
+       0.719896776 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,691,483      cache-references                                            
+        18,354,766      cache-misses              #   30.749 % of all cache refs    
+
+       0.325413534 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        84,174,727      cache-references                                            
+        16,271,473      cache-misses              #   19.331 % of all cache refs    
+
+       0.424893078 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,434,456      cache-references                                            
+        14,710,540      cache-misses              #   84.376 % of all cache refs    
+
+       0.233406238 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,641,140      cache-references                                            
+        16,289,544      cache-misses              #   40.081 % of all cache refs    
+
+       0.363099689 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        57,890,743      cache-references                                            
+        26,199,244      cache-misses              #   45.256 % of all cache refs    
+
+       0.428916801 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        41,749,377      cache-references                                            
+        16,519,000      cache-misses              #   39.567 % of all cache refs    
+
+       0.365359460 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,723,401      cache-references                                            
+        44,263,888      cache-misses              #   31.908 % of all cache refs    
+
+       0.725845026 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        64,318,367      cache-references                                            
+        18,344,765      cache-misses              #   28.522 % of all cache refs    
+
+       0.325218761 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        81,199,509      cache-references                                            
+        16,243,897      cache-misses              #   20.005 % of all cache refs    
+
+       0.421998790 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,206,175      cache-references                                            
+        14,586,863      cache-misses              #   84.777 % of all cache refs    
+
+       0.236958799 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,140,194      cache-references                                            
+        16,306,899      cache-misses              #   40.625 % of all cache refs    
+
+       0.359911218 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        61,270,307      cache-references                                            
+        26,177,514      cache-misses              #   42.725 % of all cache refs    
+
+       0.434359488 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        41,237,420      cache-references                                            
+        16,535,275      cache-misses              #   40.098 % of all cache refs    
+
+       0.360442810 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,326,743      cache-references                                            
+        43,368,220      cache-misses              #   31.352 % of all cache refs    
+
+       0.717017792 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        61,197,755      cache-references                                            
+        18,401,404      cache-misses              #   30.069 % of all cache refs    
+
+       0.333093091 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        84,497,406      cache-references                                            
+        16,279,276      cache-misses              #   19.266 % of all cache refs    
+
+       0.424391274 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,386,044      cache-references                                            
+        14,685,967      cache-misses              #   84.470 % of all cache refs    
+
+       0.235972655 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,346,167      cache-references                                            
+        16,254,681      cache-misses              #   41.312 % of all cache refs    
+
+       0.367338421 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,797,946      cache-references                                            
+        26,323,633      cache-misses              #   44.770 % of all cache refs    
+
+       0.429987076 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,395,297      cache-references                                            
+        16,559,662      cache-misses              #   40.994 % of all cache refs    
+
+       0.367100048 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       139,120,903      cache-references                                            
+        43,691,067      cache-misses              #   31.405 % of all cache refs    
+
+       0.703098471 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        61,460,147      cache-references                                            
+        18,337,596      cache-misses              #   29.837 % of all cache refs    
+
+       0.326012839 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        81,607,538      cache-references                                            
+        16,261,060      cache-misses              #   19.926 % of all cache refs    
+
+       0.425549966 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,402,506      cache-references                                            
+        14,707,911      cache-misses              #   84.516 % of all cache refs    
+
+       0.248016966 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,123,000      cache-references                                            
+        16,311,136      cache-misses              #   41.692 % of all cache refs    
+
+       0.366068783 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,328,888      cache-references                                            
+        26,256,844      cache-misses              #   45.015 % of all cache refs    
+
+       0.422966229 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        41,141,933      cache-references                                            
+        16,565,937      cache-misses              #   40.265 % of all cache refs    
+
+       0.362920285 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       137,920,650      cache-references                                            
+        43,935,859      cache-misses              #   31.856 % of all cache refs    
+
+       0.720059577 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,697,981      cache-references                                            
+        18,378,342      cache-misses              #   30.278 % of all cache refs    
+
+       0.323430606 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        83,312,331      cache-references                                            
+        16,306,233      cache-misses              #   19.572 % of all cache refs    
+
+       0.426130291 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,463,052      cache-references                                            
+        14,702,015      cache-misses              #   84.189 % of all cache refs    
+
+       0.242881410 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,603,632      cache-references                                            
+        16,311,307      cache-misses              #   41.186 % of all cache refs    
+
+       0.354756998 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,545,701      cache-references                                            
+        26,269,882      cache-misses              #   43.389 % of all cache refs    
+
+       0.431245496 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,951,740      cache-references                                            
+        16,558,867      cache-misses              #   40.435 % of all cache refs    
+
+       0.359592071 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,590,894      cache-references                                            
+        43,973,967      cache-misses              #   31.729 % of all cache refs    
+
+       0.715183508 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,888,994      cache-references                                            
+        18,351,691      cache-misses              #   30.140 % of all cache refs    
+
+       0.328775672 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,790,171      cache-references                                            
+        16,277,093      cache-misses              #   19.661 % of all cache refs    
+
+       0.424020575 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,361,964      cache-references                                            
+        14,706,204      cache-misses              #   84.704 % of all cache refs    
+
+       0.242215093 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,462,192      cache-references                                            
+        16,252,875      cache-misses              #   41.186 % of all cache refs    
+
+       0.369130515 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,190,752      cache-references                                            
+        26,483,638      cache-misses              #   44.743 % of all cache refs    
+
+       0.446427270 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,671,422      cache-references                                            
+        16,499,958      cache-misses              #   40.569 % of all cache refs    
+
+       0.364452864 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       137,521,185      cache-references                                            
+        44,124,907      cache-misses              #   32.086 % of all cache refs    
+
+       0.717386435 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        61,177,152      cache-references                                            
+        18,360,289      cache-misses              #   30.012 % of all cache refs    
+
+       0.323252265 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,367,013      cache-references                                            
+        16,308,145      cache-misses              #   19.799 % of all cache refs    
+
+       0.427314586 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,420,012      cache-references                                            
+        14,724,582      cache-misses              #   84.527 % of all cache refs    
+
+       0.234389677 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,184,634      cache-references                                            
+        16,268,344      cache-misses              #   40.484 % of all cache refs    
+
+       0.358637271 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,978,584      cache-references                                            
+        26,259,735      cache-misses              #   43.782 % of all cache refs    
+
+       0.445023225 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        41,814,154      cache-references                                            
+        16,474,856      cache-misses              #   39.400 % of all cache refs    
+
+       0.349717993 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,165,699      cache-references                                            
+        43,801,146      cache-misses              #   31.702 % of all cache refs    
+
+       0.717233607 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        61,047,687      cache-references                                            
+        18,282,599      cache-misses              #   29.948 % of all cache refs    
+
+       0.316316193 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        81,691,376      cache-references                                            
+        16,287,960      cache-misses              #   19.938 % of all cache refs    
+
+       0.424572536 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,263,526      cache-references                                            
+        14,601,903      cache-misses              #   84.582 % of all cache refs    
+
+       0.247321722 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,454,394      cache-references                                            
+        16,207,500      cache-misses              #   41.079 % of all cache refs    
+
+       0.366161163 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,025,844      cache-references                                            
+        26,290,290      cache-misses              #   44.540 % of all cache refs    
+
+       0.425936748 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,703,693      cache-references                                            
+        16,499,347      cache-misses              #   40.535 % of all cache refs    
+
+       0.365088585 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       139,122,565      cache-references                                            
+        44,023,270      cache-misses              #   31.644 % of all cache refs    
+
+       0.712443050 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,220,291      cache-references                                            
+        18,360,210      cache-misses              #   30.488 % of all cache refs    
+
+       0.329900243 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,822,778      cache-references                                            
+        16,279,393      cache-misses              #   19.656 % of all cache refs    
+
+       0.420502839 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,340,966      cache-references                                            
+        14,637,170      cache-misses              #   84.408 % of all cache refs    
+
+       0.237310930 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,530,274      cache-references                                            
+        16,220,045      cache-misses              #   40.020 % of all cache refs    
+
+       0.362684603 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        59,634,143      cache-references                                            
+        26,207,229      cache-misses              #   43.947 % of all cache refs    
+
+       0.437362844 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,576,003      cache-references                                            
+        16,478,120      cache-misses              #   40.611 % of all cache refs    
+
+       0.350772944 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,345,337      cache-references                                            
+        43,938,506      cache-misses              #   31.760 % of all cache refs    
+
+       0.704372747 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,669,324      cache-references                                            
+        18,392,969      cache-misses              #   30.317 % of all cache refs    
+
+       0.330417729 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        81,901,926      cache-references                                            
+        16,282,476      cache-misses              #   19.880 % of all cache refs    
+
+       0.426736847 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,429,073      cache-references                                            
+        14,677,045      cache-misses              #   84.210 % of all cache refs    
+
+       0.241077097 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,088,499      cache-references                                            
+        16,184,705      cache-misses              #   41.405 % of all cache refs    
+
+       0.362816441 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,290,721      cache-references                                            
+        26,225,158      cache-misses              #   44.990 % of all cache refs    
+
+       0.431714761 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        42,580,133      cache-references                                            
+        16,555,821      cache-misses              #   38.882 % of all cache refs    
+
+       0.360328512 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,352,693      cache-references                                            
+        43,527,831      cache-misses              #   31.461 % of all cache refs    
+
+       0.717008397 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,443,115      cache-references                                            
+        18,344,660      cache-misses              #   30.350 % of all cache refs    
+
+       0.328649958 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        81,377,190      cache-references                                            
+        16,285,848      cache-misses              #   20.013 % of all cache refs    
+
+       0.410612224 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,362,490      cache-references                                            
+        14,666,625      cache-misses              #   84.473 % of all cache refs    
+
+       0.235707219 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,836,763      cache-references                                            
+        16,310,706      cache-misses              #   40.944 % of all cache refs    
+
+       0.370024277 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,287,034      cache-references                                            
+        26,267,501      cache-misses              #   43.571 % of all cache refs    
+
+       0.437830208 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,697,231      cache-references                                            
+        16,534,544      cache-misses              #   40.628 % of all cache refs    
+
+       0.356065349 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       139,005,275      cache-references                                            
+        43,352,577      cache-misses              #   31.188 % of all cache refs    
+
+       0.718624615 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        64,128,735      cache-references                                            
+        18,271,320      cache-misses              #   28.492 % of all cache refs    
+
+       0.323543980 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,338,707      cache-references                                            
+        16,275,916      cache-misses              #   19.767 % of all cache refs    
+
+       0.423792163 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,345,843      cache-references                                            
+        14,705,765      cache-misses              #   84.780 % of all cache refs    
+
+       0.236994254 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,216,757      cache-references                                            
+        16,269,449      cache-misses              #   41.486 % of all cache refs    
+
+       0.366146760 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,911,411      cache-references                                            
+        26,275,300      cache-misses              #   44.601 % of all cache refs    
+
+       0.431898385 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,690,690      cache-references                                            
+        16,513,439      cache-misses              #   40.583 % of all cache refs    
+
+       0.370106841 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,274,464      cache-references                                            
+        43,335,332      cache-misses              #   31.340 % of all cache refs    
+
+       0.701590652 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        62,164,886      cache-references                                            
+        18,412,231      cache-misses              #   29.618 % of all cache refs    
+
+       0.318148302 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,886,750      cache-references                                            
+        16,251,873      cache-misses              #   19.607 % of all cache refs    
+
+       0.416748602 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,384,972      cache-references                                            
+        14,711,327      cache-misses              #   84.621 % of all cache refs    
+
+       0.241694328 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,958,059      cache-references                                            
+        16,289,031      cache-misses              #   40.765 % of all cache refs    
+
+       0.371725609 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,887,477      cache-references                                            
+        26,269,546      cache-misses              #   44.610 % of all cache refs    
+
+       0.432352374 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,830,803      cache-references                                            
+        16,546,156      cache-misses              #   40.524 % of all cache refs    
+
+       0.358464419 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       137,952,184      cache-references                                            
+        43,369,046      cache-misses              #   31.438 % of all cache refs    
+
+       0.716325898 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,218,694      cache-references                                            
+        18,344,047      cache-misses              #   30.462 % of all cache refs    
+
+       0.327751113 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        83,669,407      cache-references                                            
+        16,245,975      cache-misses              #   19.417 % of all cache refs    
+
+       0.417796080 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,346,120      cache-references                                            
+        14,685,753      cache-misses              #   84.663 % of all cache refs    
+
+       0.234555704 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,363,570      cache-references                                            
+        16,388,626      cache-misses              #   41.634 % of all cache refs    
+
+       0.358051359 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,567,453      cache-references                                            
+        26,280,994      cache-misses              #   44.873 % of all cache refs    
+
+       0.429016534 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        42,745,732      cache-references                                            
+        16,535,434      cache-misses              #   38.683 % of all cache refs    
+
+       0.360825417 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,684,378      cache-references                                            
+        43,935,252      cache-misses              #   31.680 % of all cache refs    
+
+       0.720797728 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        62,190,994      cache-references                                            
+        18,288,974      cache-misses              #   29.408 % of all cache refs    
+
+       0.328711530 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        81,976,960      cache-references                                            
+        16,249,696      cache-misses              #   19.822 % of all cache refs    
+
+       0.423374134 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,296,929      cache-references                                            
+        14,637,104      cache-misses              #   84.623 % of all cache refs    
+
+       0.238429791 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,302,960      cache-references                                            
+        16,246,011      cache-misses              #   41.335 % of all cache refs    
+
+       0.352540758 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,478,735      cache-references                                            
+        26,249,739      cache-misses              #   44.888 % of all cache refs    
+
+       0.429394018 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,194,754      cache-references                                            
+        16,483,165      cache-misses              #   41.008 % of all cache refs    
+
+       0.363221752 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       137,632,049      cache-references                                            
+        43,548,842      cache-misses              #   31.641 % of all cache refs    
+
+       0.716201026 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,919,583      cache-references                                            
+        18,274,163      cache-misses              #   29.997 % of all cache refs    
+
+       0.331279888 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        83,294,217      cache-references                                            
+        16,333,848      cache-misses              #   19.610 % of all cache refs    
+
+       0.433181931 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,335,219      cache-references                                            
+        14,657,422      cache-misses              #   84.553 % of all cache refs    
+
+       0.246663572 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,011,910      cache-references                                            
+        16,282,355      cache-misses              #   41.737 % of all cache refs    
+
+       0.365802988 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,996,459      cache-references                                            
+        26,186,563      cache-misses              #   44.387 % of all cache refs    
+
+       0.442200927 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,838,611      cache-references                                            
+        16,539,002      cache-misses              #   40.498 % of all cache refs    
+
+       0.356093053 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       138,980,466      cache-references                                            
+        44,040,532      cache-misses              #   31.688 % of all cache refs    
+
+       0.752213614 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,542,579      cache-references                                            
+        18,248,591      cache-misses              #   30.142 % of all cache refs    
+
+       0.325738689 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        83,175,187      cache-references                                            
+        16,290,952      cache-misses              #   19.586 % of all cache refs    
+
+       0.420912379 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        17,334,594      cache-references                                            
+        14,659,846      cache-misses              #   84.570 % of all cache refs    
+
+       0.228803347 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        39,641,887      cache-references                                            
+        16,234,582      cache-misses              #   40.953 % of all cache refs    
+
+       0.361621607 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        58,414,036      cache-references                                            
+        26,223,327      cache-misses              #   44.892 % of all cache refs    
+
+       0.447760747 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        40,019,964      cache-references                                            
+        16,496,837      cache-misses              #   41.222 % of all cache refs    
+
+       0.356807586 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+       137,332,716      cache-references                                            
+        43,685,256      cache-misses              #   31.810 % of all cache refs    
+
+       0.724110530 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        60,410,320      cache-references                                            
+        18,305,938      cache-misses              #   30.303 % of all cache refs    
+
+       0.323719723 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/kron/kron-degree_nz.gr':
+
+        82,329,732      cache-references                                            
+        16,256,490      cache-misses              #   19.746 % of all cache refs    
+
+       0.417931619 seconds time elapsed
+

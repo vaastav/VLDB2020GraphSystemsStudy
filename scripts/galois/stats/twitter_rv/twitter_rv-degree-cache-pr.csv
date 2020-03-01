@@ -1,0 +1,900 @@
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,771,235,309      cache-references                                            
+   121,961,925,353      cache-misses              #   52.396 % of all cache refs    
+
+     596.195885859 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   241,674,583,537      cache-references                                            
+   127,377,685,863      cache-misses              #   52.706 % of all cache refs    
+
+     674.452015011 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    99,964,552,031      cache-references                                            
+    46,966,704,598      cache-misses              #   46.983 % of all cache refs    
+
+     361.121354364 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,685,640,003      cache-references                                            
+    84,801,501,110      cache-misses              #   47.194 % of all cache refs    
+
+     649.980013699 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   233,192,925,714      cache-references                                            
+   122,631,822,563      cache-misses              #   52.588 % of all cache refs    
+
+     565.610140131 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   235,076,960,376      cache-references                                            
+   125,474,127,096      cache-misses              #   53.376 % of all cache refs    
+
+     662.256708183 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,343,755,955      cache-references                                            
+    46,967,480,656      cache-misses              #   46.807 % of all cache refs    
+
+     361.301112681 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,880,211,386      cache-references                                            
+    84,553,150,226      cache-misses              #   47.005 % of all cache refs    
+
+     646.765590657 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   231,171,350,920      cache-references                                            
+   121,865,925,809      cache-misses              #   52.717 % of all cache refs    
+
+     561.315862328 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   238,787,512,549      cache-references                                            
+   117,760,173,754      cache-misses              #   49.316 % of all cache refs    
+
+     653.467815924 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,542,044,785      cache-references                                            
+    46,960,597,382      cache-misses              #   46.707 % of all cache refs    
+
+     360.698468002 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,810,218,411      cache-references                                            
+    84,624,084,028      cache-misses              #   47.063 % of all cache refs    
+
+     646.069868051 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   231,952,488,565      cache-references                                            
+   121,630,481,003      cache-misses              #   52.438 % of all cache refs    
+
+     561.221109662 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   237,748,079,442      cache-references                                            
+   116,036,955,284      cache-misses              #   48.807 % of all cache refs    
+
+     648.354440769 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    99,975,685,549      cache-references                                            
+    47,049,256,703      cache-misses              #   47.061 % of all cache refs    
+
+     357.402413404 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   180,232,175,378      cache-references                                            
+    84,687,372,978      cache-misses              #   46.988 % of all cache refs    
+
+     645.332946335 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,788,226,529      cache-references                                            
+   122,196,193,597      cache-misses              #   52.492 % of all cache refs    
+
+     565.901970870 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   236,944,447,917      cache-references                                            
+   119,420,110,345      cache-misses              #   50.400 % of all cache refs    
+
+     661.029655828 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,368,650,821      cache-references                                            
+    47,063,810,885      cache-misses              #   46.891 % of all cache refs    
+
+     365.930223119 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,553,494,229      cache-references                                            
+    84,750,412,748      cache-misses              #   47.201 % of all cache refs    
+
+     649.788890227 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   233,879,051,928      cache-references                                            
+   123,248,192,117      cache-misses              #   52.697 % of all cache refs    
+
+     573.500022727 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   239,977,476,780      cache-references                                            
+   126,992,129,291      cache-misses              #   52.918 % of all cache refs    
+
+     673.515713338 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    99,939,929,999      cache-references                                            
+    46,943,517,903      cache-misses              #   46.972 % of all cache refs    
+
+     356.693862480 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,559,872,558      cache-references                                            
+    84,603,043,269      cache-misses              #   47.117 % of all cache refs    
+
+     646.586093815 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,163,282,574      cache-references                                            
+   121,459,827,379      cache-misses              #   52.317 % of all cache refs    
+
+     561.698836621 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   247,217,512,498      cache-references                                            
+   118,973,048,174      cache-misses              #   48.125 % of all cache refs    
+
+     665.277626160 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    99,866,048,637      cache-references                                            
+    47,051,296,373      cache-misses              #   47.114 % of all cache refs    
+
+     356.662074847 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,252,869,258      cache-references                                            
+    84,466,119,847      cache-misses              #   47.121 % of all cache refs    
+
+     644.848179223 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,961,637,730      cache-references                                            
+   122,266,199,702      cache-misses              #   52.483 % of all cache refs    
+
+     565.397195975 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   241,881,612,454      cache-references                                            
+   116,927,078,879      cache-misses              #   48.341 % of all cache refs    
+
+     652.515402048 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    99,981,074,962      cache-references                                            
+    47,019,102,521      cache-misses              #   47.028 % of all cache refs    
+
+     359.210829054 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   180,022,275,615      cache-references                                            
+    84,767,025,285      cache-misses              #   47.087 % of all cache refs    
+
+     645.534008788 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   230,777,546,242      cache-references                                            
+   121,036,057,615      cache-misses              #   52.447 % of all cache refs    
+
+     559.610360171 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   238,285,262,024      cache-references                                            
+   128,106,241,071      cache-misses              #   53.762 % of all cache refs    
+
+     673.348294626 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,199,339,584      cache-references                                            
+    46,975,408,205      cache-misses              #   46.882 % of all cache refs    
+
+     357.478507469 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,764,896,771      cache-references                                            
+    84,831,266,434      cache-misses              #   47.190 % of all cache refs    
+
+     650.486392852 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   231,509,935,584      cache-references                                            
+   121,853,470,787      cache-misses              #   52.634 % of all cache refs    
+
+     563.105509768 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   243,712,918,644      cache-references                                            
+   127,230,014,797      cache-misses              #   52.205 % of all cache refs    
+
+     672.714603472 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    99,822,582,476      cache-references                                            
+    46,904,646,935      cache-misses              #   46.988 % of all cache refs    
+
+     356.276896153 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,632,168,826      cache-references                                            
+    84,653,888,786      cache-misses              #   47.126 % of all cache refs    
+
+     641.927410406 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   231,131,968,416      cache-references                                            
+   121,665,116,959      cache-misses              #   52.639 % of all cache refs    
+
+     562.477448905 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   239,357,465,416      cache-references                                            
+   119,695,076,847      cache-misses              #   50.007 % of all cache refs    
+
+     658.964246792 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,313,722,946      cache-references                                            
+    46,992,881,590      cache-misses              #   46.846 % of all cache refs    
+
+     359.533740856 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,329,344,540      cache-references                                            
+    84,554,667,398      cache-misses              #   47.150 % of all cache refs    
+
+     644.346123721 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,245,726,299      cache-references                                            
+   122,474,581,805      cache-misses              #   52.735 % of all cache refs    
+
+     565.860680419 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   240,239,558,950      cache-references                                            
+   126,673,705,678      cache-misses              #   52.728 % of all cache refs    
+
+     669.429476655 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,005,548,407      cache-references                                            
+    46,955,713,423      cache-misses              #   46.953 % of all cache refs    
+
+     358.706314558 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,515,134,532      cache-references                                            
+    84,667,346,317      cache-misses              #   47.164 % of all cache refs    
+
+     646.262433808 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,894,790,218      cache-references                                            
+   122,398,031,616      cache-misses              #   52.555 % of all cache refs    
+
+     565.618186025 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,575,366,342      cache-references                                            
+   126,322,867,083      cache-misses              #   54.315 % of all cache refs    
+
+     665.390446192 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,618,812,809      cache-references                                            
+    47,137,281,663      cache-misses              #   46.847 % of all cache refs    
+
+     361.658783502 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   180,580,383,110      cache-references                                            
+    84,816,141,499      cache-misses              #   46.969 % of all cache refs    
+
+     647.382265433 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   234,174,732,135      cache-references                                            
+   122,669,371,579      cache-misses              #   52.384 % of all cache refs    
+
+     567.388379140 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   247,024,976,204      cache-references                                            
+   124,681,545,824      cache-misses              #   50.473 % of all cache refs    
+
+     665.520222102 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,581,955,097      cache-references                                            
+    46,957,680,809      cache-misses              #   46.686 % of all cache refs    
+
+     360.419969463 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,394,114,124      cache-references                                            
+    84,777,524,809      cache-misses              #   47.258 % of all cache refs    
+
+     648.402658047 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   233,851,712,668      cache-references                                            
+   122,335,130,261      cache-misses              #   52.313 % of all cache refs    
+
+     566.174891310 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   242,069,528,942      cache-references                                            
+   124,892,702,929      cache-misses              #   51.594 % of all cache refs    
+
+     665.673128114 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    99,998,792,505      cache-references                                            
+    46,955,681,575      cache-misses              #   46.956 % of all cache refs    
+
+     356.992417964 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   180,298,629,740      cache-references                                            
+    84,563,957,563      cache-misses              #   46.902 % of all cache refs    
+
+     647.508726080 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,585,580,108      cache-references                                            
+   122,939,213,488      cache-misses              #   52.858 % of all cache refs    
+
+     567.238026916 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   238,931,174,492      cache-references                                            
+   125,610,272,636      cache-misses              #   52.572 % of all cache refs    
+
+     667.048796089 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,148,773,587      cache-references                                            
+    46,996,896,885      cache-misses              #   46.927 % of all cache refs    
+
+     359.229521850 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,543,978,740      cache-references                                            
+    84,757,359,464      cache-misses              #   47.207 % of all cache refs    
+
+     649.381752270 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   234,074,989,191      cache-references                                            
+   122,793,787,733      cache-misses              #   52.459 % of all cache refs    
+
+     567.997715503 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   233,446,321,817      cache-references                                            
+   116,474,575,024      cache-misses              #   49.894 % of all cache refs    
+
+     646.281545592 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,506,510,051      cache-references                                            
+    46,904,975,522      cache-misses              #   46.669 % of all cache refs    
+
+     356.702090408 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,620,909,651      cache-references                                            
+    84,550,865,537      cache-misses              #   47.072 % of all cache refs    
+
+     642.746456449 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   233,144,650,015      cache-references                                            
+   122,334,257,290      cache-misses              #   52.471 % of all cache refs    
+
+     564.866865715 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   236,878,074,672      cache-references                                            
+   124,964,238,316      cache-misses              #   52.755 % of all cache refs    
+
+     661.531425996 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,295,268,079      cache-references                                            
+    46,830,366,906      cache-misses              #   46.692 % of all cache refs    
+
+     355.500466173 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,791,538,469      cache-references                                            
+    84,642,158,948      cache-misses              #   47.078 % of all cache refs    
+
+     648.655869777 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,891,895,355      cache-references                                            
+   121,737,454,110      cache-misses              #   52.272 % of all cache refs    
+
+     562.959762528 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   237,827,529,969      cache-references                                            
+   116,212,817,767      cache-misses              #   48.864 % of all cache refs    
+
+     648.640656398 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    99,975,951,126      cache-references                                            
+    46,957,352,301      cache-misses              #   46.969 % of all cache refs    
+
+     356.120880077 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,397,755,568      cache-references                                            
+    84,464,698,919      cache-misses              #   47.082 % of all cache refs    
+
+     641.437830350 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,435,931,285      cache-references                                            
+   122,487,733,354      cache-misses              #   52.697 % of all cache refs    
+
+     566.438956564 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,730,517,591      cache-references                                            
+   117,494,391,350      cache-misses              #   50.485 % of all cache refs    
+
+     648.567444348 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,402,199,925      cache-references                                            
+    46,983,396,840      cache-misses              #   46.795 % of all cache refs    
+
+     360.942380029 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,776,064,053      cache-references                                            
+    84,708,096,162      cache-misses              #   47.119 % of all cache refs    
+
+     648.883571120 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   231,816,403,935      cache-references                                            
+   122,050,189,486      cache-misses              #   52.650 % of all cache refs    
+
+     563.788513028 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   238,509,066,252      cache-references                                            
+   125,292,230,076      cache-misses              #   52.531 % of all cache refs    
+
+     663.465302804 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,452,431,427      cache-references                                            
+    47,138,957,049      cache-misses              #   46.927 % of all cache refs    
+
+     365.077245570 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,481,469,342      cache-references                                            
+    84,587,142,719      cache-misses              #   47.129 % of all cache refs    
+
+     643.685059193 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   231,925,708,379      cache-references                                            
+   122,197,727,697      cache-misses              #   52.688 % of all cache refs    
+
+     564.203825866 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   234,132,730,506      cache-references                                            
+   115,612,157,664      cache-misses              #   49.379 % of all cache refs    
+
+     642.674224023 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,519,929,376      cache-references                                            
+    47,051,321,282      cache-misses              #   46.808 % of all cache refs    
+
+     357.776115562 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,991,087,109      cache-references                                            
+    84,647,272,815      cache-misses              #   47.029 % of all cache refs    
+
+     645.429576031 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   231,116,159,721      cache-references                                            
+   122,041,182,431      cache-misses              #   52.805 % of all cache refs    
+
+     563.172422951 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   231,757,972,893      cache-references                                            
+   115,607,421,717      cache-misses              #   49.883 % of all cache refs    
+
+     642.543246369 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,273,644,193      cache-references                                            
+    46,981,761,352      cache-misses              #   46.854 % of all cache refs    
+
+     359.114007224 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,816,226,919      cache-references                                            
+    84,835,001,313      cache-misses              #   47.179 % of all cache refs    
+
+     642.852710034 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   230,175,630,232      cache-references                                            
+   120,960,587,171      cache-misses              #   52.551 % of all cache refs    
+
+     558.780726354 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   232,934,441,780      cache-references                                            
+   117,005,447,763      cache-misses              #   50.231 % of all cache refs    
+
+     646.399609263 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   100,076,817,644      cache-references                                            
+    46,953,116,556      cache-misses              #   46.917 % of all cache refs    
+
+     359.653289087 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,439,532,554      cache-references                                            
+    84,576,572,062      cache-misses              #   47.134 % of all cache refs    
+
+     646.829630778 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   231,810,589,108      cache-references                                            
+   122,014,039,993      cache-misses              #   52.635 % of all cache refs    
+
+     563.530448038 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   233,989,015,033      cache-references                                            
+   115,730,310,896      cache-misses              #   49.460 % of all cache refs    
+
+     643.475699354 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+    99,978,193,592      cache-references                                            
+    46,946,085,043      cache-misses              #   46.956 % of all cache refs    
+
+     358.121605205 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/twitter_rv/twitter_rv-degree.gr':
+
+   179,471,276,689      cache-references                                            
+    84,781,591,080      cache-misses              #   47.240 % of all cache refs    
+
+     645.066558240 seconds time elapsed
+

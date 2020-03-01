@@ -1,0 +1,1575 @@
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        54,376,640      cache-references                                            
+        37,864,427      cache-misses              #   69.634 % of all cache refs    
+
+       2.331974618 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       126,231,205      cache-references                                            
+        59,343,777      cache-misses              #   47.012 % of all cache refs    
+
+       1.063994462 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,673,442      cache-references                                            
+        95,913,894      cache-misses              #   52.506 % of all cache refs    
+
+       1.294385295 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,249,505      cache-references                                            
+        64,621,500      cache-misses              #   48.135 % of all cache refs    
+
+       1.079340378 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,574,086      cache-references                                            
+       342,881,865      cache-misses              #   66.505 % of all cache refs    
+
+       3.699479175 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,272,581      cache-references                                            
+        76,016,016      cache-misses              #   44.907 % of all cache refs    
+
+       0.975573610 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       218,286,334      cache-references                                            
+        88,336,988      cache-misses              #   40.468 % of all cache refs    
+
+       1.295889315 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,166,283      cache-references                                            
+        37,466,657      cache-misses              #   77.786 % of all cache refs    
+
+       0.568308500 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       126,013,186      cache-references                                            
+        59,186,275      cache-misses              #   46.968 % of all cache refs    
+
+       1.053790357 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,154,605      cache-references                                            
+        96,070,145      cache-misses              #   52.741 % of all cache refs    
+
+       1.304392129 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,334,769      cache-references                                            
+        65,054,214      cache-misses              #   48.427 % of all cache refs    
+
+       1.085188139 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       514,682,038      cache-references                                            
+       343,111,541      cache-misses              #   66.665 % of all cache refs    
+
+       3.644498950 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,589,511      cache-references                                            
+        75,471,727      cache-misses              #   44.503 % of all cache refs    
+
+       0.976130783 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,026,930      cache-references                                            
+        88,189,171      cache-misses              #   40.823 % of all cache refs    
+
+       1.289904728 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,447,093      cache-references                                            
+        37,534,168      cache-misses              #   77.475 % of all cache refs    
+
+       0.569792564 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,715,404      cache-references                                            
+        58,954,026      cache-misses              #   46.895 % of all cache refs    
+
+       1.036528239 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,446,043      cache-references                                            
+        95,900,810      cache-misses              #   52.564 % of all cache refs    
+
+       1.304769071 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,283,551      cache-references                                            
+        65,149,456      cache-misses              #   48.516 % of all cache refs    
+
+       1.084769352 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,437,772      cache-references                                            
+       346,280,397      cache-misses              #   67.182 % of all cache refs    
+
+       3.673965263 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,729,163      cache-references                                            
+        75,672,688      cache-misses              #   44.849 % of all cache refs    
+
+       0.973232428 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,668,991      cache-references                                            
+        88,280,563      cache-misses              #   40.744 % of all cache refs    
+
+       1.296730351 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,551,919      cache-references                                            
+        37,513,630      cache-misses              #   77.265 % of all cache refs    
+
+       0.583146780 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,621,175      cache-references                                            
+        59,193,578      cache-misses              #   47.121 % of all cache refs    
+
+       1.039882100 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,496,953      cache-references                                            
+        96,168,557      cache-misses              #   52.696 % of all cache refs    
+
+       1.298129391 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       133,997,278      cache-references                                            
+        65,007,010      cache-misses              #   48.514 % of all cache refs    
+
+       1.084952728 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,690,104      cache-references                                            
+       344,238,386      cache-misses              #   66.753 % of all cache refs    
+
+       3.656272417 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,624,732      cache-references                                            
+        75,840,191      cache-misses              #   44.976 % of all cache refs    
+
+       0.989672265 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,153,993      cache-references                                            
+        88,630,584      cache-misses              #   41.003 % of all cache refs    
+
+       1.292131609 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,510,874      cache-references                                            
+        37,522,412      cache-misses              #   77.348 % of all cache refs    
+
+       0.569721317 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,123,320      cache-references                                            
+        59,345,374      cache-misses              #   47.430 % of all cache refs    
+
+       1.051930026 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       183,072,013      cache-references                                            
+        96,010,572      cache-misses              #   52.444 % of all cache refs    
+
+       1.295239446 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,836,453      cache-references                                            
+        65,000,920      cache-misses              #   48.207 % of all cache refs    
+
+       1.087129420 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,408,040      cache-references                                            
+       343,184,887      cache-misses              #   66.585 % of all cache refs    
+
+       3.658898832 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,146,232      cache-references                                            
+        75,640,418      cache-misses              #   44.985 % of all cache refs    
+
+       0.982099775 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       217,340,881      cache-references                                            
+        88,269,161      cache-misses              #   40.613 % of all cache refs    
+
+       1.290340023 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,527,858      cache-references                                            
+        37,465,006      cache-misses              #   77.203 % of all cache refs    
+
+       0.580859527 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,398,805      cache-references                                            
+        59,692,101      cache-misses              #   47.602 % of all cache refs    
+
+       1.045402160 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,231,120      cache-references                                            
+        95,885,777      cache-misses              #   52.618 % of all cache refs    
+
+       1.297186503 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,335,436      cache-references                                            
+        64,775,265      cache-misses              #   48.219 % of all cache refs    
+
+       1.101218121 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       514,455,362      cache-references                                            
+       346,994,254      cache-misses              #   67.449 % of all cache refs    
+
+       3.709288805 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,512,157      cache-references                                            
+        75,332,047      cache-misses              #   44.704 % of all cache refs    
+
+       0.977797470 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,277,128      cache-references                                            
+        88,128,867      cache-misses              #   40.748 % of all cache refs    
+
+       1.288483304 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,338,723      cache-references                                            
+        37,538,927      cache-misses              #   77.658 % of all cache refs    
+
+       0.573878051 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,368,478      cache-references                                            
+        59,186,780      cache-misses              #   47.210 % of all cache refs    
+
+       1.042842271 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,290,542      cache-references                                            
+        95,962,412      cache-misses              #   52.643 % of all cache refs    
+
+       1.291331696 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,409,833      cache-references                                            
+        64,746,333      cache-misses              #   48.171 % of all cache refs    
+
+       1.083237601 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,135,472      cache-references                                            
+       343,295,551      cache-misses              #   66.642 % of all cache refs    
+
+       3.668733030 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,204,316      cache-references                                            
+        75,537,664      cache-misses              #   44.643 % of all cache refs    
+
+       0.996818862 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,274,353      cache-references                                            
+        88,016,390      cache-misses              #   40.697 % of all cache refs    
+
+       1.295074289 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,128,957      cache-references                                            
+        37,358,393      cache-misses              #   77.621 % of all cache refs    
+
+       0.573029080 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,350,910      cache-references                                            
+        58,926,623      cache-misses              #   47.009 % of all cache refs    
+
+       1.048294539 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,455,437      cache-references                                            
+        96,081,939      cache-misses              #   52.660 % of all cache refs    
+
+       1.298290685 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,171,783      cache-references                                            
+        64,885,103      cache-misses              #   48.360 % of all cache refs    
+
+       1.085616163 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,156,798      cache-references                                            
+       343,278,630      cache-misses              #   66.636 % of all cache refs    
+
+       3.645531272 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,953,776      cache-references                                            
+        75,560,332      cache-misses              #   44.459 % of all cache refs    
+
+       0.978686298 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,635,672      cache-references                                            
+        88,483,653      cache-misses              #   40.844 % of all cache refs    
+
+       1.288605239 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,336,256      cache-references                                            
+        37,463,206      cache-misses              #   77.505 % of all cache refs    
+
+       0.574531756 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,506,346      cache-references                                            
+        59,047,553      cache-misses              #   47.047 % of all cache refs    
+
+       1.042751616 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       183,069,629      cache-references                                            
+        96,138,003      cache-misses              #   52.514 % of all cache refs    
+
+       1.295178899 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,203,508      cache-references                                            
+        65,139,647      cache-misses              #   48.538 % of all cache refs    
+
+       1.094982692 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       516,273,702      cache-references                                            
+       344,912,618      cache-misses              #   66.808 % of all cache refs    
+
+       3.678110576 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,950,262      cache-references                                            
+        75,632,010      cache-misses              #   44.502 % of all cache refs    
+
+       0.980583659 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,653,396      cache-references                                            
+        88,410,041      cache-misses              #   40.807 % of all cache refs    
+
+       1.292598478 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,479,293      cache-references                                            
+        37,376,614      cache-misses              #   77.098 % of all cache refs    
+
+       0.575802950 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,785,123      cache-references                                            
+        59,159,744      cache-misses              #   47.032 % of all cache refs    
+
+       1.044769691 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,276,286      cache-references                                            
+        95,950,494      cache-misses              #   52.640 % of all cache refs    
+
+       1.295888747 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,222,754      cache-references                                            
+        64,947,144      cache-misses              #   48.388 % of all cache refs    
+
+       1.095741759 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       514,628,217      cache-references                                            
+       343,087,354      cache-misses              #   66.667 % of all cache refs    
+
+       3.660650003 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,456,388      cache-references                                            
+        75,630,711      cache-misses              #   44.631 % of all cache refs    
+
+       0.976395777 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       217,548,754      cache-references                                            
+        88,272,932      cache-misses              #   40.576 % of all cache refs    
+
+       1.301769688 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,538,382      cache-references                                            
+        37,479,787      cache-misses              #   77.217 % of all cache refs    
+
+       0.582885328 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,180,945      cache-references                                            
+        59,113,773      cache-misses              #   47.223 % of all cache refs    
+
+       1.051341433 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,336,117      cache-references                                            
+        95,748,505      cache-misses              #   52.512 % of all cache refs    
+
+       1.293141815 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,321,365      cache-references                                            
+        64,931,244      cache-misses              #   48.340 % of all cache refs    
+
+       1.085610735 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       517,369,101      cache-references                                            
+       343,054,067      cache-misses              #   66.307 % of all cache refs    
+
+       3.649406006 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,394,408      cache-references                                            
+        75,673,104      cache-misses              #   44.673 % of all cache refs    
+
+       0.975585872 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,065,030      cache-references                                            
+        88,351,309      cache-misses              #   40.891 % of all cache refs    
+
+       1.287379330 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,497,953      cache-references                                            
+        37,504,186      cache-misses              #   77.331 % of all cache refs    
+
+       0.572610199 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,357,096      cache-references                                            
+        59,170,799      cache-misses              #   47.202 % of all cache refs    
+
+       1.046006644 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,174,512      cache-references                                            
+        95,871,590      cache-misses              #   52.626 % of all cache refs    
+
+       1.301196293 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,355,703      cache-references                                            
+        68,171,575      cache-misses              #   50.740 % of all cache refs    
+
+       1.118079166 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       516,241,836      cache-references                                            
+       344,931,159      cache-misses              #   66.816 % of all cache refs    
+
+       3.704891378 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,412,810      cache-references                                            
+        75,551,423      cache-misses              #   44.861 % of all cache refs    
+
+       0.974458948 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,557,755      cache-references                                            
+        88,515,309      cache-misses              #   40.874 % of all cache refs    
+
+       1.290554903 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,424,677      cache-references                                            
+        37,496,289      cache-misses              #   77.432 % of all cache refs    
+
+       0.573634686 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,755,119      cache-references                                            
+        58,912,560      cache-misses              #   46.847 % of all cache refs    
+
+       1.049138541 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,390,728      cache-references                                            
+        96,261,451      cache-misses              #   52.778 % of all cache refs    
+
+       1.299738592 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       135,120,140      cache-references                                            
+        64,983,494      cache-misses              #   48.093 % of all cache refs    
+
+       1.091761216 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,636,956      cache-references                                            
+       343,258,467      cache-misses              #   66.570 % of all cache refs    
+
+       3.650529026 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,880,693      cache-references                                            
+        75,761,027      cache-misses              #   44.861 % of all cache refs    
+
+       0.982604602 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,863,573      cache-references                                            
+        88,322,074      cache-misses              #   40.727 % of all cache refs    
+
+       1.285862751 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,614,025      cache-references                                            
+        37,473,847      cache-misses              #   77.084 % of all cache refs    
+
+       0.575711162 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,294,760      cache-references                                            
+        59,120,480      cache-misses              #   47.185 % of all cache refs    
+
+       1.048696463 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,157,224      cache-references                                            
+        96,100,415      cache-misses              #   52.757 % of all cache refs    
+
+       1.293161734 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       133,935,203      cache-references                                            
+        64,913,030      cache-misses              #   48.466 % of all cache refs    
+
+       1.088116553 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,412,131      cache-references                                            
+       343,510,318      cache-misses              #   66.648 % of all cache refs    
+
+       3.650198672 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       170,304,785      cache-references                                            
+        76,049,530      cache-misses              #   44.655 % of all cache refs    
+
+       0.978647818 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       217,284,864      cache-references                                            
+        88,420,026      cache-misses              #   40.693 % of all cache refs    
+
+       1.292487460 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,543,789      cache-references                                            
+        37,448,373      cache-misses              #   77.143 % of all cache refs    
+
+       0.573920644 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,623,643      cache-references                                            
+        59,187,331      cache-misses              #   47.115 % of all cache refs    
+
+       1.056032161 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,229,455      cache-references                                            
+        96,034,801      cache-misses              #   52.700 % of all cache refs    
+
+       1.304151086 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,158,467      cache-references                                            
+        66,428,847      cache-misses              #   49.515 % of all cache refs    
+
+       1.113390721 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       514,056,935      cache-references                                            
+       342,612,473      cache-misses              #   66.649 % of all cache refs    
+
+       3.726820151 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,323,970      cache-references                                            
+        75,780,652      cache-misses              #   44.755 % of all cache refs    
+
+       0.981712551 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       215,739,405      cache-references                                            
+        88,488,078      cache-misses              #   41.016 % of all cache refs    
+
+       1.325266071 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,372,399      cache-references                                            
+        37,430,660      cache-misses              #   77.380 % of all cache refs    
+
+       0.574581074 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,662,369      cache-references                                            
+        59,132,261      cache-misses              #   47.056 % of all cache refs    
+
+       1.038764293 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,387,225      cache-references                                            
+        95,886,711      cache-misses              #   52.573 % of all cache refs    
+
+       1.294961954 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       133,597,093      cache-references                                            
+        65,136,754      cache-misses              #   48.756 % of all cache refs    
+
+       1.089247504 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,870,396      cache-references                                            
+       342,426,931      cache-misses              #   66.378 % of all cache refs    
+
+       3.649209687 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,681,095      cache-references                                            
+        75,631,173      cache-misses              #   44.837 % of all cache refs    
+
+       0.971327198 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,865,465      cache-references                                            
+        88,056,079      cache-misses              #   40.604 % of all cache refs    
+
+       1.288414969 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,508,838      cache-references                                            
+        37,367,184      cache-misses              #   77.032 % of all cache refs    
+
+       0.574229967 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,583,779      cache-references                                            
+        58,693,716      cache-misses              #   46.737 % of all cache refs    
+
+       1.067049285 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,963,459      cache-references                                            
+        95,798,995      cache-misses              #   52.360 % of all cache refs    
+
+       1.304720161 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,189,067      cache-references                                            
+        64,800,351      cache-misses              #   48.290 % of all cache refs    
+
+       1.093277940 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       516,676,410      cache-references                                            
+       343,047,187      cache-misses              #   66.395 % of all cache refs    
+
+       3.651104622 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,656,014      cache-references                                            
+        75,719,525      cache-misses              #   44.896 % of all cache refs    
+
+       0.992057475 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       217,829,750      cache-references                                            
+        88,413,379      cache-misses              #   40.588 % of all cache refs    
+
+       1.287704146 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,393,888      cache-references                                            
+        37,584,902      cache-misses              #   77.665 % of all cache refs    
+
+       0.573639291 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,587,749      cache-references                                            
+        58,991,547      cache-misses              #   46.972 % of all cache refs    
+
+       1.045547486 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,813,497      cache-references                                            
+        99,509,884      cache-misses              #   54.432 % of all cache refs    
+
+       1.332705330 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,587,452      cache-references                                            
+        65,003,515      cache-misses              #   48.298 % of all cache refs    
+
+       1.119599323 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       516,024,925      cache-references                                            
+       343,041,447      cache-misses              #   66.478 % of all cache refs    
+
+       3.644133852 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,556,578      cache-references                                            
+        75,744,474      cache-misses              #   44.937 % of all cache refs    
+
+       0.991286302 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       215,968,114      cache-references                                            
+        88,403,202      cache-misses              #   40.933 % of all cache refs    
+
+       1.279635834 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,485,411      cache-references                                            
+        37,471,974      cache-misses              #   77.285 % of all cache refs    
+
+       0.571717682 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,975,041      cache-references                                            
+        59,121,857      cache-misses              #   46.931 % of all cache refs    
+
+       1.039704993 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,337,642      cache-references                                            
+        95,946,990      cache-misses              #   52.621 % of all cache refs    
+
+       1.292275455 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,115,654      cache-references                                            
+        64,916,200      cache-misses              #   48.403 % of all cache refs    
+
+       1.086421041 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,501,335      cache-references                                            
+       343,661,704      cache-misses              #   66.666 % of all cache refs    
+
+       3.655519938 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,698,748      cache-references                                            
+        75,800,215      cache-misses              #   44.668 % of all cache refs    
+
+       0.990935412 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,911,006      cache-references                                            
+        88,366,058      cache-misses              #   40.738 % of all cache refs    
+
+       1.293604778 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,548,178      cache-references                                            
+        37,532,528      cache-misses              #   77.310 % of all cache refs    
+
+       0.572826299 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,443,865      cache-references                                            
+        59,391,455      cache-misses              #   47.345 % of all cache refs    
+
+       1.045554352 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,356,335      cache-references                                            
+        96,125,482      cache-misses              #   52.713 % of all cache refs    
+
+       1.292696680 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,555,740      cache-references                                            
+        64,636,658      cache-misses              #   48.037 % of all cache refs    
+
+       1.080087061 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       514,374,601      cache-references                                            
+       342,980,410      cache-misses              #   66.679 % of all cache refs    
+
+       3.654846535 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       170,161,308      cache-references                                            
+        75,806,767      cache-misses              #   44.550 % of all cache refs    
+
+       0.976980598 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       217,984,118      cache-references                                            
+        88,168,556      cache-misses              #   40.447 % of all cache refs    
+
+       1.288482866 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,413,139      cache-references                                            
+        37,427,397      cache-misses              #   77.308 % of all cache refs    
+
+       0.572666497 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       127,110,671      cache-references                                            
+        59,326,935      cache-misses              #   46.673 % of all cache refs    
+
+       1.047921318 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,690,176      cache-references                                            
+        96,112,644      cache-misses              #   52.610 % of all cache refs    
+
+       1.305395089 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,082,991      cache-references                                            
+        64,826,462      cache-misses              #   48.348 % of all cache refs    
+
+       1.100474115 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       514,679,603      cache-references                                            
+       342,943,228      cache-misses              #   66.632 % of all cache refs    
+
+       3.643617770 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,356,680      cache-references                                            
+        76,005,680      cache-misses              #   44.879 % of all cache refs    
+
+       0.991512709 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,543,135      cache-references                                            
+        88,067,159      cache-misses              #   40.670 % of all cache refs    
+
+       1.286573972 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,452,868      cache-references                                            
+        37,600,330      cache-misses              #   77.602 % of all cache refs    
+
+       0.585176030 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,649,410      cache-references                                            
+        59,051,628      cache-misses              #   46.997 % of all cache refs    
+
+       1.040335958 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,742,810      cache-references                                            
+        96,078,449      cache-misses              #   52.576 % of all cache refs    
+
+       1.291124467 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,363,592      cache-references                                            
+        64,993,489      cache-misses              #   48.371 % of all cache refs    
+
+       1.100593401 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,835,415      cache-references                                            
+       343,073,927      cache-misses              #   66.508 % of all cache refs    
+
+       3.654685091 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,458,682      cache-references                                            
+        75,592,425      cache-misses              #   44.608 % of all cache refs    
+
+       0.976007575 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,400,410      cache-references                                            
+        88,361,742      cache-misses              #   40.833 % of all cache refs    
+
+       1.286096814 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,392,023      cache-references                                            
+        37,377,480      cache-misses              #   77.239 % of all cache refs    
+
+       0.569240557 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,433,009      cache-references                                            
+        59,248,715      cache-misses              #   47.235 % of all cache refs    
+
+       1.040844737 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,577,165      cache-references                                            
+        95,877,288      cache-misses              #   52.513 % of all cache refs    
+
+       1.290776611 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       133,897,049      cache-references                                            
+        65,081,632      cache-misses              #   48.606 % of all cache refs    
+
+       1.085576187 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,068,504      cache-references                                            
+       343,018,129      cache-misses              #   66.597 % of all cache refs    
+
+       3.641606723 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,612,706      cache-references                                            
+        75,815,795      cache-misses              #   44.699 % of all cache refs    
+
+       0.995550722 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       217,948,871      cache-references                                            
+        88,718,187      cache-misses              #   40.706 % of all cache refs    
+
+       1.297481935 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,476,650      cache-references                                            
+        37,430,969      cache-misses              #   77.214 % of all cache refs    
+
+       0.568113111 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       126,369,386      cache-references                                            
+        62,157,674      cache-misses              #   49.187 % of all cache refs    
+
+       1.072855677 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,063,427      cache-references                                            
+        96,325,071      cache-misses              #   52.907 % of all cache refs    
+
+       1.328373868 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       133,795,358      cache-references                                            
+        64,890,011      cache-misses              #   48.499 % of all cache refs    
+
+       1.087178090 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       514,979,908      cache-references                                            
+       343,356,834      cache-misses              #   66.674 % of all cache refs    
+
+       3.658839607 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       168,271,805      cache-references                                            
+        75,831,561      cache-misses              #   45.065 % of all cache refs    
+
+       0.976593615 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,499,311      cache-references                                            
+        88,321,346      cache-misses              #   40.795 % of all cache refs    
+
+       1.282102861 seconds time elapsed
+
+Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Sync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+        48,205,112      cache-references                                            
+        37,413,565      cache-misses              #   77.613 % of all cache refs    
+
+       0.575188539 seconds time elapsed
+
+Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Async -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       125,437,625      cache-references                                            
+        59,175,179      cache-misses              #   47.175 % of all cache refs    
+
+       1.041502021 seconds time elapsed
+
+EdgeAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgeAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       182,582,462      cache-references                                            
+        95,901,694      cache-misses              #   52.525 % of all cache refs    
+
+       1.301687669 seconds time elapsed
+
+EdgetileAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=EdgetiledAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       134,476,084      cache-references                                            
+        64,885,339      cache-misses              #   48.250 % of all cache refs    
+
+       1.085836522 seconds time elapsed
+
+BlockedAsync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=BlockedAsync -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       515,373,012      cache-references                                            
+       343,316,399      cache-misses              #   66.615 % of all cache refs    
+
+       3.654587406 seconds time elapsed
+
+LabelProp
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=LabelProp -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       169,598,400      cache-references                                            
+        76,348,429      cache-misses              #   45.017 % of all cache refs    
+
+       0.982156745 seconds time elapsed
+
+Serial
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/connectedcomponents/connectedcomponents -algo=Serial -noverify ../../datasets/soc-livejournal/soc-LiveJournal1-random_nz.gr':
+
+       216,137,235      cache-references                                            
+        88,495,153      cache-misses              #   40.944 % of all cache refs    
+
+       1.283799880 seconds time elapsed
+

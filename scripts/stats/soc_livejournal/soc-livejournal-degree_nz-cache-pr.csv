@@ -1,0 +1,900 @@
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,552,257,731      cache-references                                            
+     3,072,316,457      cache-misses              #   29.115 % of all cache refs    
+
+      21.825257761 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,913,866,455      cache-references                                            
+     2,027,468,477      cache-misses              #   29.325 % of all cache refs    
+
+      16.022714371 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,900,243,571      cache-references                                            
+     1,443,196,544      cache-misses              #   37.003 % of all cache refs    
+
+      16.197055399 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,509,550,715      cache-references                                            
+     2,254,370,095      cache-misses              #   34.632 % of all cache refs    
+
+      28.306974795 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,817,669,746      cache-references                                            
+     3,115,276,352      cache-misses              #   28.798 % of all cache refs    
+
+      21.302145716 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,779,908,756      cache-references                                            
+     2,101,834,613      cache-misses              #   31.001 % of all cache refs    
+
+      14.968118087 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,923,913,695      cache-references                                            
+     1,435,063,749      cache-misses              #   36.572 % of all cache refs    
+
+      17.031206664 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,511,773,965      cache-references                                            
+     2,261,051,879      cache-misses              #   34.723 % of all cache refs    
+
+      27.985252451 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,486,766,741      cache-references                                            
+     3,077,415,166      cache-misses              #   29.346 % of all cache refs    
+
+      20.003040627 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,862,474,030      cache-references                                            
+     1,915,534,378      cache-misses              #   27.913 % of all cache refs    
+
+      14.441077205 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,924,624,752      cache-references                                            
+     1,433,373,272      cache-misses              #   36.523 % of all cache refs    
+
+      16.186649773 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,527,121,805      cache-references                                            
+     2,261,809,456      cache-misses              #   34.652 % of all cache refs    
+
+      27.959630594 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,496,818,482      cache-references                                            
+     3,111,667,628      cache-misses              #   29.644 % of all cache refs    
+
+      20.115520103 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,512,759,682      cache-references                                            
+     2,066,052,820      cache-misses              #   31.723 % of all cache refs    
+
+      15.090052273 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,927,588,895      cache-references                                            
+     1,445,958,666      cache-misses              #   36.815 % of all cache refs    
+
+      16.251866217 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,490,587,601      cache-references                                            
+     2,264,238,480      cache-misses              #   34.885 % of all cache refs    
+
+      28.012192848 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,420,365,014      cache-references                                            
+     3,074,396,995      cache-misses              #   29.504 % of all cache refs    
+
+      19.968587190 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,737,117,286      cache-references                                            
+     1,677,493,784      cache-misses              #   24.899 % of all cache refs    
+
+      13.952910902 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,931,856,392      cache-references                                            
+     1,456,010,464      cache-misses              #   37.031 % of all cache refs    
+
+      16.644783390 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,483,673,178      cache-references                                            
+     2,253,132,960      cache-misses              #   34.751 % of all cache refs    
+
+      27.584716207 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,501,322,347      cache-references                                            
+     3,083,980,606      cache-misses              #   29.368 % of all cache refs    
+
+      20.015248751 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,684,232,571      cache-references                                            
+     1,796,727,867      cache-misses              #   26.880 % of all cache refs    
+
+      14.310454228 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,916,297,771      cache-references                                            
+     1,429,971,939      cache-misses              #   36.513 % of all cache refs    
+
+      16.181324782 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,542,976,661      cache-references                                            
+     2,259,284,766      cache-misses              #   34.530 % of all cache refs    
+
+      27.979760079 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,559,944,991      cache-references                                            
+     3,075,249,437      cache-misses              #   29.122 % of all cache refs    
+
+      19.890583064 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,720,555,726      cache-references                                            
+     1,736,092,940      cache-misses              #   25.833 % of all cache refs    
+
+      14.124247091 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,897,037,499      cache-references                                            
+     1,441,581,782      cache-misses              #   36.992 % of all cache refs    
+
+      16.266762728 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,499,478,080      cache-references                                            
+     2,256,240,953      cache-misses              #   34.714 % of all cache refs    
+
+      27.608616794 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,580,642,070      cache-references                                            
+     3,032,237,856      cache-misses              #   28.658 % of all cache refs    
+
+      19.918787050 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,857,427,738      cache-references                                            
+     1,956,864,393      cache-misses              #   28.536 % of all cache refs    
+
+      14.565374837 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,898,464,685      cache-references                                            
+     1,444,465,018      cache-misses              #   37.052 % of all cache refs    
+
+      16.606031590 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,474,448,354      cache-references                                            
+     2,251,261,317      cache-misses              #   34.771 % of all cache refs    
+
+      27.897819262 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,508,840,878      cache-references                                            
+     3,108,151,029      cache-misses              #   29.577 % of all cache refs    
+
+      20.090130777 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,735,062,608      cache-references                                            
+     2,186,699,910      cache-misses              #   32.467 % of all cache refs    
+
+      15.210596891 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,918,550,133      cache-references                                            
+     1,424,642,699      cache-misses              #   36.356 % of all cache refs    
+
+      16.184389868 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,499,047,183      cache-references                                            
+     2,257,123,263      cache-misses              #   34.730 % of all cache refs    
+
+      28.013691553 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,520,787,366      cache-references                                            
+     3,052,946,597      cache-misses              #   29.018 % of all cache refs    
+
+      19.949314151 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,512,612,709      cache-references                                            
+     2,077,581,344      cache-misses              #   31.901 % of all cache refs    
+
+      15.143192050 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,895,866,268      cache-references                                            
+     1,431,240,905      cache-misses              #   36.737 % of all cache refs    
+
+      16.173949499 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,509,705,528      cache-references                                            
+     2,267,515,909      cache-misses              #   34.833 % of all cache refs    
+
+      27.668123491 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,297,408,566      cache-references                                            
+     3,031,485,078      cache-misses              #   29.439 % of all cache refs    
+
+      19.307153837 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,795,519,349      cache-references                                            
+     2,096,665,663      cache-misses              #   30.854 % of all cache refs    
+
+      14.938469292 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,888,706,098      cache-references                                            
+     1,441,573,769      cache-misses              #   37.071 % of all cache refs    
+
+      16.228648033 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,488,032,914      cache-references                                            
+     2,259,144,850      cache-misses              #   34.820 % of all cache refs    
+
+      27.615411679 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,426,270,822      cache-references                                            
+     3,090,575,176      cache-misses              #   29.642 % of all cache refs    
+
+      20.033719100 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,711,958,120      cache-references                                            
+     2,049,924,719      cache-misses              #   30.541 % of all cache refs    
+
+      15.511372514 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,908,029,588      cache-references                                            
+     1,443,001,232      cache-misses              #   36.924 % of all cache refs    
+
+      16.363555741 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,460,133,091      cache-references                                            
+     2,262,821,042      cache-misses              #   35.027 % of all cache refs    
+
+      27.662404017 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,442,693,724      cache-references                                            
+     3,089,515,001      cache-misses              #   29.585 % of all cache refs    
+
+      20.006443001 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,684,389,012      cache-references                                            
+     2,213,080,649      cache-misses              #   33.108 % of all cache refs    
+
+      15.257580169 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,935,430,743      cache-references                                            
+     1,439,866,707      cache-misses              #   36.587 % of all cache refs    
+
+      16.243152308 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,475,718,065      cache-references                                            
+     2,263,507,239      cache-misses              #   34.954 % of all cache refs    
+
+      27.628631730 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,804,431,673      cache-references                                            
+     3,154,597,598      cache-misses              #   29.197 % of all cache refs    
+
+      22.590861772 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,766,820,339      cache-references                                            
+     2,031,459,098      cache-misses              #   30.021 % of all cache refs    
+
+      14.748552283 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,903,665,339      cache-references                                            
+     1,434,280,964      cache-misses              #   36.742 % of all cache refs    
+
+      16.228519107 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,510,024,883      cache-references                                            
+     2,264,020,308      cache-misses              #   34.777 % of all cache refs    
+
+      27.698206810 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,439,781,278      cache-references                                            
+     3,027,674,711      cache-misses              #   29.001 % of all cache refs    
+
+      19.326488101 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,711,672,917      cache-references                                            
+     1,785,527,128      cache-misses              #   26.603 % of all cache refs    
+
+      14.271336870 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,921,399,042      cache-references                                            
+     1,428,864,035      cache-misses              #   36.438 % of all cache refs    
+
+      16.218303496 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,492,002,696      cache-references                                            
+     2,271,437,197      cache-misses              #   34.988 % of all cache refs    
+
+      28.469660324 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,486,687,741      cache-references                                            
+     3,062,508,063      cache-misses              #   29.204 % of all cache refs    
+
+      19.947865731 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,776,373,491      cache-references                                            
+     2,255,881,693      cache-misses              #   33.290 % of all cache refs    
+
+      15.683865782 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,917,588,396      cache-references                                            
+     1,434,729,282      cache-misses              #   36.623 % of all cache refs    
+
+      16.368985159 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,544,953,340      cache-references                                            
+     2,259,407,112      cache-misses              #   34.521 % of all cache refs    
+
+      27.756265171 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,630,059,589      cache-references                                            
+     3,089,815,904      cache-misses              #   29.067 % of all cache refs    
+
+      20.603041862 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,761,742,508      cache-references                                            
+     2,065,065,499      cache-misses              #   30.540 % of all cache refs    
+
+      14.885541188 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,900,310,420      cache-references                                            
+     1,430,902,728      cache-misses              #   36.687 % of all cache refs    
+
+      16.178680488 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,494,004,265      cache-references                                            
+     2,249,985,186      cache-misses              #   34.647 % of all cache refs    
+
+      28.556034816 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,283,939,947      cache-references                                            
+     3,021,651,429      cache-misses              #   29.382 % of all cache refs    
+
+      19.251156581 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,793,964,655      cache-references                                            
+     2,338,170,612      cache-misses              #   34.415 % of all cache refs    
+
+      16.059690475 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,933,315,149      cache-references                                            
+     1,432,396,675      cache-misses              #   36.417 % of all cache refs    
+
+      16.230729901 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,497,276,996      cache-references                                            
+     2,268,413,173      cache-misses              #   34.913 % of all cache refs    
+
+      27.979897360 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,653,793,432      cache-references                                            
+     3,064,469,681      cache-misses              #   28.764 % of all cache refs    
+
+      20.039967357 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,752,988,436      cache-references                                            
+     1,660,696,495      cache-misses              #   24.592 % of all cache refs    
+
+      13.906187951 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,887,343,058      cache-references                                            
+     1,430,725,108      cache-misses              #   36.805 % of all cache refs    
+
+      16.172889919 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,511,707,053      cache-references                                            
+     2,255,267,123      cache-misses              #   34.634 % of all cache refs    
+
+      27.712962303 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,439,410,308      cache-references                                            
+     3,093,838,954      cache-misses              #   29.636 % of all cache refs    
+
+      20.013668657 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     7,012,188,937      cache-references                                            
+     1,939,870,700      cache-misses              #   27.664 % of all cache refs    
+
+      14.977637315 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,884,912,268      cache-references                                            
+     1,441,589,608      cache-misses              #   37.107 % of all cache refs    
+
+      16.219405445 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,486,527,304      cache-references                                            
+     2,262,700,678      cache-misses              #   34.883 % of all cache refs    
+
+      27.624719998 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,580,293,894      cache-references                                            
+     3,072,879,860      cache-misses              #   29.043 % of all cache refs    
+
+      19.976578303 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,764,863,234      cache-references                                            
+     2,135,635,264      cache-misses              #   31.570 % of all cache refs    
+
+      15.051880456 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,894,699,833      cache-references                                            
+     1,437,381,435      cache-misses              #   36.906 % of all cache refs    
+
+      16.217996290 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,527,936,300      cache-references                                            
+     2,253,054,894      cache-misses              #   34.514 % of all cache refs    
+
+      28.012676602 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,450,994,639      cache-references                                            
+     3,081,416,975      cache-misses              #   29.484 % of all cache refs    
+
+      20.003969694 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,788,521,901      cache-references                                            
+     2,135,585,284      cache-misses              #   31.459 % of all cache refs    
+
+      15.043557079 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,922,424,868      cache-references                                            
+     1,442,407,923      cache-misses              #   36.773 % of all cache refs    
+
+      16.326208907 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,673,689,576      cache-references                                            
+     2,256,928,889      cache-misses              #   33.818 % of all cache refs    
+
+      27.883566109 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,506,671,860      cache-references                                            
+     3,082,004,049      cache-misses              #   29.334 % of all cache refs    
+
+      20.022291060 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,757,484,248      cache-references                                            
+     1,687,547,734      cache-misses              #   24.973 % of all cache refs    
+
+      13.986994766 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,894,038,099      cache-references                                            
+     1,441,046,349      cache-misses              #   37.006 % of all cache refs    
+
+      16.572346005 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,530,118,338      cache-references                                            
+     2,255,380,460      cache-misses              #   34.538 % of all cache refs    
+
+      28.514278439 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,348,887,685      cache-references                                            
+     3,011,813,718      cache-misses              #   29.103 % of all cache refs    
+
+      19.287932630 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,755,538,445      cache-references                                            
+     2,053,895,692      cache-misses              #   30.403 % of all cache refs    
+
+      14.800799324 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,894,366,825      cache-references                                            
+     1,432,092,168      cache-misses              #   36.773 % of all cache refs    
+
+      16.177035091 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,498,306,083      cache-references                                            
+     2,256,701,027      cache-misses              #   34.728 % of all cache refs    
+
+      27.622792057 seconds time elapsed
+
+Pull-Topo
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Topo -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+    10,544,751,540      cache-references                                            
+     3,057,401,145      cache-misses              #   28.995 % of all cache refs    
+
+      19.961539176 seconds time elapsed
+
+Pull-Residual
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-pull -algo=Residual -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,935,363,567      cache-references                                            
+     1,981,345,586      cache-misses              #   28.569 % of all cache refs    
+
+      15.049061958 seconds time elapsed
+
+Push-Async
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Async -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     3,917,802,807      cache-references                                            
+     1,427,388,107      cache-misses              #   36.433 % of all cache refs    
+
+      16.170703049 seconds time elapsed
+
+Push-Sync
+
+ Performance counter stats for '/mnt/Graph-MetaStudy/Graph-Benchmarks-Metastudy/Galois/build/lonestar/pagerank/pagerank-push -algo=Sync -tolerance=0.01 ../datasets/soc-livejournal/soc-LiveJournal1-degree_nz.gr':
+
+     6,518,380,048      cache-references                                            
+     2,260,657,410      cache-misses              #   34.681 % of all cache refs    
+
+      27.977053971 seconds time elapsed
+
